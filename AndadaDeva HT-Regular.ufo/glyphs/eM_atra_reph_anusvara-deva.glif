@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="evowelsigndeva_uni0930094D_anus" format="1">
+  <advance width="521"/>
+  <outline>
+    <component base="evowelsigndeva_uni0930094D"/>
+    <component base="anusvaradeva" xOffset="372" yOffset="-43"/>
+    <contour>
+      <point x="332" y="599" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>

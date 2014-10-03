@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0921094D_ddadeva" format="1">
+  <advance width="571"/>
+  <outline>
+    <contour>
+      <point x="-20" y="599" type="line"/>
+      <point x="-30" y="589" type="line"/>
+      <point x="-15" y="529" type="line"/>
+      <point x="591" y="529" type="line"/>
+      <point x="601" y="539" type="line"/>
+      <point x="586" y="599" type="line"/>
+    </contour>
+    <component base="dd_compo" xOffset="30" yOffset="-382"/>
+    <component base="dd_compo" xOffset="30"/>
+    <contour>
+      <point x="399" y="599" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="340" y="-258" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

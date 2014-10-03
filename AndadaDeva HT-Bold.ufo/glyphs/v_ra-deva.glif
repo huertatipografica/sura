@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0935094D_radeva" format="1">
+  <advance width="593"/>
+  <note>
+    dVRa
+  </note>
+  <outline>
+    <component base="uni0935094D0930094D"/>
+    <component base="uni093E" xOffset="302"/>
+    <contour>
+      <point x="450" y="641" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="450" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

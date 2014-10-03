@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0939094D_radeva" format="1">
+  <advance width="624"/>
+  <outline>
+    <contour>
+      <point x="474" y="220" type="line"/>
+      <point x="402" y="157"/>
+      <point x="317" y="94"/>
+      <point x="232" y="37" type="curve"/>
+      <point x="314" y="-36" type="line"/>
+      <point x="522" y="156" type="line"/>
+    </contour>
+    <component base="h_compo-deva"/>
+    <contour>
+      <point x="420" y="641" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="338" y="-176" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

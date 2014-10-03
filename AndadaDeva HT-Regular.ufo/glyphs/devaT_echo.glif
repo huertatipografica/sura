@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="devaTecho" format="1">
+  <advance width="274"/>
+  <outline>
+    <contour>
+      <point x="-10" y="599" type="line"/>
+      <point x="-20" y="589" type="line"/>
+      <point x="-5" y="529" type="line"/>
+      <point x="284" y="529" type="line"/>
+      <point x="294" y="539" type="line"/>
+      <point x="279" y="599" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>0</integer>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

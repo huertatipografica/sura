@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0904" format="1">
+  <advance width="823"/>
+  <unicode hex="0904"/>
+  <outline>
+    <component base="adeva"/>
+    <component base="eshortvowelsigndeva" xOffset="221"/>
+    <contour>
+      <point x="423" y="646" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="423" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

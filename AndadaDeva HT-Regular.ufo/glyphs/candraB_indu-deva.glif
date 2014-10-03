@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="candrabindudeva" format="1">
+  <advance width="355"/>
+  <unicode hex="0901"/>
+  <outline>
+    <component base="anusvaradeva" xOffset="102" yOffset="67"/>
+    <component base="ecandravowelsigndeva"/>
+    <contour>
+      <point x="177" y="846" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="177" y="599" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>

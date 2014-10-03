@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ovowelsigndeva" format="1">
+  <advance width="288"/>
+  <unicode hex="094B"/>
+  <outline>
+    <component base="uni093E"/>
+    <component base="evowelsigndeva" xOffset="-188"/>
+    <contour>
+      <point x="147" y="599" type="move" name="imatra"/>
+    </contour>
+    <contour>
+      <point x="237" y="683" type="move" name="top"/>
+    </contour>
+  </outline>
+</glyph>

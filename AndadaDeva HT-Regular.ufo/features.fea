@@ -1,0 +1,46 @@
+# Prefix: Languagesystems
+# automatic
+languagesystem DFLT dflt;
+languagesystem dev2 dflt;
+languagesystem grek dflt;
+languagesystem latn dflt;
+
+# automatic
+@Uppercase = [ A AE B C Ccedilla D E Eth F G H I J K L M N O OE Oslash P Q R S T Thorn U V W X Y Z ];
+
+feature aalt {
+# automatic
+feature ccmp;
+feature ordn;
+feature nukt;
+feature akhn;
+feature rkrf;
+feature half;
+} aalt;
+
+feature ccmp {
+# automatic
+sub eMatra-deva anusvara-deva by eMatra_anusvara-deva;
+sub eMatra-deva reph-deva by eMatra_reph-deva;
+sub eMatra-deva reph-deva anusvara-deva by eMatra_reph_anusvara-deva;
+sub aiMatra-deva reph-deva by aiMatra_reph-deva;
+sub aiMatra-deva reph-deva anusvara-deva by aiMatra_reph_anusvara-deva;
+sub reph-deva anusvara-deva by reph_anusvara-deva;
+} ccmp;
+
+feature ordn {
+# automatic
+sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;
+sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;
+} ordn;
+
+feature cpsp {
+# automatic
+pos @Uppercase <5 0 10 0>;
+} cpsp;
+
+feature nukt {
+# automatic
+sub ra-deva nukta-deva by rra-deva;
+} nukt;
+
