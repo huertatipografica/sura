@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rakardeva_uvowelsigndeva" format="1">
+  <advance width="434"/>
+  <outline>
+    <contour>
+      <point x="174" y="-16" type="line"/>
+      <point x="277" y="-70"/>
+      <point x="328" y="-114"/>
+      <point x="391" y="-160" type="curve"/>
+      <point x="424" y="-112" type="line"/>
+      <point x="228" y="26" type="line"/>
+    </contour>
+    <contour>
+      <point x="70" y="-156" type="line"/>
+      <point x="265" y="-13" type="line"/>
+      <point x="228" y="26" type="line"/>
+      <point x="195" y="26" type="line"/>
+      <point x="147" y="-17"/>
+      <point x="102" y="-53"/>
+      <point x="22" y="-98" type="curve"/>
+    </contour>
+    <component base="uvowelsigndeva" xOffset="-20" yOffset="-117"/>
+    <contour>
+      <point x="217" y="0" type="move" name="_bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>0</integer>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

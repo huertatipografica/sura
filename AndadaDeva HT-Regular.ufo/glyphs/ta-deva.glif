@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tadeva" format="1">
-  <advance width="600"/>
+  <advance width="561"/>
   <unicode hex="0924"/>
   <outline>
+    <component base="uni0924094D"/>
+    <component base="uni093E" xOffset="293"/>
+    <contour>
+      <point x="427" y="599" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="427" y="0" type="move" name="bottom"/>
+    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>6</integer>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
 </glyph>

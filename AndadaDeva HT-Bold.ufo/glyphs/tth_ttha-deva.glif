@@ -3,15 +3,15 @@
   <advance width="617"/>
   <outline>
     <contour>
-      <point x="-30" y="616" type="line"/>
+      <point x="-20" y="641" type="line"/>
+      <point x="-30" y="611" type="line"/>
       <point x="-5" y="536" type="line"/>
       <point x="637" y="536" type="line"/>
       <point x="647" y="566" type="line"/>
-      <point x="622" y="646" type="line"/>
-      <point x="-20" y="646" type="line"/>
+      <point x="622" y="641" type="line"/>
     </contour>
-    <component base="tth_compo" xOffset="-5"/>
-    <component base="tth_compo" xOffset="-5" yOffset="-396"/>
+    <component base="tthadeva.small" xOffset="-5"/>
+    <component base="tthadeva.small" xOffset="-5" yOffset="-396"/>
     <contour>
       <point x="396" y="646" type="move" name="top"/>
     </contour>
@@ -19,4 +19,12 @@
       <point x="309" y="-297" type="move" name="bottom"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>6</integer>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
 </glyph>

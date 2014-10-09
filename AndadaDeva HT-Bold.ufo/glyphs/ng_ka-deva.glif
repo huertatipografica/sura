@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0919094D_kadeva" format="1">
+  <advance width="651"/>
+  <outline>
+    <contour>
+      <point x="-20" y="641" type="line"/>
+      <point x="-30" y="611" type="line"/>
+      <point x="-5" y="536" type="line"/>
+      <point x="671" y="536" type="line"/>
+      <point x="681" y="566" type="line"/>
+      <point x="656" y="641" type="line"/>
+    </contour>
+    <component base="ddadeva.small" xOffset="32"/>
+    <component base="nuktadeva" xOffset="487" yOffset="526"/>
+    <component base="kadeva.small" xOffset="1" yOffset="-396"/>
+    <contour>
+      <point x="397" y="641" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="313" y="-217" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>6</integer>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

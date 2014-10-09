@@ -50,10 +50,21 @@
     </contour>
     <component base="radeva"/>
     <contour>
-      <point x="744" y="641" type="move" name="top"/>
+      <point x="87" y="0" type="move" name="nukta"/>
     </contour>
     <contour>
       <point x="744" y="0" type="move" name="bottom"/>
     </contour>
+    <contour>
+      <point x="744" y="641" type="move" name="top"/>
+    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>6</integer>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
 </glyph>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="padeva" format="1">
-  <advance width="564"/>
+  <advance width="544"/>
   <unicode hex="092A"/>
   <outline>
     <component base="uni092A094D"/>
@@ -9,10 +9,10 @@
       <point x="138" y="0" type="move" name="nukta"/>
     </contour>
     <contour>
-      <point x="419" y="0" type="move" name="bottom"/>
+      <point x="410" y="0" type="move" name="bottom"/>
     </contour>
     <contour>
-      <point x="419" y="599" type="move" name="top"/>
+      <point x="410" y="599" type="move" name="top"/>
     </contour>
   </outline>
 </glyph>

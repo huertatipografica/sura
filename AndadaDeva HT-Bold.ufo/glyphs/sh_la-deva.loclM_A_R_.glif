@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0936094D0932.loclMAR" format="1">
+  <advance width="1194"/>
+  <outline>
+    <component base="uni0936094D.ss02"/>
+    <component base="uni0932.loclMAR" xOffset="445"/>
+    <contour>
+      <point x="960" y="641" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="843" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>6</integer>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

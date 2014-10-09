@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0918094D0932" format="1">
+  <advance width="674"/>
+  <outline>
+    <contour>
+      <point x="75" y="558"/>
+      <point x="60" y="531"/>
+      <point x="60" y="494" type="curve" smooth="yes"/>
+      <point x="60" y="434"/>
+      <point x="122" y="391"/>
+      <point x="236" y="366" type="curve"/>
+      <point x="253" y="393" type="line"/>
+      <point x="207" y="423"/>
+      <point x="181" y="458"/>
+      <point x="181" y="491" type="curve" smooth="yes"/>
+      <point x="181" y="519"/>
+      <point x="206" y="541"/>
+      <point x="248" y="556" type="curve"/>
+      <point x="107" y="586" type="line"/>
+    </contour>
+    <contour>
+      <point x="473" y="365" type="line"/>
+      <point x="433" y="282"/>
+      <point x="345" y="215"/>
+      <point x="243" y="215" type="curve" smooth="yes"/>
+      <point x="204" y="215"/>
+      <point x="179" y="231"/>
+      <point x="179" y="256" type="curve" smooth="yes"/>
+      <point x="179" y="300"/>
+      <point x="227" y="329"/>
+      <point x="328" y="338" type="curve"/>
+      <point x="348" y="369" type="line"/>
+      <point x="313" y="453" type="line"/>
+      <point x="147" y="437"/>
+      <point x="56" y="376"/>
+      <point x="56" y="276" type="curve" smooth="yes"/>
+      <point x="56" y="192"/>
+      <point x="146" y="133"/>
+      <point x="281" y="133" type="curve" smooth="yes"/>
+      <point x="390" y="133"/>
+      <point x="481" y="174"/>
+      <point x="544" y="245" type="curve"/>
+    </contour>
+    <contour>
+      <point x="470" y="560" type="line"/>
+      <point x="470" y="51" type="line"/>
+      <point x="584" y="50" type="line"/>
+      <point x="584" y="560" type="line"/>
+    </contour>
+    <contour>
+      <point x="679" y="641" type="line"/>
+      <point x="-20" y="641" type="line"/>
+      <point x="-30" y="611" type="line"/>
+      <point x="-5" y="536" type="line"/>
+      <point x="691" y="536" type="line"/>
+      <point x="704" y="566" type="line"/>
+    </contour>
+    <component base="uni0932.small" xOffset="4" yOffset="-396"/>
+    <contour>
+      <point x="529" y="641" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="355" y="-244" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>6</integer>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

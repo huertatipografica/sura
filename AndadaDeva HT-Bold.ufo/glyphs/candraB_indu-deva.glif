@@ -4,7 +4,7 @@
   <unicode hex="0901"/>
   <outline>
     <component base="ecandravowelsigndeva"/>
-    <component base="anusvaradeva" xOffset="111" yOffset="99"/>
+    <component base="anusvaradeva" xOffset="111" yOffset="119"/>
     <contour>
       <point x="200" y="897" type="move" name="top"/>
     </contour>

@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0975" format="1">
-  <advance width="1065"/>
+  <advance width="1025"/>
   <unicode hex="0975"/>
   <outline>
     <component base="adeva"/>
-    <component base="uni094F" xOffset="777"/>
+    <component base="uni094F" xOffset="757"/>
     <contour>
       <point x="636" y="0" type="move" name="botton"/>
     </contour>
     <contour>
-      <point x="638" y="599" type="move" name="top"/>
+      <point x="891" y="599" type="move" name="top"/>
     </contour>
   </outline>
 </glyph>

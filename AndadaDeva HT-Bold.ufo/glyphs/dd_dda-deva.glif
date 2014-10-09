@@ -6,12 +6,12 @@
       <point x="-20" y="641" type="line"/>
       <point x="-30" y="611" type="line"/>
       <point x="-5" y="536" type="line"/>
-      <point x="606" y="536" type="line"/>
-      <point x="616" y="566" type="line"/>
-      <point x="591" y="641" type="line"/>
+      <point x="591" y="536" type="line"/>
+      <point x="601" y="566" type="line"/>
+      <point x="576" y="641" type="line"/>
     </contour>
-    <component base="dd_compo" xOffset="25" yOffset="-404"/>
-    <component base="dd_compo" xOffset="25"/>
+    <component base="ddadeva.small" xOffset="25" yOffset="-404"/>
+    <component base="ddadeva.small" xOffset="25"/>
     <contour>
       <point x="390" y="641" type="move" name="top"/>
     </contour>
@@ -19,4 +19,12 @@
       <point x="322" y="-297" type="move" name="bottom"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>6</integer>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
 </glyph>

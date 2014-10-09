@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0900" format="1">
+  <advance width="423"/>
+  <unicode hex="0900"/>
+  <outline>
+    <component base="ecandravowelsigndeva" xOffset="423" yOffset="1593" xScale="-1" yScale="-1"/>
+    <component base="anusvaradeva" xOffset="150" yOffset="-11"/>
+    <contour>
+      <point x="223" y="902" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="223" y="641" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>0</integer>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

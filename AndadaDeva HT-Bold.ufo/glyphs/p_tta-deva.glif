@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni092A094D_ttadeva" format="1">
+  <advance width="588"/>
+  <outline>
+    <contour>
+      <point x="588" y="641" type="line"/>
+      <point x="-20" y="641" type="line"/>
+      <point x="-30" y="611" type="line"/>
+      <point x="-5" y="536" type="line"/>
+      <point x="600" y="536" type="line"/>
+      <point x="613" y="566" type="line"/>
+    </contour>
+    <component base="padeva.small"/>
+    <component base="ttadeva.small" xOffset="22" yOffset="-216"/>
+    <contour>
+      <point x="440" y="641" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="321" y="-111" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>6</integer>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

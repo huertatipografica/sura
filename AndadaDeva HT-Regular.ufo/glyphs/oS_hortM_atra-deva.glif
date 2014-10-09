@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni094A" format="1">
-  <advance width="288"/>
+  <advance width="268"/>
   <unicode hex="094A"/>
   <outline>
     <component base="uni093E"/>
-    <component base="eshortvowelsigndeva" xOffset="-197"/>
+    <component base="eshortvowelsigndeva" xOffset="-207"/>
   </outline>
 </glyph>

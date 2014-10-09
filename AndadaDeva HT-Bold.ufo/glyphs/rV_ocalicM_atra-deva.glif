@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rvocalicvowelsigndeva" format="1">
+  <advance width="338"/>
+  <unicode hex="0943"/>
+  <outline>
+    <contour>
+      <point x="172" y="65" type="line"/>
+      <point x="102" y="18"/>
+      <point x="15" y="-49"/>
+      <point x="15" y="-143" type="curve"/>
+      <point x="15" y="-215"/>
+      <point x="110" y="-276"/>
+      <point x="188" y="-276" type="curve"/>
+      <point x="239" y="-276"/>
+      <point x="285" y="-254"/>
+      <point x="328" y="-205" type="curve"/>
+      <point x="256" y="-142" type="line"/>
+      <point x="210" y="-197"/>
+      <point x="190" y="-210"/>
+      <point x="160" y="-210" type="curve"/>
+      <point x="131" y="-210"/>
+      <point x="112" y="-194"/>
+      <point x="112" y="-172" type="curve"/>
+      <point x="112" y="-112"/>
+      <point x="189" y="-65"/>
+      <point x="258" y="-15" type="curve"/>
+    </contour>
+    <contour>
+      <point x="172" y="0" type="move" name="_bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>0</integer>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

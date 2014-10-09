@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="adeva" format="1">
-  <advance width="777"/>
+  <advance width="757"/>
   <unicode hex="0905"/>
   <outline>
     <contour>
@@ -67,10 +67,10 @@
     </contour>
     <component base="uni093E" xOffset="489"/>
     <contour>
-      <point x="636" y="599" type="move" name="top"/>
+      <point x="623" y="599" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="636" y="0" type="move" name="bottom"/>
+      <point x="623" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
 </glyph>

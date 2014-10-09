@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0916094D_radeva" format="1">
+  <advance width="834"/>
+  <outline>
+    <contour>
+      <point x="381" y="420"/>
+      <point x="322" y="373"/>
+      <point x="322" y="283" type="curve" smooth="yes"/>
+      <point x="322" y="194"/>
+      <point x="403" y="122"/>
+      <point x="504" y="122" type="curve" smooth="yes"/>
+      <point x="572" y="122"/>
+      <point x="632" y="147"/>
+      <point x="682" y="194" type="curve"/>
+      <point x="641" y="278" type="line"/>
+      <point x="601" y="216"/>
+      <point x="550" y="184"/>
+      <point x="489" y="184" type="curve" smooth="yes"/>
+      <point x="438" y="184"/>
+      <point x="406" y="213"/>
+      <point x="406" y="260" type="curve" smooth="yes"/>
+      <point x="406" y="321"/>
+      <point x="450" y="360"/>
+      <point x="516" y="360" type="curve" smooth="yes"/>
+      <point x="561" y="360"/>
+      <point x="623" y="337"/>
+      <point x="669" y="305" type="curve"/>
+      <point x="691" y="343" type="line"/>
+      <point x="623" y="393"/>
+      <point x="554" y="420"/>
+      <point x="491" y="420" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="640" y="561" type="line"/>
+      <point x="640" y="137" type="line"/>
+      <point x="632" y="-25" type="line"/>
+      <point x="710" y="-40" type="line"/>
+      <point x="728" y="-25" type="line"/>
+      <point x="720" y="167" type="line"/>
+      <point x="720" y="561" type="line"/>
+    </contour>
+    <contour>
+      <point x="839" y="599" type="line"/>
+      <point x="237" y="599" type="line"/>
+      <point x="227" y="589" type="line"/>
+      <point x="242" y="529" type="line"/>
+      <point x="844" y="529" type="line"/>
+      <point x="854" y="539" type="line"/>
+    </contour>
+    <contour>
+      <point x="696" y="184" type="line"/>
+      <point x="653" y="225" type="line"/>
+      <point x="583" y="163"/>
+      <point x="514" y="110"/>
+      <point x="386" y="21" type="curve"/>
+      <point x="436" y="-32" type="line"/>
+    </contour>
+    <component base="radeva"/>
+    <contour>
+      <point x="97" y="0" type="move" name="nukta"/>
+    </contour>
+    <contour>
+      <point x="681" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="681" y="599" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>6</integer>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="aadeva" format="1">
-  <advance width="1065"/>
+  <advance width="1025"/>
   <unicode hex="0906"/>
   <outline>
     <component base="adeva"/>
-    <component base="uni093E" xOffset="777"/>
+    <component base="uni093E" xOffset="757"/>
   </outline>
   <lib>
     <dict>

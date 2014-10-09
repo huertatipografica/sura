@@ -1,18 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ngadeva" format="1">
-  <advance width="639"/>
+  <advance width="582"/>
   <unicode hex="0919"/>
   <outline>
-    <contour>
-      <point x="548" y="589" type="line"/>
-      <point x="563" y="529" type="line"/>
-      <point x="649" y="529" type="line"/>
-      <point x="659" y="539" type="line"/>
-      <point x="644" y="599" type="line"/>
-      <point x="558" y="599" type="line"/>
-    </contour>
     <component base="ddadeva"/>
-    <component base="nuktadeva" xOffset="456" yOffset="445"/>
+    <component base="nuktadeva" xOffset="465" yOffset="457"/>
     <contour>
       <point x="395" y="599" type="move" name="top"/>
     </contour>
@@ -20,4 +12,12 @@
       <point x="300" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
 </glyph>
