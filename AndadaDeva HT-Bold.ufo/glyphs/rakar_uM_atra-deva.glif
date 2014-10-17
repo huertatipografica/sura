@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="rakardeva_uvowelsigndeva" format="1">
+<glyph name="rakar_uMatra-deva" format="1">
   <advance width="496"/>
   <outline>
     <contour>
@@ -20,7 +20,7 @@
       <point x="486" y="-97" type="line"/>
       <point x="267" y="54" type="line"/>
     </contour>
-    <component base="uvowelsigndeva" xOffset="8" yOffset="-139"/>
+    <component base="uMatra-deva" xOffset="8" yOffset="-153"/>
     <contour>
       <point x="238" y="0" type="move" name="_bottom"/>
     </contour>

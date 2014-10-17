@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="nadeva" format="1">
+<glyph name="na-deva" format="1">
   <advance width="655"/>
   <unicode hex="0928"/>
   <outline>
-    <component base="uni0928094D"/>
-    <component base="uni093E" xOffset="364"/>
+    <component base="n-deva"/>
+    <component base="aaMatra-deva" xOffset="364"/>
     <contour>
       <point x="164" y="0" type="move" name="nukta"/>
     </contour>

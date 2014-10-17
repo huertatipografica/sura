@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni0922094D_ddhadeva" format="1">
+<glyph name="ddh_ddha-deva" format="1">
   <advance width="561"/>
   <outline>
     <contour>
+      <point x="576" y="599" type="line"/>
       <point x="-20" y="599" type="line"/>
       <point x="-30" y="589" type="line"/>
       <point x="-15" y="529" type="line"/>
       <point x="581" y="529" type="line"/>
       <point x="591" y="539" type="line"/>
-      <point x="576" y="599" type="line"/>
     </contour>
-    <component base="ddhadeva.small" xOffset="-2" yOffset="-382"/>
-    <component base="ddhadeva.small" xOffset="18"/>
+    <component base="ddha-deva.small" xOffset="-2" yOffset="-382"/>
+    <component base="ddha-deva.small" xOffset="18"/>
     <contour>
       <point x="387" y="599" type="move" name="top"/>
     </contour>

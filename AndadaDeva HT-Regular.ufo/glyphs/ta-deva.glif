@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="tadeva" format="1">
+<glyph name="ta-deva" format="1">
   <advance width="561"/>
   <unicode hex="0924"/>
   <outline>
-    <component base="uni0924094D"/>
-    <component base="uni093E" xOffset="293"/>
+    <component base="t-deva"/>
+    <component base="aaMatra-deva" xOffset="293"/>
     <contour>
       <point x="427" y="599" type="move" name="top"/>
     </contour>

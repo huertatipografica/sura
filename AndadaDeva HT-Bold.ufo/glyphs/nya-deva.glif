@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="nyadeva" format="1">
+<glyph name="nya-deva" format="1">
   <advance width="838"/>
   <unicode hex="091E"/>
   <outline>
-    <component base="uni091E094D"/>
-    <component base="uni093E" xOffset="547"/>
+    <component base="ny-deva"/>
+    <component base="aaMatra-deva" xOffset="547"/>
     <contour>
       <point x="687" y="641" type="move" name="top"/>
     </contour>

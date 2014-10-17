@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ecandravowelsigndeva" format="1">
+<glyph name="eCandraMatra-deva" format="1">
   <advance width="423"/>
   <unicode hex="0945"/>
   <outline>
     <contour>
-      <point x="20" y="799" type="line"/>
-      <point x="54" y="716"/>
-      <point x="132" y="671"/>
-      <point x="212" y="671" type="curve" smooth="yes"/>
-      <point x="292" y="671"/>
-      <point x="369" y="714"/>
-      <point x="403" y="797" type="curve"/>
-      <point x="298" y="836" type="line"/>
-      <point x="278" y="785"/>
-      <point x="244" y="762"/>
-      <point x="194" y="762" type="curve" smooth="yes"/>
-      <point x="144" y="762"/>
-      <point x="109" y="787"/>
-      <point x="89" y="838" type="curve"/>
+      <point x="23" y="799" type="line"/>
+      <point x="57" y="716"/>
+      <point x="135" y="671"/>
+      <point x="215" y="671" type="curve" smooth="yes"/>
+      <point x="295" y="671"/>
+      <point x="372" y="714"/>
+      <point x="406" y="797" type="curve"/>
+      <point x="295" y="836" type="line"/>
+      <point x="275" y="785"/>
+      <point x="241" y="762"/>
+      <point x="191" y="762" type="curve" smooth="yes"/>
+      <point x="141" y="762"/>
+      <point x="106" y="787"/>
+      <point x="86" y="838" type="curve"/>
     </contour>
     <contour>
       <point x="211" y="839" type="move" name="top"/>
@@ -26,4 +26,12 @@
       <point x="211" y="641" type="move" name="_top"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>0</integer>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
 </glyph>

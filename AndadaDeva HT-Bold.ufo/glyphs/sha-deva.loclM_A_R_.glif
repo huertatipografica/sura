@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="shadeva.loclMAR" format="1">
+<glyph name="sha-deva.loclMAR" format="1">
   <advance width="759"/>
   <outline>
-    <component base="uni093E" xOffset="468"/>
-    <component base="uni0936094D.loclMAR"/>
+    <component base="aaMatra-deva" xOffset="468"/>
+    <component base="sh-deva.loclMAR"/>
     <contour>
       <point x="177" y="-25" type="move" name="nukta"/>
     </contour>

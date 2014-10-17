@@ -42,8 +42,10 @@
 	<key>com.schriftgestaltung.fontMaster.userData</key>
 	<dict>
 		<key>GSOffsetHorizontal</key>
-		<string>-2</string>
+		<string>-1</string>
 		<key>GSOffsetMakeStroke</key>
+		<integer>1</integer>
+		<key>GSOffsetProportional</key>
 		<integer>1</integer>
 		<key>GSOffsetVertical</key>
 		<string>-2</string>
@@ -293,6 +295,7 @@
 		<string>ttha-deva.small</string>
 		<string>dda-deva.small</string>
 		<string>ddha-deva.small</string>
+		<string>da-deva.small</string>
 		<string>na-deva.small</string>
 		<string>pa-deva.small</string>
 		<string>ma-deva.small</string>
@@ -305,6 +308,7 @@
 		<string>k_ra-deva</string>
 		<string>k_la-deva</string>
 		<string>k_va-deva</string>
+		<string>k_ssa-deva</string>
 		<string>kh_ra-deva</string>
 		<string>g_na-deva</string>
 		<string>g_la-deva</string>
@@ -317,6 +321,7 @@
 		<string>c_ca-deva</string>
 		<string>c_la-deva</string>
 		<string>ch_va-deva</string>
+		<string>j_nya-deva</string>
 		<string>tt_tta-deva</string>
 		<string>tt_ttha-deva</string>
 		<string>tt_ddha-deva</string>
@@ -333,6 +338,16 @@
 		<string>ddh_na-deva</string>
 		<string>t_ra-deva</string>
 		<string>t_r_ya-deva</string>
+		<string>d_ga-deva</string>
+		<string>d_ga_uMatra-deva</string>
+		<string>d_g_ra-deva</string>
+		<string>d_gha-deva</string>
+		<string>d_gha_uMatra-deva</string>
+		<string>d_dha-deva</string>
+		<string>d_na-deva</string>
+		<string>d_ba-deva</string>
+		<string>d_ba_uMatra-deva</string>
+		<string>d_b_ra-deva</string>
 		<string>p_tta-deva</string>
 		<string>p_la-deva</string>
 		<string>ph_la-deva</string>
@@ -348,6 +363,7 @@
 		<string>h_va-deva</string>
 		<string>sh_la-deva.loclMAR</string>
 		<string>k_ra-deva.loclNEP</string>
+		<string>da-deva_sincola.small</string>
 		<string>aShort-deva</string>
 		<string>a-deva</string>
 		<string>aa-deva</string>
@@ -369,6 +385,7 @@
 		<string>ue-deva</string>
 		<string>uue-deva</string>
 		<string>k-deva</string>
+		<string>k_ss-deva</string>
 		<string>g-deva</string>
 		<string>gh-deva</string>
 		<string>c-deva</string>
@@ -415,7 +432,22 @@
 		<string>awMatra-deva</string>
 		<string>sh-deva.loclMAR</string>
 		<string>sh-deva.ss02</string>
+		<string>zero-deva</string>
+		<string>one-deva</string>
+		<string>two-deva</string>
+		<string>three-deva</string>
+		<string>four-deva</string>
+		<string>five-deva</string>
+		<string>six-deva</string>
+		<string>seven-deva</string>
+		<string>eight-deva</string>
+		<string>nine-deva</string>
+		<string>abbreviation-deva</string>
 		<string>.notdef</string>
+		<string>dottedCircle</string>
+		<string>rightFacingSvasti</string>
+		<string>avagraha-deva</string>
+		<string>om-deva</string>
 		<string>visarga-deva</string>
 		<string>uMatra-deva</string>
 		<string>uuMatra-deva</string>
@@ -447,6 +479,10 @@
 		<string>oeMatra-deva</string>
 		<string>ueMatra-deva</string>
 		<string>uueMatra-deva</string>
+		<string>udatta-deva</string>
+		<string>anudatta-deva</string>
+		<string>grave-deva</string>
+		<string>acute-deva</string>
 		<string>devaTecho</string>
 		<string>devaHeight</string>
 		<string>uniA78C</string>

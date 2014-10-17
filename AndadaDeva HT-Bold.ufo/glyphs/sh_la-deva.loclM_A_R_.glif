@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni0936094D0932.loclMAR" format="1">
+<glyph name="sh_la-deva.loclMAR" format="1">
   <advance width="1194"/>
   <outline>
-    <component base="uni0936094D.ss02"/>
-    <component base="uni0932.loclMAR" xOffset="445"/>
+    <component base="sh-deva.ss02"/>
+    <component base="la-deva.loclMAR" xOffset="445"/>
     <contour>
       <point x="960" y="641" type="move" name="top"/>
     </contour>

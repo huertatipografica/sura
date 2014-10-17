@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni0919094D_gadeva" format="1">
+<glyph name="ng_ga-deva" format="1">
   <advance width="642"/>
   <outline>
     <contour>
+      <point x="657" y="599" type="line"/>
       <point x="-20" y="599" type="line"/>
       <point x="-30" y="589" type="line"/>
       <point x="-15" y="529" type="line"/>
       <point x="662" y="529" type="line"/>
       <point x="672" y="539" type="line"/>
-      <point x="657" y="599" type="line"/>
     </contour>
-    <component base="ddadeva.small" xOffset="26"/>
-    <component base="nuktadeva" xOffset="461" yOffset="535"/>
-    <component base="gadeva.small" xOffset="53" yOffset="-378"/>
+    <component base="dda-deva.small" xOffset="26"/>
+    <component base="nukta-deva" xOffset="461" yOffset="535"/>
+    <component base="ga-deva.small" xOffset="53" yOffset="-378"/>
     <contour>
       <point x="395" y="599" type="move" name="top"/>
     </contour>

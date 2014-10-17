@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="adeva" format="1">
+<glyph name="a-deva" format="1">
   <advance width="823"/>
   <unicode hex="0905"/>
   <outline>
@@ -65,7 +65,7 @@
       <point x="433" y="325"/>
       <point x="369" y="346" type="curve"/>
     </contour>
-    <component base="uni093E" xOffset="526"/>
+    <component base="aaMatra-deva" xOffset="526"/>
     <contour>
       <point x="679" y="641" type="move" name="top"/>
     </contour>

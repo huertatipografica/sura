@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni0923094D" format="1">
+<glyph name="nn-deva" format="1">
   <advance width="438"/>
   <outline>
+    <contour>
+      <point x="501" y="539" type="line"/>
+      <point x="486" y="599" type="line"/>
+      <point x="-20" y="599" type="line"/>
+      <point x="-30" y="589" type="line"/>
+      <point x="-15" y="529" type="line"/>
+      <point x="73" y="529" type="line"/>
+      <point x="72" y="311" type="line" smooth="yes"/>
+      <point x="72" y="213"/>
+      <point x="140" y="137"/>
+      <point x="240" y="137" type="curve" smooth="yes"/>
+      <point x="340" y="137"/>
+      <point x="397" y="196"/>
+      <point x="397" y="302" type="curve"/>
+      <point x="396" y="529" type="line"/>
+      <point x="491" y="529" type="line"/>
+    </contour>
     <contour>
       <point x="317" y="311" type="line" smooth="yes"/>
       <point x="317" y="246"/>
@@ -10,25 +27,8 @@
       <point x="178" y="202"/>
       <point x="152" y="227"/>
       <point x="152" y="292" type="curve" smooth="yes"/>
-      <point x="153" y="557" type="line"/>
-      <point x="73" y="565" type="line"/>
-      <point x="72" y="311" type="line" smooth="yes"/>
-      <point x="72" y="213"/>
-      <point x="140" y="137"/>
-      <point x="240" y="137" type="curve" smooth="yes"/>
-      <point x="340" y="137"/>
-      <point x="397" y="196"/>
-      <point x="397" y="302" type="curve"/>
-      <point x="396" y="563" type="line"/>
-      <point x="316" y="572" type="line"/>
-    </contour>
-    <contour>
-      <point x="-20" y="599" type="line"/>
-      <point x="-30" y="589" type="line"/>
-      <point x="-15" y="529" type="line"/>
-      <point x="491" y="529" type="line"/>
-      <point x="501" y="539" type="line"/>
-      <point x="486" y="599" type="line"/>
+      <point x="153" y="529" type="line"/>
+      <point x="316" y="529" type="line"/>
     </contour>
   </outline>
   <lib>

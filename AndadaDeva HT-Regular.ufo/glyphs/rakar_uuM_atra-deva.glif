@@ -1,25 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="rakardeva_uuvowelsigndeva" format="1">
+<glyph name="rakar_uuMatra-deva" format="1">
   <advance width="431"/>
   <outline>
     <contour>
-      <point x="193" y="26" type="line"/>
-      <point x="143" y="-19"/>
-      <point x="97" y="-56"/>
-      <point x="10" y="-103" type="curve"/>
-      <point x="57" y="-164" type="line"/>
-      <point x="263" y="-13" type="line"/>
+      <point x="415" y="-122" type="line"/>
       <point x="226" y="26" type="line"/>
+      <point x="193" y="28" type="line"/>
+      <point x="140" y="-13"/>
+      <point x="91" y="-47"/>
+      <point x="1" y="-88" type="curve"/>
+      <point x="44" y="-152" type="line"/>
+      <point x="217" y="-42" type="line"/>
+      <point x="287" y="-88"/>
+      <point x="329" y="-127"/>
+      <point x="379" y="-168" type="curve"/>
     </contour>
-    <contour>
-      <point x="172" y="-16" type="line"/>
-      <point x="275" y="-70"/>
-      <point x="326" y="-114"/>
-      <point x="389" y="-160" type="curve"/>
-      <point x="422" y="-112" type="line"/>
-      <point x="226" y="26" type="line"/>
-    </contour>
-    <component base="uuvowelsigndeva" xOffset="76" yOffset="-124"/>
+    <component base="uuMatra-deva" xOffset="51" yOffset="-128"/>
     <contour>
       <point x="215" y="0" type="move" name="_bottom"/>
     </contour>

@@ -55,6 +55,7 @@ feature locl {
 # automatic
 script dev2;
 language MAR;
+sub la-deva by la-deva.loclMAR;
 sub sha-deva by sha-deva.loclMAR;
 sub sh-deva by sh-deva.loclMAR;
 } locl;
@@ -113,6 +114,8 @@ sub ha-deva halant-deva ra-deva by h_ra-deva;
 feature half {
 # automatic
 sub ka-deva halant-deva by k-deva;
+sub k_ssa-deva halant-deva by k_ss-deva;
+sub k-deva ss-deva by k_ss-deva;
 sub ga-deva halant-deva by g-deva;
 sub gha-deva halant-deva by gh-deva;
 sub ca-deva halant-deva by c-deva;
@@ -148,12 +151,14 @@ sub k-deva ka-deva by k_ka-deva;
 sub k-deva ta-deva by k_ta-deva;
 sub k-deva la-deva by k_la-deva;
 sub k-deva va-deva by k_va-deva;
+sub k-deva ssa-deva by k_ssa-deva;
 sub g-deva na-deva by g_na-deva;
 sub g-deva la-deva by g_la-deva;
 sub gh-deva la-deva by gh_la-deva;
 sub c-deva ca-deva by c_ca-deva;
 sub c-deva la-deva by c_la-deva;
 sub ch-deva va-deva by ch_va-deva;
+sub j-deva nya-deva by j_nya-deva;
 sub p-deva tta-deva by p_tta-deva;
 sub p-deva la-deva by p_la-deva;
 sub b-deva la-deva by b_la-deva;

@@ -1,17 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni0955" format="1">
+<glyph name="eLongCandra-deva" format="1">
   <advance width="375"/>
   <unicode hex="0955"/>
   <outline>
-    <contour>
-      <point x="20" y="680" type="line"/>
-      <point x="33" y="628" type="line"/>
-      <point x="345" y="628" type="line"/>
-      <point x="355" y="638" type="line"/>
-      <point x="342" y="690" type="line"/>
-      <point x="30" y="690" type="line"/>
-    </contour>
-    <component base="ecandravowelsigndeva" xOffset="15" yOffset="67"/>
+    <component base="eCandraMatra-deva" xOffset="15" yOffset="67"/>
+    <component base="anudatta-deva" xOffset="10" yOffset="757"/>
     <contour>
       <point x="187" y="599" type="move" name="_top"/>
     </contour>

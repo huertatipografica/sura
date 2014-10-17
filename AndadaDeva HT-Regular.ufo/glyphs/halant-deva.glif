@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="viramadeva" format="1">
+<glyph name="halant-deva" format="1">
   <advance width="332"/>
   <unicode hex="094D"/>
   <outline>
     <contour>
+      <point x="10" y="-116" type="line"/>
       <point x="21" y="-136" type="line"/>
       <point x="142" y="-161"/>
       <point x="210" y="-194"/>
@@ -12,7 +13,6 @@
       <point x="251" y="-154"/>
       <point x="167" y="-100"/>
       <point x="42" y="-63" type="curve"/>
-      <point x="10" y="-116" type="line"/>
     </contour>
     <contour>
       <point x="89" y="0" type="move" name="_bottom"/>

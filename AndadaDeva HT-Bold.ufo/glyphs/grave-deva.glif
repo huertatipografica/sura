@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="grave-deva" format="1">
+  <advance width="268"/>
+  <unicode hex="0953"/>
+  <outline>
+    <contour>
+      <point x="98" y="961" type="line"/>
+      <point x="258" y="728" type="line"/>
+      <point x="192" y="687" type="line"/>
+      <point x="113" y="795" type="line"/>
+      <point x="10" y="903" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>0</integer>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>
