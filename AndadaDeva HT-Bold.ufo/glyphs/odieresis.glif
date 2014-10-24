@@ -3,7 +3,47 @@
   <advance width="544"/>
   <unicode hex="00F6"/>
   <outline>
-    <component base="o"/>
-    <component base="dieresis" xOffset="-180" yOffset="-494"/>
+    <contour>
+      <point x="113" y="503"/>
+      <point x="25" y="411"/>
+      <point x="25" y="244" type="curve" smooth="yes"/>
+      <point x="25" y="78"/>
+      <point x="113" y="-15"/>
+      <point x="272" y="-15" type="curve" smooth="yes"/>
+      <point x="431" y="-15"/>
+      <point x="519" y="78"/>
+      <point x="519" y="244" type="curve" smooth="yes"/>
+      <point x="519" y="411"/>
+      <point x="431" y="503"/>
+      <point x="272" y="503" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="210" y="70"/>
+      <point x="184" y="121"/>
+      <point x="184" y="244" type="curve" smooth="yes"/>
+      <point x="184" y="367"/>
+      <point x="210" y="418"/>
+      <point x="272" y="418" type="curve" smooth="yes"/>
+      <point x="334" y="418"/>
+      <point x="360" y="367"/>
+      <point x="360" y="244" type="curve" smooth="yes"/>
+      <point x="360" y="121"/>
+      <point x="334" y="70"/>
+      <point x="272" y="70" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="-162" y="231"/>
+      <point x="-186" y="202"/>
+      <point x="-186" y="161" type="curve" smooth="yes"/>
+      <point x="-186" y="120"/>
+      <point x="-162" y="92"/>
+      <point x="-118" y="92" type="curve" smooth="yes"/>
+      <point x="-74" y="92"/>
+      <point x="-51" y="120"/>
+      <point x="-51" y="161" type="curve" smooth="yes"/>
+      <point x="-51" y="205"/>
+      <point x="-76" y="231"/>
+      <point x="-118" y="231" type="curve" smooth="yes"/>
+    </contour>
   </outline>
 </glyph>

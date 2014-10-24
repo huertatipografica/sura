@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rakardeva_uvowelsigndeva" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="84" y="-163" type="line"/>
+      <point x="259" y="-35" type="line"/>
+      <point x="337" y="-81"/>
+      <point x="385" y="-121"/>
+      <point x="440" y="-163" type="curve"/>
+      <point x="486" y="-97" type="line"/>
+      <point x="267" y="54" type="line"/>
+      <point x="195" y="54" type="line"/>
+      <point x="146" y="8"/>
+      <point x="99" y="-22"/>
+      <point x="10" y="-69" type="curve"/>
+    </contour>
+    <contour>
+      <point x="225" y="-132"/>
+      <point x="185" y="-144"/>
+      <point x="143" y="-172" type="curve"/>
+      <point x="207" y="-259" type="line"/>
+      <point x="249" y="-227"/>
+      <point x="284" y="-216"/>
+      <point x="314" y="-216" type="curve" smooth="yes"/>
+      <point x="343" y="-216"/>
+      <point x="363" y="-233"/>
+      <point x="363" y="-255" type="curve" smooth="yes"/>
+      <point x="363" y="-287"/>
+      <point x="344" y="-319"/>
+      <point x="276" y="-319" type="curve" smooth="yes"/>
+      <point x="216" y="-319"/>
+      <point x="152" y="-297"/>
+      <point x="70" y="-204" type="curve"/>
+      <point x="22" y="-230" type="line"/>
+      <point x="87" y="-330"/>
+      <point x="171" y="-415"/>
+      <point x="306" y="-415" type="curve" smooth="yes"/>
+      <point x="390" y="-415"/>
+      <point x="458" y="-364"/>
+      <point x="458" y="-280" type="curve" smooth="yes"/>
+      <point x="458" y="-197"/>
+      <point x="351" y="-132"/>
+      <point x="267" y="-132" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="350" y="705" type="move" name="_class0"/>
+    </contour>
+    <contour>
+      <point x="305" y="705" type="move" name="_class1"/>
+    </contour>
+    <contour>
+      <point x="238" y="0" type="move" name="_class0_"/>
+    </contour>
+  </outline>
+</glyph>

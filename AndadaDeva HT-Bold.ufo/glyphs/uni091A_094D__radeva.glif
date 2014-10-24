@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni091A094D_radeva" format="1">
+  <advance width="703"/>
+  <outline>
+    <contour>
+      <point x="615" y="536" type="line"/>
+      <point x="715" y="536" type="line"/>
+      <point x="728" y="566" type="line"/>
+      <point x="703" y="641" type="line"/>
+      <point x="-20" y="641" type="line"/>
+      <point x="-30" y="611" type="line"/>
+      <point x="-5" y="536" type="line"/>
+      <point x="501" y="536" type="line"/>
+      <point x="501" y="281" type="line"/>
+      <point x="453" y="223"/>
+      <point x="395" y="193"/>
+      <point x="338" y="193" type="curve" smooth="yes"/>
+      <point x="293" y="193"/>
+      <point x="261" y="213"/>
+      <point x="261" y="255" type="curve" smooth="yes"/>
+      <point x="261" y="320"/>
+      <point x="315" y="362"/>
+      <point x="391" y="362" type="curve"/>
+      <point x="343" y="458" type="line"/>
+      <point x="26" y="458" type="line"/>
+      <point x="75" y="354" type="line"/>
+      <point x="102" y="356"/>
+      <point x="129" y="358"/>
+      <point x="159" y="359" type="curve"/>
+      <point x="150" y="337"/>
+      <point x="145" y="311"/>
+      <point x="145" y="281" type="curve" smooth="yes"/>
+      <point x="145" y="191"/>
+      <point x="225" y="122"/>
+      <point x="332" y="106" type="curve"/>
+      <point x="294" y="79"/>
+      <point x="257" y="54"/>
+      <point x="221" y="31" type="curve"/>
+      <point x="287" y="-50" type="line"/>
+      <point x="496" y="124" type="line"/>
+      <point x="484" y="-15" type="line"/>
+      <point x="601" y="-34" type="line"/>
+      <point x="629" y="-9" type="line"/>
+      <point x="615" y="184" type="line"/>
+    </contour>
+  </outline>
+</glyph>

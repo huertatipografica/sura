@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rakardeva" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="467" y="-138" type="line"/>
+      <point x="239" y="70" type="line"/>
+      <point x="194" y="70" type="line"/>
+      <point x="146" y="2"/>
+      <point x="105" y="-39"/>
+      <point x="10" y="-113" type="curve"/>
+      <point x="99" y="-194" type="line"/>
+      <point x="245" y="-41" type="line"/>
+      <point x="315" y="-98"/>
+      <point x="365" y="-146"/>
+      <point x="410" y="-195" type="curve"/>
+    </contour>
+    <contour>
+      <point x="390" y="705" type="move" name="_class0"/>
+    </contour>
+    <contour>
+      <point x="390" y="705" type="move" name="_class1"/>
+    </contour>
+    <contour>
+      <point x="236" y="0" type="move" name="_class0_"/>
+    </contour>
+  </outline>
+</glyph>

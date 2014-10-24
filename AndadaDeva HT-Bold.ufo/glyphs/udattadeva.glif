@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="udattadeva" format="1">
+  <advance width="0"/>
+  <unicode hex="0951"/>
+  <outline>
+    <contour>
+      <point x="112" y="953" type="line"/>
+      <point x="12" y="953" type="line"/>
+      <point x="12" y="682" type="line"/>
+      <point x="112" y="682" type="line"/>
+    </contour>
+    <contour>
+      <point x="283" y="0" type="move" name="_class0"/>
+    </contour>
+    <contour>
+      <point x="283" y="0" type="move" name="_class1"/>
+    </contour>
+    <contour>
+      <point x="62" y="641" type="move" name="_class0_"/>
+    </contour>
+  </outline>
+</glyph>

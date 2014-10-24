@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0924094D_tadeva" format="1">
+  <advance width="650"/>
+  <outline>
+    <contour>
+      <point x="562" y="536" type="line"/>
+      <point x="662" y="536" type="line"/>
+      <point x="675" y="566" type="line"/>
+      <point x="650" y="641" type="line"/>
+      <point x="-20" y="641" type="line"/>
+      <point x="-30" y="611" type="line"/>
+      <point x="-5" y="536" type="line"/>
+      <point x="448" y="536" type="line"/>
+      <point x="448" y="423" type="line"/>
+      <point x="2" y="423" type="line"/>
+      <point x="42" y="326" type="line"/>
+      <point x="122" y="326" type="line"/>
+      <point x="117" y="309"/>
+      <point x="114" y="289"/>
+      <point x="114" y="267" type="curve" smooth="yes"/>
+      <point x="114" y="187"/>
+      <point x="163" y="81"/>
+      <point x="246" y="-10" type="curve"/>
+      <point x="297" y="26" type="line"/>
+      <point x="256" y="78"/>
+      <point x="229" y="156"/>
+      <point x="229" y="219" type="curve" smooth="yes"/>
+      <point x="229" y="298"/>
+      <point x="255" y="326"/>
+      <point x="326" y="326" type="curve" smooth="yes"/>
+      <point x="448" y="326" type="line"/>
+      <point x="448" y="185" type="line"/>
+      <point x="431" y="-15" type="line"/>
+      <point x="548" y="-34" type="line"/>
+      <point x="576" y="-9" type="line"/>
+      <point x="562" y="184" type="line"/>
+    </contour>
+  </outline>
+</glyph>

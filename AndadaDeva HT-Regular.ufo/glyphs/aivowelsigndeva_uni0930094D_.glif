@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="aivowelsigndeva_uni0930094D" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="479" y="771"/>
+      <point x="505" y="761"/>
+      <point x="517" y="756" type="curve"/>
+      <point x="498" y="833" type="line"/>
+      <point x="482" y="837"/>
+      <point x="462" y="840"/>
+      <point x="442" y="840" type="curve" smooth="yes"/>
+      <point x="395" y="840"/>
+      <point x="355" y="823"/>
+      <point x="327" y="782" type="curve"/>
+      <point x="323" y="769"/>
+      <point x="320" y="755"/>
+      <point x="318" y="741" type="curve"/>
+      <point x="286" y="806"/>
+      <point x="264" y="842"/>
+      <point x="248" y="853" type="curve" smooth="yes"/>
+      <point x="217" y="873"/>
+      <point x="171" y="897"/>
+      <point x="148" y="907" type="curve"/>
+      <point x="147" y="824" type="line"/>
+      <point x="165" y="817"/>
+      <point x="205" y="799"/>
+      <point x="221" y="788" type="curve" smooth="yes"/>
+      <point x="236" y="778"/>
+      <point x="269" y="721"/>
+      <point x="312" y="647" type="curve"/>
+      <point x="220" y="714"/>
+      <point x="131" y="764"/>
+      <point x="93" y="771" type="curve" smooth="yes"/>
+      <point x="73" y="775"/>
+      <point x="38" y="782"/>
+      <point x="10" y="787" type="curve"/>
+      <point x="25" y="704" type="line"/>
+      <point x="45" y="702"/>
+      <point x="60" y="701"/>
+      <point x="84" y="698" type="curve" smooth="yes"/>
+      <point x="105" y="696"/>
+      <point x="244" y="650"/>
+      <point x="322" y="589" type="curve"/>
+      <point x="392" y="589" type="line"/>
+      <point x="385" y="604" type="line"/>
+      <point x="393" y="604" type="line"/>
+      <point x="379" y="632"/>
+      <point x="371" y="663"/>
+      <point x="371" y="690" type="curve" smooth="yes"/>
+      <point x="371" y="736"/>
+      <point x="393" y="771"/>
+      <point x="447" y="771" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="45" y="599" type="move" name="_class0"/>
+    </contour>
+    <contour>
+      <point x="176" y="0" type="move" name="_class1"/>
+    </contour>
+    <contour>
+      <point x="364" y="599" type="move" name="_class0_"/>
+    </contour>
+  </outline>
+</glyph>

@@ -7,13 +7,9 @@
       <point x="250" y="242" type="line"/>
       <point x="97" y="474" type="line"/>
       <point x="30" y="429" type="line"/>
-      <point x="160" y="198" type="line"/>
-    </contour>
-    <contour>
-      <point x="160" y="286" type="line"/>
+      <point x="135" y="242" type="line"/>
       <point x="30" y="55" type="line"/>
       <point x="97" y="10" type="line"/>
-      <point x="250" y="242" type="line"/>
     </contour>
   </outline>
 </glyph>

@@ -62,14 +62,5 @@
       <point x="525" y="564"/>
       <point x="527" y="548" type="curve"/>
     </contour>
-    <contour>
-      <point x="298" y="353" type="move" name="center"/>
-    </contour>
-    <contour>
-      <point x="293" y="0" type="move" name="bottom"/>
-    </contour>
-    <contour>
-      <point x="298" y="705" type="move" name="top"/>
-    </contour>
   </outline>
 </glyph>
