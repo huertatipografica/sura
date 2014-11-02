@@ -15,19 +15,23 @@
 	<key>familyName</key>
 	<string>AndadaDeva HT</string>
 	<key>openTypeHeadCreated</key>
-	<string>2014/10/23 21:20:43</string>
+	<string>2012/05/25 13:26:45</string>
 	<key>openTypeNameDesigner</key>
 	<string>Carolina Giovagnoli</string>
 	<key>openTypeNameDesignerURL</key>
 	<string>huertatipografica.com.ar</string>
 	<key>openTypeNameManufacturer</key>
-	<string>Carolina Giovagnoli (huertatipografica.com.ar)</string>
+	<string>Carolina Giovagnoli &amp; Andres Torresi (Devanagari) - huertatipografica.com.ar</string>
 	<key>openTypeNameManufacturerURL</key>
 	<string>huertatipografica.com.ar</string>
 	<key>openTypeNamePreferredFamilyName</key>
 	<string>AndadaDeva HT</string>
 	<key>openTypeNamePreferredSubfamilyName</key>
-	<string>Bold</string>
+	<string>Regular</string>
+	<key>openTypeOS2Type</key>
+	<array>
+		<integer>2</integer>
+	</array>
 	<key>openTypeOS2WeightClass</key>
 	<integer>400</integer>
 	<key>openTypeOS2WidthClass</key>
@@ -52,10 +56,26 @@
 		<integer>-105</integer>
 		<integer>-90</integer>
 	</array>
+	<key>postscriptStemSnapH</key>
+	<array>
+		<integer>100</integer>
+		<integer>85</integer>
+		<integer>75</integer>
+		<integer>88</integer>
+	</array>
+	<key>postscriptStemSnapV</key>
+	<array>
+		<integer>140</integer>
+		<integer>159</integer>
+		<integer>155</integer>
+		<integer>180</integer>
+	</array>
 	<key>styleMapStyleName</key>
 	<string>regular</string>
 	<key>styleName</key>
 	<string>Regular</string>
+	<key>trademark</key>
+	<string>Andada ht Pro is a trademark of Carolina Giovagnoli (huertatipografica.com.ar).</string>
 	<key>unitsPerEm</key>
 	<integer>1000</integer>
 	<key>versionMajor</key>

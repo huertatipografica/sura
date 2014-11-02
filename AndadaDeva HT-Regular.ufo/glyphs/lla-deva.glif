@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lla-deva" format="1">
+  <advance width="747"/>
+  <unicode hex="0933"/>
+  <outline>
+    <contour>
+      <point x="497" y="563" type="line"/>
+      <point x="497" y="394" type="line"/>
+      <point x="577" y="394" type="line"/>
+      <point x="577" y="563" type="line"/>
+    </contour>
+    <component base="ll-deva"/>
+    <contour>
+      <point x="374" y="20" type="move" name="nukta"/>
+    </contour>
+    <contour>
+      <point x="370" y="98" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="537" y="599" type="move" name="top"/>
+    </contour>
+  </outline>
+</glyph>

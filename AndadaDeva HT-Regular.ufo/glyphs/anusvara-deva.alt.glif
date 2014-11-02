@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="anusvara-deva.alt" format="1">
+  <advance width="136"/>
+  <outline>
+    <component base="anusvara-deva" xOffset="38"/>
+    <contour>
+      <point x="68" y="599" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="k_ssa-deva" format="1">
+  <advance width="692"/>
+  <outline>
+    <component base="k_ss-deva"/>
+    <component base="aaMatra-deva" xOffset="424"/>
+    <contour>
+      <point x="558" y="599" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="558" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sh_la-deva.loclMAR" format="1">
+  <advance width="1082"/>
+  <outline>
+    <component base="sh-deva.ss02"/>
+    <component base="la-deva.loclMAR" xOffset="378"/>
+    <contour>
+      <point x="864" y="599" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="742" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

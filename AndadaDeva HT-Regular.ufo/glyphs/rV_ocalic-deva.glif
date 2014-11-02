@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rVocalic-deva" format="1">
+  <advance width="825"/>
+  <unicode hex="090B"/>
+  <outline>
+    <contour>
+      <point x="383" y="589" type="line"/>
+      <point x="398" y="529" type="line"/>
+      <point x="829" y="529" type="line"/>
+      <point x="839" y="539" type="line"/>
+      <point x="824" y="599" type="line"/>
+      <point x="393" y="599" type="line"/>
+    </contour>
+    <contour>
+      <point x="395" y="204" type="line"/>
+      <point x="482" y="219"/>
+      <point x="668" y="290"/>
+      <point x="698" y="369" type="curve"/>
+      <point x="576" y="386" type="line"/>
+      <point x="567" y="342"/>
+      <point x="469" y="277"/>
+      <point x="368" y="263" type="curve"/>
+    </contour>
+    <contour>
+      <point x="509" y="369"/>
+      <point x="527" y="322"/>
+      <point x="547" y="284" type="curve"/>
+      <point x="698" y="369" type="line"/>
+      <point x="686" y="408" type="line"/>
+      <point x="643" y="433"/>
+      <point x="594" y="450"/>
+      <point x="532" y="450" type="curve"/>
+      <point x="521" y="438"/>
+      <point x="512" y="425"/>
+      <point x="504" y="412" type="curve"/>
+    </contour>
+    <contour>
+      <point x="575" y="231"/>
+      <point x="617" y="176"/>
+      <point x="648" y="144" type="curve"/>
+      <point x="719" y="146" type="line"/>
+      <point x="719" y="165" type="line"/>
+      <point x="659" y="216"/>
+      <point x="620" y="258"/>
+      <point x="597" y="316" type="curve"/>
+      <point x="548" y="282" type="line"/>
+    </contour>
+    <contour>
+      <point x="656" y="205" type="line"/>
+      <point x="590" y="198"/>
+      <point x="547" y="153"/>
+      <point x="547" y="98" type="curve" smooth="yes"/>
+      <point x="547" y="25"/>
+      <point x="614" y="-19"/>
+      <point x="682" y="-19" type="curve" smooth="yes"/>
+      <point x="724" y="-19"/>
+      <point x="760" y="-1"/>
+      <point x="792" y="35" type="curve"/>
+      <point x="761" y="82" type="line"/>
+      <point x="729" y="52"/>
+      <point x="693" y="35"/>
+      <point x="658" y="35" type="curve" smooth="yes"/>
+      <point x="632" y="35"/>
+      <point x="611" y="48"/>
+      <point x="611" y="75" type="curve" smooth="yes"/>
+      <point x="611" y="123"/>
+      <point x="646" y="146"/>
+      <point x="719" y="146" type="curve"/>
+    </contour>
+    <component base="t_ra-deva"/>
+    <contour>
+      <point x="402" y="599" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="402" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

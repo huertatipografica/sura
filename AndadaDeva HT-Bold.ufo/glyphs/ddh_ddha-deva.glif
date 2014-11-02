@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ddh_ddha-deva" format="1">
+  <advance width="578"/>
+  <outline>
+    <contour>
+      <point x="-20" y="641" type="line"/>
+      <point x="-30" y="611" type="line"/>
+      <point x="-5" y="536" type="line"/>
+      <point x="598" y="536" type="line"/>
+      <point x="608" y="566" type="line"/>
+      <point x="583" y="641" type="line"/>
+    </contour>
+    <component base="ddha.small" xOffset="2" yOffset="-400"/>
+    <component base="ddha.small" xOffset="16"/>
+    <contour>
+      <point x="404" y="641" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="317" y="-328" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

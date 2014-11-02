@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tt_na-deva" format="1">
+  <advance width="519"/>
+  <outline>
+    <contour>
+      <point x="-20" y="599" type="line"/>
+      <point x="-30" y="589" type="line"/>
+      <point x="-15" y="529" type="line"/>
+      <point x="539" y="529" type="line"/>
+      <point x="549" y="539" type="line"/>
+      <point x="534" y="599" type="line"/>
+    </contour>
+    <component base="tta.small" xOffset="-11"/>
+    <component base="na.small" xOffset="27" yOffset="-378"/>
+    <contour>
+      <point x="387" y="599" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="383" y="-206" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

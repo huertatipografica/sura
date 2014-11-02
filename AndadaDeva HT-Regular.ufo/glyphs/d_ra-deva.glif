@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="d_ra-deva" format="1">
+  <advance width="589"/>
+  <outline>
+    <contour>
+      <point x="-20" y="599" type="line"/>
+      <point x="-30" y="589" type="line"/>
+      <point x="-15" y="529" type="line"/>
+      <point x="609" y="529" type="line"/>
+      <point x="619" y="539" type="line"/>
+      <point x="604" y="599" type="line"/>
+    </contour>
+    <contour>
+      <point x="361" y="128" type="line"/>
+      <point x="301" y="78"/>
+      <point x="236" y="29"/>
+      <point x="129" y="-45" type="curve"/>
+      <point x="179" y="-98" type="line"/>
+      <point x="401" y="86" type="line"/>
+    </contour>
+    <component base="da.small"/>
+    <contour>
+      <point x="395" y="599" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="493" y="-49" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

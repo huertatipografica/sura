@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gh_ra-deva" format="1">
+  <advance width="672"/>
+  <outline>
+    <contour>
+      <point x="502" y="151" type="line"/>
+      <point x="442" y="212" type="line"/>
+      <point x="354" y="137"/>
+      <point x="260" y="68"/>
+      <point x="171" y="11" type="curve"/>
+      <point x="237" y="-70" type="line"/>
+    </contour>
+    <component base="gh-deva"/>
+    <component base="aaMatra-deva" xOffset="374"/>
+    <contour>
+      <point x="529" y="641" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="529" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

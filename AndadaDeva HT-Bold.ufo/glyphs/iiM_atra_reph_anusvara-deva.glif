@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iiMatra_reph_anusvara-deva" format="1">
+  <advance width="311"/>
+  <outline>
+    <component base="iiMatra-deva"/>
+    <component base="reph_anusvara-deva" xOffset="65"/>
+    <contour>
+      <point x="238" y="869" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="156" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

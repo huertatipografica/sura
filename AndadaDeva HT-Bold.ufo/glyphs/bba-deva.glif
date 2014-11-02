@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bba-deva" format="1">
+  <advance width="593"/>
+  <unicode hex="097F"/>
+  <outline>
+    <contour>
+      <point x="47" y="-15" type="line"/>
+      <point x="72" y="-90" type="line"/>
+      <point x="510" y="-90" type="line"/>
+      <point x="523" y="-60" type="line"/>
+      <point x="504" y="194" type="line"/>
+      <point x="457" y="15" type="line"/>
+      <point x="57" y="15" type="line"/>
+    </contour>
+    <component base="ba-deva"/>
+    <contour>
+      <point x="444" y="641" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="448" y="-80" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

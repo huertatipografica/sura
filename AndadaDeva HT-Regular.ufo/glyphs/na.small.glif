@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="na.small" format="1">
+  <advance width="453"/>
+  <outline>
+    <contour>
+      <point x="144" y="395"/>
+      <point x="109" y="394"/>
+      <point x="72" y="387" type="curve"/>
+      <point x="57" y="367" type="line"/>
+      <point x="57" y="325"/>
+      <point x="87" y="254"/>
+      <point x="154" y="254" type="curve"/>
+      <point x="171" y="283"/>
+      <point x="189" y="336"/>
+      <point x="189" y="378" type="curve"/>
+      <point x="132" y="319" type="line"/>
+      <point x="197" y="328"/>
+      <point x="283" y="334"/>
+      <point x="347" y="335" type="curve"/>
+      <point x="347" y="392" type="line"/>
+      <point x="310" y="393"/>
+      <point x="249" y="395"/>
+      <point x="210" y="395" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="321" y="556" type="line"/>
+      <point x="321" y="290" type="line"/>
+      <point x="312" y="164" type="line"/>
+      <point x="382" y="152" type="line"/>
+      <point x="399" y="167" type="line"/>
+      <point x="391" y="298" type="line"/>
+      <point x="391" y="556" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

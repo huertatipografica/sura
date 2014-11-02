@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ca-deva" format="1">
+  <advance width="593"/>
+  <unicode hex="091A"/>
+  <outline>
+    <component base="c-deva"/>
+    <component base="aaMatra-deva" xOffset="325"/>
+    <contour>
+      <point x="176" y="0" type="move" name="nukta"/>
+    </contour>
+    <contour>
+      <point x="459" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="459" y="599" type="move" name="top"/>
+    </contour>
+  </outline>
+</glyph>

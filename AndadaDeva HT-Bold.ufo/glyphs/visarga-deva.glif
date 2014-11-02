@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="visarga-deva" format="1">
+  <advance width="206"/>
+  <unicode hex="0903"/>
+  <outline>
+    <component base="nukta-deva" xOffset="32" yOffset="521"/>
+    <component base="nukta-deva" xOffset="32" yOffset="224"/>
+  </outline>
+</glyph>
