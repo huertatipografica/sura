@@ -73,7 +73,7 @@
       <point x="724" y="567" type="line"/>
       <point x="699" y="641" type="line"/>
     </contour>
-    <component base="va-deva.small" xOffset="93" yOffset="-396"/>
+    <component base="va.small" xOffset="93" yOffset="-396"/>
     <contour>
       <point x="484" y="641" type="move" name="top"/>
     </contour>
@@ -81,12 +81,4 @@
       <point x="340" y="126" type="move" name="bottom"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>6</integer>
-      <key>public.markColor</key>
-      <string>0,0.67,0.91,1</string>
-    </dict>
-  </lib>
 </glyph>

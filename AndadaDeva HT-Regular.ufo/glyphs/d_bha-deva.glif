@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="d_bha-deva" format="1">
+  <advance width="661"/>
+  <outline>
+    <contour>
+      <point x="277" y="-13" type="line"/>
+      <point x="256" y="28" type="line" smooth="yes"/>
+      <point x="234" y="79"/>
+      <point x="177" y="106"/>
+      <point x="126" y="106" type="curve" smooth="yes"/>
+      <point x="104" y="106"/>
+      <point x="80" y="97"/>
+      <point x="36" y="72" type="curve"/>
+      <point x="39" y="55" type="line"/>
+      <point x="74" y="11" type="line"/>
+      <point x="101" y="30"/>
+      <point x="133" y="44"/>
+      <point x="152" y="44" type="curve" smooth="yes"/>
+      <point x="170" y="44"/>
+      <point x="183" y="34"/>
+      <point x="195" y="9" type="curve" smooth="yes"/>
+      <point x="222" y="-49" type="line"/>
+      <point x="180" y="-76" type="line"/>
+      <point x="176" y="-99" type="line"/>
+      <point x="190" y="-125"/>
+      <point x="226" y="-155"/>
+      <point x="268" y="-155" type="curve" smooth="yes"/>
+      <point x="281" y="-155"/>
+      <point x="295" y="-152"/>
+      <point x="309" y="-144" type="curve"/>
+      <point x="310" y="-127"/>
+      <point x="308" y="-101"/>
+      <point x="302" y="-76" type="curve"/>
+      <point x="488" y="65" type="line"/>
+      <point x="472" y="112" type="line"/>
+    </contour>
+    <contour>
+      <point x="-20" y="599" type="line"/>
+      <point x="-30" y="589" type="line"/>
+      <point x="-15" y="529" type="line"/>
+      <point x="681" y="529" type="line"/>
+      <point x="691" y="539" type="line"/>
+      <point x="676" y="599" type="line"/>
+    </contour>
+    <component base="da.small" xOffset="72"/>
+    <contour>
+      <point x="469" y="599" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="344" y="-114" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

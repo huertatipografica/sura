@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sh_la-deva.loclMAR" format="1">
-  <advance width="1194"/>
+  <advance width="1156"/>
   <outline>
     <component base="sh-deva.ss02"/>
-    <component base="la-deva.loclMAR" xOffset="445"/>
+    <component base="la-deva.loclMAR" xOffset="407"/>
     <contour>
-      <point x="960" y="641" type="move" name="top"/>
+      <point x="928" y="641" type="move" name="top"/>
     </contour>
     <contour>
       <point x="843" y="0" type="move" name="bottom"/>
@@ -14,9 +14,9 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>6</integer>
+      <integer>11</integer>
       <key>public.markColor</key>
-      <string>0,0.67,0.91,1</string>
+      <string>0.25,0.25,0.25,1</string>
     </dict>
   </lib>
 </glyph>

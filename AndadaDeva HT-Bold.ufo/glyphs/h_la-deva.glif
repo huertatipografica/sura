@@ -40,7 +40,7 @@
       <point x="488" y="168"/>
       <point x="459" y="168" type="curve" smooth="yes"/>
     </contour>
-    <component base="h_compo-deva"/>
+    <component base="h_compo"/>
     <contour>
       <point x="420" y="641" type="move" name="top"/>
     </contour>
@@ -51,9 +51,9 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>6</integer>
+      <integer>3</integer>
       <key>public.markColor</key>
-      <string>0,0.67,0.91,1</string>
+      <string>0.97,1,0,1</string>
     </dict>
   </lib>
 </glyph>

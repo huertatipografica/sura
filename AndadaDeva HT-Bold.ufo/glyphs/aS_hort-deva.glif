@@ -4,12 +4,12 @@
   <unicode hex="0904"/>
   <outline>
     <component base="a-deva"/>
-    <component base="eShortMatra-deva" xOffset="221"/>
+    <component base="eShortMatra-deva" xOffset="226"/>
     <contour>
-      <point x="423" y="646" type="move" name="top"/>
+      <point x="668" y="640" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="423" y="0" type="move" name="bottom"/>
+      <point x="668" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
 </glyph>

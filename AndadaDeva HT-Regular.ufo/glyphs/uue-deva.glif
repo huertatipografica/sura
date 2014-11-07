@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uue-deva" format="1">
-  <advance width="600"/>
+  <advance width="757"/>
   <unicode hex="0977"/>
   <outline>
+    <component base="a-deva"/>
+    <component base="uueMatra-deva" xOffset="452"/>
+    <contour>
+      <point x="623" y="599" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="623" y="0" type="move" name="bottom"/>
+    </contour>
   </outline>
 </glyph>

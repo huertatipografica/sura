@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ssa-deva" format="1">
-  <advance width="578"/>
+  <advance width="598"/>
   <unicode hex="0937"/>
   <outline>
     <component base="ss-deva"/>

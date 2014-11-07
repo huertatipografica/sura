@@ -4,14 +4,12 @@
   <unicode hex="0934"/>
   <outline>
     <component base="lla-deva"/>
-    <component base="nukta-deva" xOffset="305" yOffset="98"/>
+    <component base="nukta-deva" xOffset="315" yOffset="128"/>
+    <contour>
+      <point x="547" y="641" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="381" y="-90" type="move" name="bottom"/>
+    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>0</integer>
-      <key>public.markColor</key>
-      <string>0.85,0.26,0.06,1</string>
-    </dict>
-  </lib>
 </glyph>

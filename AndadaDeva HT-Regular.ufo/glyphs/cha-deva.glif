@@ -4,10 +4,10 @@
   <unicode hex="091B"/>
   <outline>
     <contour>
-      <point x="547" y="581" type="line"/>
       <point x="467" y="581" type="line"/>
       <point x="467" y="425" type="line"/>
       <point x="547" y="425" type="line"/>
+      <point x="547" y="581" type="line"/>
     </contour>
     <component base="ch-deva"/>
     <contour>

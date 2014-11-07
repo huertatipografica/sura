@@ -1,16 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="j_nya-deva" format="1">
-  <advance width="1330"/>
+  <advance width="744"/>
   <outline>
-    <component base="j-deva"/>
-    <component base="nya-deva" xOffset="492"/>
+    <component base="j_ny-deva"/>
+    <component base="aaMatra-deva" xOffset="433"/>
+    <contour>
+      <point x="575" y="641" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="575" y="0" type="move" name="bottom"/>
+    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>0</integer>
-      <key>public.markColor</key>
-      <string>0.85,0.26,0.06,1</string>
-    </dict>
-  </lib>
 </glyph>

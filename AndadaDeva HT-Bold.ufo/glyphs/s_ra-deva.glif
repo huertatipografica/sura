@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="s_ra-deva" format="1">
+  <advance width="718"/>
+  <outline>
+    <contour>
+      <point x="554" y="282" type="line"/>
+      <point x="486" y="228"/>
+      <point x="416" y="178"/>
+      <point x="349" y="135" type="curve"/>
+      <point x="415" y="54" type="line"/>
+      <point x="591" y="201" type="line"/>
+    </contour>
+    <component base="sa-deva"/>
+    <contour>
+      <point x="569" y="641" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="569" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

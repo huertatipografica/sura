@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="m_ra-deva" format="1">
+  <advance width="618"/>
+  <outline>
+    <contour>
+      <point x="507" y="220" type="line"/>
+      <point x="464" y="261" type="line"/>
+      <point x="394" y="199"/>
+      <point x="325" y="146"/>
+      <point x="197" y="57" type="curve"/>
+      <point x="247" y="4" type="line"/>
+    </contour>
+    <component base="ma-deva"/>
+    <contour>
+      <point x="484" y="599" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="484" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

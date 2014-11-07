@@ -6,10 +6,10 @@
     <component base="a-deva"/>
     <component base="awMatra-deva" xOffset="757"/>
     <contour>
-      <point x="636" y="0" type="move" name="botton"/>
+      <point x="897" y="0" type="move" name="botton"/>
     </contour>
     <contour>
-      <point x="891" y="599" type="move" name="top"/>
+      <point x="891" y="600" type="move" name="top"/>
     </contour>
   </outline>
 </glyph>

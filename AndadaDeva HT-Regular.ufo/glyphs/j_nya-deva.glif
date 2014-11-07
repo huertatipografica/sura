@@ -1,72 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="j_nya-deva" format="1">
-  <advance width="610"/>
+  <advance width="632"/>
   <outline>
+    <component base="j_ny-deva"/>
+    <component base="aaMatra-deva" xOffset="364"/>
     <contour>
-      <point x="357" y="539" type="line"/>
-      <point x="342" y="599" type="line"/>
-      <point x="-35" y="599" type="line"/>
-      <point x="-45" y="589" type="line"/>
-      <point x="-30" y="529" type="line"/>
-      <point x="347" y="529" type="line"/>
+      <point x="498" y="599" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="452" y="414" type="line"/>
-      <point x="377" y="417"/>
-      <point x="244" y="419"/>
-      <point x="154" y="419" type="curve"/>
-      <point x="139" y="401" type="line"/>
-      <point x="154" y="353" type="line"/>
-      <point x="222" y="337"/>
-      <point x="266" y="288"/>
-      <point x="266" y="230" type="curve" smooth="yes"/>
-      <point x="266" y="183"/>
-      <point x="237" y="158"/>
-      <point x="182" y="158" type="curve"/>
-      <point x="171" y="192"/>
-      <point x="162" y="210"/>
-      <point x="150" y="232" type="curve"/>
-      <point x="126" y="247"/>
-      <point x="102" y="256"/>
-      <point x="76" y="256" type="curve" smooth="yes"/>
-      <point x="63" y="256"/>
-      <point x="49" y="254"/>
-      <point x="33" y="251" type="curve"/>
-      <point x="12" y="217" type="line"/>
-      <point x="25" y="146"/>
-      <point x="94" y="116"/>
-      <point x="142" y="99" type="curve"/>
-      <point x="174" y="13"/>
-      <point x="225" y="-69"/>
-      <point x="284" y="-125" type="curve"/>
-      <point x="348" y="-63" type="line"/>
-      <point x="292" y="-19"/>
-      <point x="248" y="31"/>
-      <point x="216" y="86" type="curve"/>
-      <point x="299" y="87"/>
-      <point x="352" y="132"/>
-      <point x="352" y="200" type="curve" smooth="yes"/>
-      <point x="352" y="260"/>
-      <point x="323" y="312"/>
-      <point x="274" y="346" type="curve"/>
-      <point x="330" y="348"/>
-      <point x="402" y="350"/>
-      <point x="452" y="350" type="curve"/>
-    </contour>
-    <component base="aaMatra-deva" xOffset="342"/>
-    <contour>
-      <point x="476" y="599" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="476" y="0" type="move" name="bottom"/>
+      <point x="498" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>0</integer>
-      <key>public.markColor</key>
-      <string>0.85,0.26,0.06,1</string>
-    </dict>
-  </lib>
 </glyph>

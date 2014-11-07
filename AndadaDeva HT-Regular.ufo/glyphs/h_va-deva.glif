@@ -30,7 +30,7 @@
       <point x="423" y="179"/>
       <point x="378" y="179" type="curve" smooth="yes"/>
     </contour>
-    <component base="h_compo-deva"/>
+    <component base="h_compo"/>
     <contour>
       <point x="397" y="599" type="move" name="top"/>
     </contour>

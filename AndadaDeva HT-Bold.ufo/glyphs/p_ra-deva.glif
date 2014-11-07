@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="p_ra-deva" format="1">
+  <advance width="588"/>
+  <outline>
+    <contour>
+      <point x="428" y="191" type="line"/>
+      <point x="368" y="252" type="line"/>
+      <point x="277" y="177"/>
+      <point x="177" y="105"/>
+      <point x="85" y="48" type="curve"/>
+      <point x="163" y="-30" type="line"/>
+    </contour>
+    <component base="p-deva"/>
+    <component base="aaMatra-deva" xOffset="297"/>
+    <contour>
+      <point x="128" y="0" type="move" name="nukta"/>
+    </contour>
+    <contour>
+      <point x="438" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="440" y="641" type="move" name="top"/>
+    </contour>
+  </outline>
+</glyph>

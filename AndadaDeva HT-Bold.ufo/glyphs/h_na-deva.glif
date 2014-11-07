@@ -22,7 +22,7 @@
       <point x="528" y="148" type="curve"/>
       <point x="497" y="208" type="line"/>
     </contour>
-    <component base="h_compo-deva"/>
+    <component base="h_compo"/>
     <contour>
       <point x="420" y="641" type="move" name="top"/>
     </contour>

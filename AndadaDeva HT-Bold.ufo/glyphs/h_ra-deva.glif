@@ -10,7 +10,7 @@
       <point x="314" y="-36" type="line"/>
       <point x="522" y="156" type="line"/>
     </contour>
-    <component base="h_compo-deva"/>
+    <component base="h_compo"/>
     <contour>
       <point x="420" y="641" type="move" name="top"/>
     </contour>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="la-deva" format="1">
-  <advance width="801"/>
+  <advance width="821"/>
   <unicode hex="0932"/>
   <outline>
     <component base="l-deva"/>
@@ -12,4 +12,12 @@
       <point x="655" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>11</integer>
+      <key>public.markColor</key>
+      <string>0.25,0.25,0.25,1</string>
+    </dict>
+  </lib>
 </glyph>

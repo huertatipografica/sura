@@ -10,9 +10,9 @@
       <point x="674" y="566" type="line"/>
       <point x="649" y="641" type="line"/>
     </contour>
-    <component base="dda-deva.small" xOffset="28"/>
+    <component base="dda.small" xOffset="28"/>
     <component base="nukta-deva" xOffset="483" yOffset="526"/>
-    <component base="kha-deva.small" xOffset="-11" yOffset="-396"/>
+    <component base="kha.small" xOffset="-11" yOffset="-396"/>
     <contour>
       <point x="393" y="641" type="move" name="top"/>
     </contour>
@@ -20,12 +20,4 @@
       <point x="317" y="-217" type="move" name="bottom"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>6</integer>
-      <key>public.markColor</key>
-      <string>0,0.67,0.91,1</string>
-    </dict>
-  </lib>
 </glyph>

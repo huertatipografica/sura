@@ -38,7 +38,7 @@
       <point x="659" y="536" type="line"/>
       <point x="672" y="566" type="line"/>
     </contour>
-    <component base="la-deva.small" xOffset="-19" yOffset="-396"/>
+    <component base="la.small" xOffset="-19" yOffset="-396"/>
     <contour>
       <point x="174" y="0" type="move" name="nukta"/>
     </contour>
@@ -52,9 +52,9 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>6</integer>
+      <integer>3</integer>
       <key>public.markColor</key>
-      <string>0,0.67,0.91,1</string>
+      <string>0.97,1,0,1</string>
     </dict>
   </lib>
 </glyph>

@@ -5,13 +5,11 @@
   <outline>
     <component base="dda-deva"/>
     <component base="nukta-deva" xOffset="245"/>
+    <contour>
+      <point x="391" y="640" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="321" y="-155" type="move" name="bottom"/>
+    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>4</integer>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
-  </lib>
 </glyph>

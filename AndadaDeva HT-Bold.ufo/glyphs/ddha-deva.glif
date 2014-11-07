@@ -64,15 +64,7 @@
       <point x="404" y="641" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="323" y="0" type="move" name="bottom"/>
+      <point x="331" y="11" type="move" name="bottom"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>0</integer>
-      <key>public.markColor</key>
-      <string>0.85,0.26,0.06,1</string>
-    </dict>
-  </lib>
 </glyph>

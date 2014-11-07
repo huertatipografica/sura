@@ -10,21 +10,13 @@
       <point x="598" y="566" type="line"/>
       <point x="573" y="641" type="line"/>
     </contour>
-    <component base="dda-deva.small" xOffset="21"/>
-    <component base="na-deva.small" xOffset="15" yOffset="-396"/>
+    <component base="dda.small" xOffset="21"/>
+    <component base="na.small" xOffset="15" yOffset="-396"/>
     <contour>
-      <point x="392" y="646" type="move" name="top"/>
+      <point x="392" y="641" type="move" name="top"/>
     </contour>
     <contour>
       <point x="409" y="-297" type="move" name="bottom"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>6</integer>
-      <key>public.markColor</key>
-      <string>0,0.67,0.91,1</string>
-    </dict>
-  </lib>
 </glyph>

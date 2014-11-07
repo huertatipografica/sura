@@ -3,15 +3,15 @@
   <advance width="544"/>
   <outline>
     <contour>
-      <point x="559" y="599" type="line"/>
       <point x="-20" y="599" type="line"/>
       <point x="-30" y="589" type="line"/>
       <point x="-15" y="529" type="line"/>
       <point x="564" y="529" type="line"/>
       <point x="574" y="539" type="line"/>
+      <point x="559" y="599" type="line"/>
     </contour>
-    <component base="ddha-deva.small" xOffset="1"/>
-    <component base="na-deva.small" xOffset="29" yOffset="-378"/>
+    <component base="ddha.small" xOffset="1"/>
+    <component base="na.small" xOffset="29" yOffset="-378"/>
     <contour>
       <point x="403" y="599" type="move" name="top"/>
     </contour>
@@ -19,12 +19,4 @@
       <point x="297" y="-224" type="move" name="bottom"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>6</integer>
-      <key>public.markColor</key>
-      <string>0,0.67,0.91,1</string>
-    </dict>
-  </lib>
 </glyph>

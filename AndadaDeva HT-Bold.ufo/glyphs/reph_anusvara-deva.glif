@@ -1,25 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="reph_anusvara-deva" format="1">
-  <advance width="293"/>
+  <advance width="315"/>
   <outline>
-    <component base="reph-deva" xOffset="-22"/>
-    <component base="anusvara-deva" xOffset="133"/>
     <contour>
-      <point x="152" y="641" type="move" name="imatra"/>
+      <point x="201" y="763"/>
+      <point x="183" y="730"/>
+      <point x="183" y="723" type="curve" smooth="yes"/>
+      <point x="183" y="683"/>
+      <point x="217" y="660"/>
+      <point x="227" y="660" type="curve" smooth="yes"/>
+      <point x="264" y="660"/>
+      <point x="285" y="691"/>
+      <point x="285" y="700" type="curve" smooth="yes"/>
+      <point x="285" y="740"/>
+      <point x="250" y="763"/>
+      <point x="240" y="763" type="curve" smooth="yes"/>
+    </contour>
+    <component base="reph-deva"/>
+    <contour>
+      <point x="165" y="641" type="move" name="_imatra"/>
     </contour>
     <contour>
-      <point x="226" y="924" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="102" y="641" type="move" name="_top"/>
+      <point x="139" y="641" type="move" name="_top"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>0</integer>
-      <key>public.markColor</key>
-      <string>0.85,0.26,0.06,1</string>
-    </dict>
-  </lib>
 </glyph>

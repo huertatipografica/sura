@@ -4,14 +4,6 @@
   <unicode hex="090A"/>
   <outline>
     <contour>
-      <point x="770" y="599" type="line"/>
-      <point x="453" y="599" type="line"/>
-      <point x="443" y="589" type="line"/>
-      <point x="458" y="529" type="line"/>
-      <point x="775" y="529" type="line"/>
-      <point x="785" y="539" type="line"/>
-    </contour>
-    <contour>
       <point x="469" y="353"/>
       <point x="419" y="329"/>
       <point x="378" y="288" type="curve"/>
@@ -34,6 +26,14 @@
       <point x="634" y="353"/>
       <point x="527" y="353" type="curve" smooth="yes"/>
     </contour>
+    <contour>
+      <point x="453" y="599" type="line"/>
+      <point x="443" y="589" type="line"/>
+      <point x="458" y="529" type="line"/>
+      <point x="775" y="529" type="line"/>
+      <point x="785" y="539" type="line"/>
+      <point x="770" y="599" type="line"/>
+    </contour>
     <component base="u-deva"/>
     <contour>
       <point x="325" y="599" type="move" name="top"/>
@@ -42,12 +42,4 @@
       <point x="378" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>6</integer>
-      <key>public.markColor</key>
-      <string>0,0.67,0.91,1</string>
-    </dict>
-  </lib>
 </glyph>

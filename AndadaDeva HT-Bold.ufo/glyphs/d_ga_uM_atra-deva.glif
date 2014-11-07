@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="d_ga_uMatra-deva" format="1">
-  <advance width="594"/>
+  <advance width="604"/>
   <outline>
     <contour>
       <point x="273" y="469" type="line" smooth="yes"/>
@@ -92,9 +92,9 @@
       <point x="-20" y="641" type="line"/>
       <point x="-30" y="611" type="line"/>
       <point x="-5" y="536" type="line"/>
-      <point x="614" y="536" type="line"/>
-      <point x="624" y="566" type="line"/>
-      <point x="599" y="641" type="line"/>
+      <point x="624" y="536" type="line"/>
+      <point x="634" y="566" type="line"/>
+      <point x="609" y="641" type="line"/>
     </contour>
     <contour>
       <point x="359" y="579" type="line"/>
@@ -106,15 +106,7 @@
       <point x="412" y="641" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="331" y="0" type="move" name="bottom"/>
+      <point x="138" y="-102" type="move" name="bottom"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>6</integer>
-      <key>public.markColor</key>
-      <string>0,0.67,0.91,1</string>
-    </dict>
-  </lib>
 </glyph>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="j_ja-deva" format="1">
+  <advance width="677"/>
+  <outline>
+    <component base="j_j-deva"/>
+    <component base="aaMatra-deva" xOffset="366"/>
+    <contour>
+      <point x="522" y="641" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="522" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

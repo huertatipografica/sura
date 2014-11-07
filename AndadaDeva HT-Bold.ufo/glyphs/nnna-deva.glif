@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="nnna-deva" format="1">
-  <advance width="655"/>
+  <advance width="675"/>
   <unicode hex="0929"/>
   <outline>
     <component base="na-deva"/>
-    <component base="nukta-deva" xOffset="93" yOffset="115"/>
+    <component base="nukta-deva" xOffset="100" yOffset="115"/>
     <contour>
       <point x="512" y="641" type="move" name="top"/>
     </contour>
@@ -12,12 +12,4 @@
       <point x="512" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>4</integer>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
-  </lib>
 </glyph>

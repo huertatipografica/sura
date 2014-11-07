@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="d_ga-deva" format="1">
-  <advance width="564"/>
+  <advance width="589"/>
   <outline>
     <contour>
       <point x="248" y="90" type="line"/>
@@ -24,20 +24,20 @@
       <point x="322" y="69"/>
       <point x="321" y="81" type="curve"/>
     </contour>
-    <component base="da-deva.small"/>
+    <contour>
+      <point x="-20" y="599" type="line"/>
+      <point x="-30" y="589" type="line"/>
+      <point x="-15" y="529" type="line"/>
+      <point x="609" y="529" type="line"/>
+      <point x="619" y="539" type="line"/>
+      <point x="604" y="599" type="line"/>
+    </contour>
+    <component base="da.small"/>
     <contour>
       <point x="397" y="599" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="288" y="0" type="move" name="bottom"/>
+      <point x="388" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>6</integer>
-      <key>public.markColor</key>
-      <string>0,0.67,0.91,1</string>
-    </dict>
-  </lib>
 </glyph>

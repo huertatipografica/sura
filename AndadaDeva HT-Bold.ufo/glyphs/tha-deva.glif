@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tha-deva" format="1">
-  <advance width="666"/>
+  <advance width="686"/>
   <unicode hex="0925"/>
   <outline>
     <component base="th-deva"/>
@@ -12,12 +12,4 @@
       <point x="505" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>0</integer>
-      <key>public.markColor</key>
-      <string>0.85,0.26,0.06,1</string>
-    </dict>
-  </lib>
 </glyph>

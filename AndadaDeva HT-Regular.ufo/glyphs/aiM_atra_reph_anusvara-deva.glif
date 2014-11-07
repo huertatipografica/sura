@@ -2,21 +2,10 @@
 <glyph name="aiMatra_reph_anusvara-deva" format="1">
   <advance width="545"/>
   <outline>
-    <component base="anusvara-deva" xOffset="395" yOffset="-43"/>
     <component base="aiMatra_reph-deva"/>
+    <component base="anusvara-deva" xOffset="339" yOffset="-38"/>
     <contour>
-      <point x="290" y="874" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="364" y="599" type="move" name="_top"/>
+      <point x="328" y="599" type="move" name="_top"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>0</integer>
-      <key>public.markColor</key>
-      <string>0.85,0.26,0.06,1</string>
-    </dict>
-  </lib>
 </glyph>

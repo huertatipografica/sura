@@ -10,8 +10,8 @@
       <point x="587" y="566" type="line"/>
       <point x="562" y="641" type="line"/>
     </contour>
-    <component base="tta-deva.small" xOffset="-5"/>
-    <component base="tta-deva.small" xOffset="-5" yOffset="-396"/>
+    <component base="tta.small" xOffset="-5"/>
+    <component base="tta.small" xOffset="-5" yOffset="-396"/>
     <contour>
       <point x="396" y="646" type="move" name="top"/>
     </contour>
@@ -19,12 +19,4 @@
       <point x="309" y="-297" type="move" name="bottom"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>6</integer>
-      <key>public.markColor</key>
-      <string>0,0.67,0.91,1</string>
-    </dict>
-  </lib>
 </glyph>

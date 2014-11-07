@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="nine-deva.comb" format="1">
+  <advance width="240"/>
+  <unicode hex="A8E9"/>
+  <outline>
+    <contour>
+      <point x="42" y="1011"/>
+      <point x="2" y="978"/>
+      <point x="2" y="926" type="curve" smooth="yes"/>
+      <point x="2" y="895"/>
+      <point x="17" y="857"/>
+      <point x="61" y="826" type="curve" smooth="yes"/>
+      <point x="88" y="807"/>
+      <point x="147" y="777"/>
+      <point x="147" y="744" type="curve" smooth="yes"/>
+      <point x="147" y="734"/>
+      <point x="142" y="724"/>
+      <point x="130" y="714" type="curve"/>
+      <point x="174" y="652" type="line"/>
+      <point x="217" y="674"/>
+      <point x="234" y="698"/>
+      <point x="234" y="723" type="curve" smooth="yes"/>
+      <point x="234" y="755"/>
+      <point x="207" y="789"/>
+      <point x="171" y="825" type="curve"/>
+      <point x="193" y="857"/>
+      <point x="210" y="886"/>
+      <point x="210" y="915" type="curve" smooth="yes"/>
+      <point x="210" y="964"/>
+      <point x="160" y="1011"/>
+      <point x="96" y="1011" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="115" y="952"/>
+      <point x="122" y="944"/>
+      <point x="122" y="930" type="curve" smooth="yes"/>
+      <point x="122" y="916"/>
+      <point x="115" y="896"/>
+      <point x="103" y="876" type="curve"/>
+      <point x="94" y="883"/>
+      <point x="89" y="902"/>
+      <point x="89" y="919" type="curve" smooth="yes"/>
+      <point x="89" y="937"/>
+      <point x="94" y="952"/>
+      <point x="106" y="952" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="120" y="640" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ca-deva" format="1">
-  <advance width="703"/>
+  <advance width="723"/>
   <unicode hex="091A"/>
   <outline>
     <component base="c-deva"/>

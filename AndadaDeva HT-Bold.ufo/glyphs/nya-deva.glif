@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="nya-deva" format="1">
-  <advance width="838"/>
+  <advance width="858"/>
   <unicode hex="091E"/>
   <outline>
     <component base="ny-deva"/>
