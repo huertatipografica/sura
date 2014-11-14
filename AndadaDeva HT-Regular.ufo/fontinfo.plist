@@ -7,23 +7,27 @@
 	<key>capHeight</key>
 	<integer>705</integer>
 	<key>copyright</key>
-	<string>Copyright (c) 2012 by Carolina Giovagnoli (huertatipografica.com.ar). All rights reserved.</string>
+	<string>Copyright © 2014 by Carolina Giovagnoli. All rights reserved.</string>
 	<key>descender</key>
 	<integer>-244</integer>
 	<key>description</key>
 	<string>Copyright (c) 2012 by Carolina Giovagnoli (huertatipografica.com.ar). All rights reserved.</string>
 	<key>familyName</key>
 	<string>AndadaDeva HT</string>
+	<key>license</key>
+	<string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL</string>
+	<key>licenseURL</key>
+	<string>http://scripts.sil.org/OFL</string>
 	<key>openTypeHeadCreated</key>
-	<string>2012/05/25 13:26:45</string>
+	<string>2014/11/10 18:03:26</string>
 	<key>openTypeNameDesigner</key>
 	<string>Carolina Giovagnoli</string>
 	<key>openTypeNameDesignerURL</key>
-	<string>huertatipografica.com.ar</string>
+	<string>http://www.huertatipografica.com.ar</string>
 	<key>openTypeNameManufacturer</key>
-	<string>Carolina Giovagnoli (huertatipografica.com.ar)</string>
+	<string>Huerta Tipografica</string>
 	<key>openTypeNameManufacturerURL</key>
-	<string>huertatipografica.com.ar</string>
+	<string>http://www.huertatipografica.com.ar</string>
 	<key>openTypeNamePreferredFamilyName</key>
 	<string>AndadaDeva HT</string>
 	<key>openTypeNamePreferredSubfamilyName</key>

@@ -4,7 +4,7 @@
   <unicode hex="0908"/>
   <outline>
     <component base="i-deva"/>
-    <component base="reph-deva" xOffset="274"/>
+    <component base="reph-deva" xOffset="271"/>
     <contour>
       <point x="366" y="600" type="move" name="top"/>
     </contour>

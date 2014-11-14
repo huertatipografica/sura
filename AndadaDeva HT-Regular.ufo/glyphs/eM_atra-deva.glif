@@ -20,7 +20,7 @@
       <point x="10" y="823" type="curve"/>
     </contour>
     <contour>
-      <point x="323" y="599" type="move" name="_top"/>
+      <point x="328" y="599" type="move" name="_top"/>
     </contour>
   </outline>
 </glyph>

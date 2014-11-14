@@ -13,7 +13,7 @@
     </contour>
     <component base="dda-deva"/>
     <contour>
-      <point x="402" y="641" type="move" name="top"/>
+      <point x="399" y="641" type="move" name="top"/>
     </contour>
     <contour>
       <point x="324" y="-163" type="move" name="bottom"/>

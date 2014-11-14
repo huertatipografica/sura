@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ka-deva" format="1">
+<glyph name="ka-deva.001" format="1">
   <advance width="868"/>
-  <unicode hex="0915"/>
   <outline>
     <contour>
       <point x="109" y="458"/>
@@ -70,7 +69,7 @@
       <point x="448" y="0" type="move" name="bottom"/>
     </contour>
     <contour>
-      <point x="457" y="641" type="move" name="top"/>
+      <point x="448" y="641" type="move" name="top"/>
     </contour>
   </outline>
 </glyph>

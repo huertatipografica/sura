@@ -6,7 +6,7 @@
     <component base="th-deva"/>
     <component base="aaMatra-deva" xOffset="342"/>
     <contour>
-      <point x="466" y="599" type="move" name="top"/>
+      <point x="476" y="599" type="move" name="top"/>
     </contour>
     <contour>
       <point x="466" y="0" type="move" name="bottom"/>

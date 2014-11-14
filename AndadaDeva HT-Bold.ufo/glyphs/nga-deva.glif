@@ -6,7 +6,7 @@
     <component base="dda-deva"/>
     <component base="nukta-deva" xOffset="485" yOffset="452"/>
     <contour>
-      <point x="395" y="641" type="move" name="top"/>
+      <point x="399" y="641" type="move" name="top"/>
     </contour>
     <contour>
       <point x="322" y="0" type="move" name="bottom"/>

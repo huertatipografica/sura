@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="kha-deva" format="1">
-  <advance width="907"/>
+  <advance width="898"/>
   <unicode hex="0916"/>
   <outline>
     <component base="kh-deva"/>
-    <component base="aaMatra-deva" xOffset="596"/>
+    <component base="aaMatra-deva" xOffset="587"/>
     <contour>
       <point x="87" y="0" type="move" name="nukta"/>
     </contour>
@@ -12,7 +12,7 @@
       <point x="744" y="0" type="move" name="bottom"/>
     </contour>
     <contour>
-      <point x="744" y="641" type="move" name="top"/>
+      <point x="743" y="641" type="move" name="top"/>
     </contour>
   </outline>
 </glyph>

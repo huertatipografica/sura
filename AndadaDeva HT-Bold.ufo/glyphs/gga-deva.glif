@@ -14,7 +14,7 @@
     </contour>
     <component base="ga-deva"/>
     <contour>
-      <point x="470" y="641" type="move" name="top"/>
+      <point x="490" y="641" type="move" name="top"/>
     </contour>
     <contour>
       <point x="470" y="-65" type="move" name="bottom"/>

@@ -29,7 +29,7 @@
       <point x="165" y="641" type="move" name="_imatra"/>
     </contour>
     <contour>
-      <point x="139" y="641" type="move" name="_top"/>
+      <point x="146" y="641" type="move" name="_top"/>
     </contour>
   </outline>
 </glyph>
