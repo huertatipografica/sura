@@ -32,7 +32,7 @@
       <point x="156" y="0" type="move" name="bottom"/>
     </contour>
     <contour>
-      <point x="156" y="640" type="move" name="top"/>
+      <point x="156" y="641" type="move" name="top"/>
     </contour>
   </outline>
 </glyph>

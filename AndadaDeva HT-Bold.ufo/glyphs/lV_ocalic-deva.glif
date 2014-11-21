@@ -1,87 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lVocalic-deva" format="1">
-  <advance width="865"/>
+  <advance width="821"/>
   <unicode hex="090C"/>
   <outline>
     <contour>
-      <point x="111" y="458"/>
-      <point x="48" y="398"/>
-      <point x="48" y="281" type="curve" smooth="yes"/>
-      <point x="48" y="171"/>
-      <point x="131" y="70"/>
-      <point x="280" y="-2" type="curve"/>
-      <point x="314" y="59" type="line"/>
-      <point x="220" y="104"/>
-      <point x="164" y="176"/>
-      <point x="164" y="251" type="curve" smooth="yes"/>
-      <point x="164" y="321"/>
-      <point x="208" y="362"/>
-      <point x="282" y="362" type="curve" smooth="yes"/>
-      <point x="310" y="362"/>
-      <point x="348" y="351"/>
-      <point x="405" y="326" type="curve"/>
-      <point x="427" y="375" type="line"/>
-      <point x="358" y="431"/>
-      <point x="296" y="458"/>
-      <point x="234" y="458" type="curve" smooth="yes"/>
+      <point x="485" y="611" type="line"/>
+      <point x="510" y="536" type="line"/>
+      <point x="833" y="536" type="line"/>
+      <point x="846" y="566" type="line"/>
+      <point x="821" y="641" type="line"/>
+      <point x="495" y="641" type="line"/>
     </contour>
     <contour>
-      <point x="387" y="458"/>
-      <point x="319" y="379"/>
-      <point x="319" y="228" type="curve"/>
-      <point x="435" y="198" type="line"/>
-      <point x="435" y="301"/>
-      <point x="484" y="362"/>
-      <point x="565" y="362" type="curve"/>
-      <point x="517" y="458" type="line"/>
+      <point x="733" y="54" type="line"/>
+      <point x="723" y="184" type="line"/>
+      <point x="723" y="563" type="line"/>
+      <point x="609" y="563" type="line"/>
+      <point x="609" y="185" type="line"/>
+      <point x="598" y="54" type="line"/>
+    </contour>
+    <component base="l-deva"/>
+    <component base="rVocalicMatra-deva" xOffset="504" yOffset="100"/>
+    <contour>
+      <point x="666" y="641" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="559" y="361" type="line"/>
-      <point x="602" y="361"/>
-      <point x="627" y="342"/>
-      <point x="627" y="315" type="curve" smooth="yes"/>
-      <point x="627" y="217"/>
-      <point x="525" y="235"/>
-      <point x="525" y="115" type="curve" smooth="yes"/>
-      <point x="525" y="42"/>
-      <point x="621" y="-20"/>
-      <point x="700" y="-20" type="curve" smooth="yes"/>
-      <point x="752" y="-20"/>
-      <point x="799" y="3"/>
-      <point x="843" y="53" type="curve"/>
-      <point x="768" y="119" type="line"/>
-      <point x="721" y="63"/>
-      <point x="702" y="50"/>
-      <point x="672" y="50" type="curve" smooth="yes"/>
-      <point x="644" y="50"/>
-      <point x="626" y="65"/>
-      <point x="626" y="86" type="curve" smooth="yes"/>
-      <point x="626" y="164"/>
-      <point x="731" y="179"/>
-      <point x="731" y="265" type="curve" smooth="yes"/>
-      <point x="731" y="380"/>
-      <point x="624" y="458"/>
-      <point x="517" y="458" type="curve"/>
-    </contour>
-    <contour>
-      <point x="-18" y="641" type="line"/>
-      <point x="-28" y="611" type="line"/>
-      <point x="-3" y="536" type="line"/>
-      <point x="887" y="536" type="line"/>
-      <point x="900" y="566" type="line"/>
-      <point x="875" y="641" type="line"/>
-    </contour>
-    <contour>
-      <point x="465" y="562" type="line" smooth="yes"/>
-      <point x="465" y="402" type="line" smooth="yes"/>
-      <point x="579" y="402" type="line"/>
-      <point x="579" y="562" type="line"/>
-    </contour>
-    <contour>
-      <point x="523" y="641" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="438" y="0" type="move" name="bottom"/>
+      <point x="666" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
 </glyph>

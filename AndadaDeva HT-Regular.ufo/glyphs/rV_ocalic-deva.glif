@@ -14,25 +14,12 @@
     <contour>
       <point x="395" y="204" type="line"/>
       <point x="482" y="219"/>
-      <point x="668" y="290"/>
+      <point x="649" y="278"/>
       <point x="698" y="369" type="curve"/>
-      <point x="576" y="386" type="line"/>
-      <point x="567" y="342"/>
+      <point x="576" y="382" type="line"/>
+      <point x="567" y="338"/>
       <point x="469" y="277"/>
       <point x="368" y="263" type="curve"/>
-    </contour>
-    <contour>
-      <point x="509" y="369"/>
-      <point x="527" y="322"/>
-      <point x="547" y="284" type="curve"/>
-      <point x="698" y="369" type="line"/>
-      <point x="686" y="408" type="line"/>
-      <point x="643" y="433"/>
-      <point x="594" y="450"/>
-      <point x="532" y="450" type="curve"/>
-      <point x="521" y="438"/>
-      <point x="512" y="425"/>
-      <point x="504" y="412" type="curve"/>
     </contour>
     <contour>
       <point x="572" y="237"/>
@@ -66,6 +53,16 @@
       <point x="611" y="123"/>
       <point x="646" y="146"/>
       <point x="719" y="146" type="curve"/>
+    </contour>
+    <contour>
+      <point x="520" y="404" type="line"/>
+      <point x="524" y="368"/>
+      <point x="533" y="331"/>
+      <point x="545" y="294" type="curve"/>
+      <point x="698" y="369" type="line"/>
+      <point x="657" y="407"/>
+      <point x="607" y="427"/>
+      <point x="553" y="431" type="curve"/>
     </contour>
     <component base="t_ra-deva"/>
     <contour>

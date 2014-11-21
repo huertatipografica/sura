@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ss_ra-deva" format="1">
-  <advance width="578"/>
+  <advance width="598"/>
   <outline>
     <contour>
-      <point x="428" y="191" type="line"/>
-      <point x="368" y="252" type="line"/>
-      <point x="277" y="177"/>
-      <point x="177" y="105"/>
-      <point x="85" y="48" type="curve"/>
-      <point x="163" y="-30" type="line"/>
+      <point x="417" y="186" type="line"/>
+      <point x="357" y="247" type="line"/>
+      <point x="266" y="172"/>
+      <point x="166" y="100"/>
+      <point x="74" y="43" type="curve"/>
+      <point x="152" y="-35" type="line"/>
     </contour>
     <component base="ssa-deva"/>
     <contour>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="t_ra-deva.alt" format="1">
-  <advance width="590"/>
+  <advance width="610"/>
   <outline>
     <contour>
-      <point x="444" y="380" type="line"/>
-      <point x="372" y="317"/>
-      <point x="287" y="254"/>
-      <point x="202" y="197" type="curve"/>
-      <point x="284" y="124" type="line"/>
-      <point x="492" y="316" type="line"/>
+      <point x="413" y="347" type="line"/>
+      <point x="351" y="290"/>
+      <point x="287" y="235"/>
+      <point x="219" y="180" type="curve"/>
+      <point x="284" y="117" type="line"/>
+      <point x="461" y="295" type="line"/>
     </contour>
     <component base="ta-deva"/>
     <contour>

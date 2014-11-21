@@ -3,12 +3,12 @@
   <advance width="572"/>
   <outline>
     <contour>
-      <point x="456" y="180" type="line"/>
-      <point x="413" y="221" type="line"/>
-      <point x="343" y="159"/>
-      <point x="274" y="106"/>
-      <point x="146" y="17" type="curve"/>
-      <point x="196" y="-36" type="line"/>
+      <point x="458" y="191" type="line"/>
+      <point x="415" y="232" type="line"/>
+      <point x="345" y="170"/>
+      <point x="276" y="117"/>
+      <point x="148" y="28" type="curve"/>
+      <point x="198" y="-25" type="line"/>
     </contour>
     <component base="ga-deva"/>
     <contour>

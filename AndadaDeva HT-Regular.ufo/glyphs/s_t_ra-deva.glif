@@ -48,8 +48,8 @@
       <point x="686" y="218" type="line"/>
       <point x="666" y="282" type="line"/>
       <point x="606" y="228"/>
-      <point x="499" y="145"/>
-      <point x="390" y="80" type="curve"/>
+      <point x="495" y="143"/>
+      <point x="386" y="78" type="curve"/>
     </contour>
     <component base="ra-deva"/>
     <component base="aaMatra-deva" xOffset="550"/>

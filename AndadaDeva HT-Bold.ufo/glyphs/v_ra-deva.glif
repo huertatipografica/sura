@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="v_ra-deva" format="1">
-  <advance width="613"/>
+  <advance width="600"/>
   <note>
     dVRa
   </note>
   <outline>
     <component base="v_r-deva"/>
-    <component base="aaMatra-deva" xOffset="302"/>
+    <component base="aaMatra-deva" xOffset="289"/>
     <contour>
       <point x="450" y="641" type="move" name="top"/>
     </contour>

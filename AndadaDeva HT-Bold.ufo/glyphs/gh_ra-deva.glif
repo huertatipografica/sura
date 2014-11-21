@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="gh_ra-deva" format="1">
-  <advance width="672"/>
+  <advance width="685"/>
   <outline>
     <contour>
-      <point x="502" y="151" type="line"/>
-      <point x="442" y="212" type="line"/>
-      <point x="354" y="137"/>
-      <point x="260" y="68"/>
-      <point x="171" y="11" type="curve"/>
-      <point x="237" y="-70" type="line"/>
+      <point x="518" y="166" type="line"/>
+      <point x="458" y="227" type="line"/>
+      <point x="367" y="152"/>
+      <point x="267" y="80"/>
+      <point x="175" y="23" type="curve"/>
+      <point x="253" y="-55" type="line"/>
     </contour>
     <component base="gh-deva"/>
-    <component base="aaMatra-deva" xOffset="381"/>
+    <component base="aaMatra-deva" xOffset="374"/>
     <contour>
       <point x="529" y="641" type="move" name="top"/>
     </contour>

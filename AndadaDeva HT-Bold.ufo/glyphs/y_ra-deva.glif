@@ -3,12 +3,12 @@
   <advance width="615"/>
   <outline>
     <contour>
-      <point x="467" y="191" type="line"/>
-      <point x="407" y="252" type="line"/>
-      <point x="316" y="177"/>
-      <point x="216" y="105"/>
-      <point x="124" y="48" type="curve"/>
-      <point x="202" y="-30" type="line"/>
+      <point x="456" y="186" type="line"/>
+      <point x="396" y="247" type="line"/>
+      <point x="305" y="172"/>
+      <point x="205" y="100"/>
+      <point x="113" y="43" type="curve"/>
+      <point x="191" y="-35" type="line"/>
     </contour>
     <component base="ya-deva"/>
     <contour>

@@ -25,6 +25,9 @@
     </contour>
     <component base="aiMatra-deva"/>
     <contour>
+      <point x="278" y="836" type="move" name="_anusvara"/>
+    </contour>
+    <contour>
       <point x="332" y="599" type="move" name="_top"/>
     </contour>
   </outline>

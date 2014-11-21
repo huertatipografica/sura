@@ -3,14 +3,6 @@
   <advance width="798"/>
   <outline>
     <contour>
-      <point x="586" y="260" type="line"/>
-      <point x="522" y="182"/>
-      <point x="456" y="106"/>
-      <point x="388" y="39" type="curve"/>
-      <point x="469" y="-13" type="line"/>
-      <point x="639" y="211" type="line"/>
-    </contour>
-    <contour>
       <point x="-20" y="641" type="line"/>
       <point x="-30" y="611" type="line"/>
       <point x="-5" y="536" type="line"/>
@@ -73,6 +65,14 @@
       <point x="164" y="264"/>
       <point x="146" y="268"/>
       <point x="128" y="268" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="537" y="177"/>
+      <point x="465" y="106"/>
+      <point x="392" y="45" type="curve"/>
+      <point x="469" y="-13" type="line"/>
+      <point x="656" y="196" type="line"/>
+      <point x="607" y="249" type="line"/>
     </contour>
     <component base="aaMatra-deva" xOffset="487"/>
     <contour>
