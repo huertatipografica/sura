@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bha-deva" format="1">
-  <advance width="604"/>
+  <advance width="601"/>
   <unicode hex="092D"/>
   <outline>
     <component base="bh-deva"/>
-    <component base="aaMatra-deva" xOffset="336"/>
+    <component base="aaMatra-deva" xOffset="333"/>
     <contour>
       <point x="166" y="-15" type="move" name="nukta"/>
     </contour>
@@ -15,4 +15,12 @@
       <point x="470" y="599" type="move" name="top"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>11</integer>
+      <key>public.markColor</key>
+      <string>0.25,0.25,0.25,1</string>
+    </dict>
+  </lib>
 </glyph>

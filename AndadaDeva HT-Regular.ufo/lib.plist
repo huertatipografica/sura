@@ -629,8 +629,6 @@
 		<string>dbldanda-deva</string>
 		<string>abbreviation-deva</string>
 		<string>highspacingdot-deva</string>
-		<string>caret-deva</string>
-		<string>headstroke-deva</string>
 		<string>zerowidthjoiner</string>
 		<string>zerowidthnonjoiner</string>
 		<string>.notdef</string>
@@ -641,10 +639,7 @@
 		<string>om-deva</string>
 		<string>avagraha-deva.comb</string>
 		<string>avagraha_candraBindu-deva</string>
-		<string>pushpika-deva</string>
-		<string>gapfiller-deva</string>
 		<string>visarga-deva</string>
-		<string>spacingCandraBindu-deva</string>
 		<string>uMatra-deva</string>
 		<string>uuMatra-deva</string>
 		<string>rVocalicMatra-deva</string>
@@ -686,7 +681,6 @@
 		<string>anudatta-deva</string>
 		<string>grave-deva</string>
 		<string>acute-deva</string>
-		<string>vi-deva.comb</string>
 		<string>eShortMatra_candraBindu-deva.001</string>
 		<string>candraBindu-deva.alt</string>
 		<string>anusvara-deva.alt</string>
@@ -694,6 +688,12 @@
 		<string>reph-deva.imatra</string>
 		<string>reph_anusvara-deva.imatra</string>
 		<string>reph-deva.loclMAR</string>
+		<string>caret-deva</string>
+		<string>headstroke-deva</string>
+		<string>pushpika-deva</string>
+		<string>gapfiller-deva</string>
+		<string>spacingCandraBindu-deva</string>
+		<string>vi-deva.comb</string>
 		<string>doubleCandraBindu_halant-deva</string>
 		<string>da.small</string>
 		<string>pa.small</string>
