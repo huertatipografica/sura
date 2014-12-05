@@ -224,6 +224,8 @@
 	<string>ch_va-deva.glif</string>
 	<key>cha-deva</key>
 	<string>cha-deva.glif</string>
+	<key>chdeva</key>
+	<string>chdeva.glif</string>
 	<key>circumflex</key>
 	<string>circumflex.glif</string>
 	<key>colon</key>
@@ -332,6 +334,8 @@
 	<string>dd_ya-deva.glif</string>
 	<key>dda-deva</key>
 	<string>dda-deva.glif</string>
+	<key>dda-deva.001</key>
+	<string>dda-deva.001.glif</string>
 	<key>dda.small</key>
 	<string>dda.small.glif</string>
 	<key>ddda-deva</key>
@@ -856,6 +860,8 @@
 	<string>nn_ra-deva.glif</string>
 	<key>nna-deva</key>
 	<string>nna-deva.glif</string>
+	<key>nna-deva.001</key>
+	<string>nna-deva.001.glif</string>
 	<key>nnn-deva</key>
 	<string>nnn-deva.glif</string>
 	<key>nnna-deva</key>
@@ -1050,6 +1056,8 @@
 	<string>reph_anusvara-deva.glif</string>
 	<key>reph_anusvara-deva.imatra</key>
 	<string>reph_anusvara-deva.imatra.glif</string>
+	<key>reph_auMatra_anusvara-deva</key>
+	<string>reph_auM_atra_anusvara-deva.glif</string>
 	<key>reph_candraBindu-deva</key>
 	<string>reph_candraB_indu-deva.glif</string>
 	<key>rha-deva</key>

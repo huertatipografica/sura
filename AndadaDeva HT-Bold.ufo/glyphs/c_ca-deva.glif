@@ -5,10 +5,18 @@
     <component base="c-deva"/>
     <component base="ca-deva" xOffset="382"/>
     <contour>
-      <point x="936" y="641" type="move" name="top"/>
+      <point x="951" y="641" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="936" y="0" type="move" name="bottom"/>
+      <point x="951" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>1</integer>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
 </glyph>

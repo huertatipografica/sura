@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ga-deva" format="1">
-  <advance width="572"/>
+  <advance width="597"/>
   <unicode hex="0917"/>
   <outline>
     <component base="g-deva"/>
-    <component base="aaMatra-deva" xOffset="304"/>
+    <component base="aaMatra-deva" xOffset="329"/>
     <contour>
-      <point x="161" y="0" type="move" name="nukta"/>
+      <point x="156" y="0" type="move" name="nukta"/>
     </contour>
     <contour>
-      <point x="438" y="0" type="move" name="bottom"/>
+      <point x="463" y="0" type="move" name="bottom"/>
     </contour>
     <contour>
-      <point x="438" y="599" type="move" name="top"/>
+      <point x="463" y="599" type="move" name="top"/>
     </contour>
   </outline>
 </glyph>

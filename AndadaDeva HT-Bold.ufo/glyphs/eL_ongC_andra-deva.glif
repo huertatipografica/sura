@@ -3,7 +3,7 @@
   <advance width="423"/>
   <unicode hex="0955"/>
   <outline>
-    <component base="eCandraMatra-deva" yOffset="107"/>
+    <component base="eCandraMatra-deva" yOffset="117"/>
     <component base="anudatta-deva" xOffset="12" yOffset="820"/>
     <contour>
       <point x="215" y="641" type="move" name="_top"/>

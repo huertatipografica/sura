@@ -4,12 +4,12 @@
   <unicode hex="0931"/>
   <outline>
     <component base="ra-deva"/>
-    <component base="nukta-deva" xOffset="11" yOffset="117"/>
+    <component base="nukta-deva" xOffset="-4" yOffset="115"/>
     <contour>
       <point x="206" y="640" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="196" y="0" type="move" name="bottom"/>
+      <point x="234" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
 </glyph>

@@ -5,7 +5,10 @@
     <component base="eMatra-deva"/>
     <component base="anusvara-deva" xOffset="305"/>
     <contour>
-      <point x="323" y="599" type="move" name="_top"/>
+      <point x="340" y="599" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="328" y="599" type="move" name="_top"/>
     </contour>
   </outline>
 </glyph>

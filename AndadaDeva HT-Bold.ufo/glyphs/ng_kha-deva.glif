@@ -12,12 +12,20 @@
     </contour>
     <component base="dda.small" xOffset="28"/>
     <component base="nukta-deva" xOffset="483" yOffset="526"/>
-    <component base="kha.small" xOffset="-11" yOffset="-396"/>
+    <component base="kha.small" xOffset="-11" yOffset="-403"/>
     <contour>
       <point x="393" y="641" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="317" y="-217" type="move" name="bottom"/>
+      <point x="483" y="-249" type="move" name="bottom"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>8</integer>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
 </glyph>

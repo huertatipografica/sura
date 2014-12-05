@@ -52,7 +52,7 @@
     </contour>
     <component base="aaMatra-deva"/>
     <contour>
-      <point x="132" y="600" type="move" name="top"/>
+      <point x="214" y="659" type="move" name="top"/>
     </contour>
     <contour>
       <point x="133" y="0" type="move" name="bottom"/>

@@ -12,20 +12,18 @@
       <point x="495" y="641" type="line"/>
     </contour>
     <contour>
-      <point x="728" y="119" type="line"/>
-      <point x="723" y="184" type="line"/>
+      <point x="723" y="176" type="line"/>
       <point x="723" y="563" type="line"/>
       <point x="609" y="563" type="line"/>
-      <point x="609" y="185" type="line"/>
-      <point x="603" y="119" type="line"/>
+      <point x="609" y="176" type="line"/>
     </contour>
     <component base="l-deva"/>
-    <component base="rrVocalicMatra-deva" xOffset="471" yOffset="134"/>
+    <component base="rrVocalicMatra-deva" xOffset="466" yOffset="191"/>
     <contour>
       <point x="666" y="641" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="666" y="0" type="move" name="bottom"/>
+      <point x="454" y="-29" type="move" name="bottom"/>
     </contour>
   </outline>
 </glyph>

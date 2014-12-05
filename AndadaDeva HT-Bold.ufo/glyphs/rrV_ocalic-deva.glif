@@ -45,10 +45,10 @@
     <component base="t_ra-deva"/>
     <component base="rrVocalicMatra-deva" xOffset="547" yOffset="182"/>
     <contour>
-      <point x="417" y="641" type="move" name="top"/>
+      <point x="427" y="641" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="417" y="0" type="move" name="bottom"/>
+      <point x="427" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
 </glyph>

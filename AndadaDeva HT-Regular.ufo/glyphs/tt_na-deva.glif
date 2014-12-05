@@ -11,12 +11,20 @@
       <point x="534" y="599" type="line"/>
     </contour>
     <component base="tta.small" xOffset="-11"/>
-    <component base="na.small" xOffset="27" yOffset="-378"/>
+    <component base="na.small" xOffset="27" yOffset="-380"/>
     <contour>
       <point x="391" y="599" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="285" y="-258" type="move" name="bottom"/>
+      <point x="384" y="-193" type="move" name="bottom"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>1</integer>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
 </glyph>

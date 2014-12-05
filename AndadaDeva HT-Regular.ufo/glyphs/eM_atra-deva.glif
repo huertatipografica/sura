@@ -20,6 +20,9 @@
       <point x="10" y="823" type="curve"/>
     </contour>
     <contour>
+      <point x="338" y="599" type="move" name="top"/>
+    </contour>
+    <contour>
       <point x="328" y="599" type="move" name="_top"/>
     </contour>
   </outline>

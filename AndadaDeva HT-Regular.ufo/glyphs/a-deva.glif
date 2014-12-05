@@ -67,10 +67,13 @@
     </contour>
     <component base="aaMatra-deva" xOffset="489"/>
     <contour>
-      <point x="623" y="599" type="move" name="top"/>
+      <point x="77" y="0" type="move" name="nukta"/>
     </contour>
     <contour>
       <point x="623" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="623" y="599" type="move" name="top"/>
     </contour>
   </outline>
 </glyph>

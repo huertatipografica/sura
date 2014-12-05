@@ -5,5 +5,8 @@
   <outline>
     <component base="a-deva"/>
     <component base="oeMatra-deva" xOffset="573"/>
+    <contour>
+      <point x="623" y="599" type="move" name="top"/>
+    </contour>
   </outline>
 </glyph>

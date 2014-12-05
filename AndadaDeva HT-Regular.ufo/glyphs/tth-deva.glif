@@ -3,6 +3,6 @@
   <advance width="590"/>
   <outline>
     <component base="ttha-deva"/>
-    <component base="halant-deva" xOffset="213"/>
+    <component base="halant-deva" xOffset="203" yOffset="52"/>
   </outline>
 </glyph>

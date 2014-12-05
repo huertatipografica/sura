@@ -4,8 +4,5 @@
   <outline>
     <component base="aaMatra-deva"/>
     <component base="eMatra_reph-deva" xOffset="-189"/>
-    <contour>
-      <point x="288" y="640" type="move" name="top"/>
-    </contour>
   </outline>
 </glyph>

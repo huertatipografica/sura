@@ -51,13 +51,13 @@
       <point x="322" y="253" type="line"/>
     </contour>
     <contour>
-      <point x="444" y="567" type="line"/>
-      <point x="444" y="118" type="line"/>
-      <point x="433" y="-10" type="line"/>
-      <point x="511" y="-23" type="line"/>
-      <point x="530" y="-6" type="line"/>
-      <point x="521" y="121" type="line"/>
-      <point x="521" y="567" type="line"/>
+      <point x="444" y="562" type="line"/>
+      <point x="444" y="113" type="line"/>
+      <point x="433" y="-15" type="line"/>
+      <point x="511" y="-28" type="line"/>
+      <point x="530" y="-11" type="line"/>
+      <point x="521" y="116" type="line"/>
+      <point x="521" y="562" type="line"/>
     </contour>
     <contour>
       <point x="245" y="550" type="line"/>
@@ -77,7 +77,15 @@
       <point x="496" y="599" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="244" y="-122" type="move" name="bottom"/>
+      <point x="481" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>6</integer>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
 </glyph>

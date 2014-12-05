@@ -27,9 +27,6 @@
     </contour>
     <component base="eMatra-deva"/>
     <contour>
-      <point x="400" y="695" type="move" name="anusvara"/>
-    </contour>
-    <contour>
       <point x="323" y="599" type="move" name="_top"/>
     </contour>
   </outline>

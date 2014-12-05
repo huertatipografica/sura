@@ -3,6 +3,6 @@
   <advance width="747"/>
   <outline>
     <component base="ll-deva"/>
-    <component base="nukta-deva" xOffset="323" yOffset="153"/>
+    <component base="nukta-deva" xOffset="323" yOffset="113"/>
   </outline>
 </glyph>

@@ -4,7 +4,7 @@
   <unicode hex="095E"/>
   <outline>
     <component base="pha-deva"/>
-    <component base="nukta-deva" xOffset="154" yOffset="116"/>
+    <component base="nukta-deva" xOffset="79" yOffset="160"/>
     <contour>
       <point x="449" y="640" type="move" name="top"/>
     </contour>

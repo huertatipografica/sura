@@ -3,12 +3,12 @@
   <advance width="644"/>
   <outline>
     <contour>
-      <point x="-50" y="641" type="line"/>
-      <point x="-60" y="611" type="line"/>
-      <point x="-35" y="536" type="line"/>
-      <point x="634" y="536" type="line"/>
-      <point x="644" y="566" type="line"/>
-      <point x="619" y="641" type="line"/>
+      <point x="-20" y="641" type="line"/>
+      <point x="-30" y="611" type="line"/>
+      <point x="-5" y="536" type="line"/>
+      <point x="659" y="536" type="line"/>
+      <point x="669" y="566" type="line"/>
+      <point x="644" y="641" type="line"/>
     </contour>
     <contour>
       <point x="122" y="168"/>
@@ -83,13 +83,13 @@
       <point x="212" y="-84" type="curve"/>
     </contour>
     <contour>
-      <point x="400" y="197" type="line"/>
-      <point x="400" y="-113" type="line"/>
-      <point x="385" y="-268" type="line"/>
-      <point x="475" y="-282" type="line"/>
-      <point x="497" y="-261" type="line"/>
-      <point x="485" y="-125" type="line"/>
-      <point x="485" y="198" type="line"/>
+      <point x="400" y="190" type="line"/>
+      <point x="400" y="-120" type="line"/>
+      <point x="385" y="-275" type="line"/>
+      <point x="475" y="-289" type="line"/>
+      <point x="497" y="-268" type="line"/>
+      <point x="485" y="-132" type="line"/>
+      <point x="485" y="191" type="line"/>
     </contour>
     <component base="dda.small" xOffset="28"/>
     <component base="nukta-deva" xOffset="483" yOffset="526"/>
@@ -97,7 +97,15 @@
       <point x="398" y="641" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="453" y="-259" type="move" name="bottom"/>
+      <point x="446" y="-249" type="move" name="bottom"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>8</integer>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
 </glyph>

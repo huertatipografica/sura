@@ -1,13 +1,5 @@
-# Prefix: Languagesystems
-# automatic
-languagesystem DFLT dflt;
-languagesystem dev2 dflt;
-languagesystem grek dflt;
-languagesystem latn dflt;
-languagesystem dev2 NEP;
-languagesystem dev2 MAR;
-
 # Prefix: DevaRemoveReph
+# automatic
 # BEGIN removeReph
 lookup removeReph {
 sub ka-deva [ reph-deva reph_anusvara-deva ] by ka-deva;
@@ -61,7 +53,13 @@ sub gga-deva [ reph-deva reph_anusvara-deva ] by gga-deva;
 sub jja-deva [ reph-deva reph_anusvara-deva ] by jja-deva;
 sub ddda-deva [ reph-deva reph_anusvara-deva ] by ddda-deva;
 sub bba-deva [ reph-deva reph_anusvara-deva ] by bba-deva;
+sub ka-deva.001 [ reph-deva reph_anusvara-deva ] by ka-deva.001;
+sub dda-deva.001 [ reph-deva reph_anusvara-deva ] by dda-deva.001;
 sub ha-deva.alt [ reph-deva reph_anusvara-deva ] by ha-deva.alt;
+sub ka-deva.comb [ reph-deva reph_anusvara-deva ] by ka-deva.comb;
+sub na-deva.comb [ reph-deva reph_anusvara-deva ] by na-deva.comb;
+sub pa-deva.comb [ reph-deva reph_anusvara-deva ] by pa-deva.comb;
+sub ra-deva.comb [ reph-deva reph_anusvara-deva ] by ra-deva.comb;
 sub ya-deva.conecta [ reph-deva reph_anusvara-deva ] by ya-deva.conecta;
 sub la-deva.loclMAR [ reph-deva reph_anusvara-deva ] by la-deva.loclMAR;
 sub sha-deva.loclMAR [ reph-deva reph_anusvara-deva ] by sha-deva.loclMAR;
@@ -73,9 +71,11 @@ sub kh-deva [ reph-deva reph_anusvara-deva ] by kh-deva;
 sub g-deva [ reph-deva reph_anusvara-deva ] by g-deva;
 sub gh-deva [ reph-deva reph_anusvara-deva ] by gh-deva;
 sub ng-deva [ reph-deva reph_anusvara-deva ] by ng-deva;
+sub ng_k-deva [ reph-deva reph_anusvara-deva ] by ng_k-deva;
 sub c-deva [ reph-deva reph_anusvara-deva ] by c-deva;
 sub ch-deva [ reph-deva reph_anusvara-deva ] by ch-deva;
 sub j-deva [ reph-deva reph_anusvara-deva ] by j-deva;
+sub j_j-deva [ reph-deva reph_anusvara-deva ] by j_j-deva;
 sub j_ny-deva [ reph-deva reph_anusvara-deva ] by j_ny-deva;
 sub jh-deva [ reph-deva reph_anusvara-deva ] by jh-deva;
 sub ny-deva [ reph-deva reph_anusvara-deva ] by ny-deva;
@@ -93,15 +93,18 @@ sub d-deva [ reph-deva reph_anusvara-deva ] by d-deva;
 sub d_y-deva [ reph-deva reph_anusvara-deva ] by d_y-deva;
 sub dh-deva [ reph-deva reph_anusvara-deva ] by dh-deva;
 sub n-deva [ reph-deva reph_anusvara-deva ] by n-deva;
+sub nnn-deva [ reph-deva reph_anusvara-deva ] by nnn-deva;
 sub p-deva [ reph-deva reph_anusvara-deva ] by p-deva;
 sub ph-deva [ reph-deva reph_anusvara-deva ] by ph-deva;
 sub b-deva [ reph-deva reph_anusvara-deva ] by b-deva;
+sub b_r-deva [ reph-deva reph_anusvara-deva ] by b_r-deva;
 sub bh-deva [ reph-deva reph_anusvara-deva ] by bh-deva;
 sub m-deva [ reph-deva reph_anusvara-deva ] by m-deva;
 sub y-deva [ reph-deva reph_anusvara-deva ] by y-deva;
 sub rr-deva [ reph-deva reph_anusvara-deva ] by rr-deva;
 sub l-deva [ reph-deva reph_anusvara-deva ] by l-deva;
 sub ll-deva [ reph-deva reph_anusvara-deva ] by ll-deva;
+sub lll-deva [ reph-deva reph_anusvara-deva ] by lll-deva;
 sub v-deva [ reph-deva reph_anusvara-deva ] by v-deva;
 sub v_r-deva [ reph-deva reph_anusvara-deva ] by v_r-deva;
 sub sh-deva [ reph-deva reph_anusvara-deva ] by sh-deva;
@@ -113,7 +116,9 @@ sub q-deva [ reph-deva reph_anusvara-deva ] by q-deva;
 sub khh-deva [ reph-deva reph_anusvara-deva ] by khh-deva;
 sub ghh-deva [ reph-deva reph_anusvara-deva ] by ghh-deva;
 sub z-deva [ reph-deva reph_anusvara-deva ] by z-deva;
+sub f-deva [ reph-deva reph_anusvara-deva ] by f-deva;
 sub sh-deva.loclMAR [ reph-deva reph_anusvara-deva ] by sh-deva.loclMAR;
+sub jh-deva.loclNEP [ reph-deva reph_anusvara-deva ] by jh-deva.loclNEP;
 sub sh-deva.ss02 [ reph-deva reph_anusvara-deva ] by sh-deva.ss02;
 sub k_ka-deva [ reph-deva reph_anusvara-deva ] by k_ka-deva;
 sub k_ta-deva [ reph-deva reph_anusvara-deva ] by k_ta-deva;
@@ -121,6 +126,7 @@ sub k_ra-deva [ reph-deva reph_anusvara-deva ] by k_ra-deva;
 sub k_la-deva [ reph-deva reph_anusvara-deva ] by k_la-deva;
 sub k_va-deva [ reph-deva reph_anusvara-deva ] by k_va-deva;
 sub k_ssa-deva [ reph-deva reph_anusvara-deva ] by k_ssa-deva;
+sub k_ss_ra-deva [ reph-deva reph_anusvara-deva ] by k_ss_ra-deva;
 sub kh_ra-deva [ reph-deva reph_anusvara-deva ] by kh_ra-deva;
 sub g_na-deva [ reph-deva reph_anusvara-deva ] by g_na-deva;
 sub g_ra-deva [ reph-deva reph_anusvara-deva ] by g_ra-deva;
@@ -128,6 +134,7 @@ sub g_la-deva [ reph-deva reph_anusvara-deva ] by g_la-deva;
 sub gh_ra-deva [ reph-deva reph_anusvara-deva ] by gh_ra-deva;
 sub gh_la-deva [ reph-deva reph_anusvara-deva ] by gh_la-deva;
 sub ng_ka-deva [ reph-deva reph_anusvara-deva ] by ng_ka-deva;
+sub ng_k_ssa-deva [ reph-deva reph_anusvara-deva ] by ng_k_ssa-deva;
 sub ng_kha-deva [ reph-deva reph_anusvara-deva ] by ng_kha-deva;
 sub ng_ga-deva [ reph-deva reph_anusvara-deva ] by ng_ga-deva;
 sub ng_gha-deva [ reph-deva reph_anusvara-deva ] by ng_gha-deva;
@@ -138,6 +145,7 @@ sub c_la-deva [ reph-deva reph_anusvara-deva ] by c_la-deva;
 sub ch_va-deva [ reph-deva reph_anusvara-deva ] by ch_va-deva;
 sub j_ja-deva [ reph-deva reph_anusvara-deva ] by j_ja-deva;
 sub j_nya-deva [ reph-deva reph_anusvara-deva ] by j_nya-deva;
+sub j_ny_ra-deva [ reph-deva reph_anusvara-deva ] by j_ny_ra-deva;
 sub j_ra-deva [ reph-deva reph_anusvara-deva ] by j_ra-deva;
 sub jha_uMatra-deva [ reph-deva reph_anusvara-deva ] by jha_uMatra-deva;
 sub jh_ra-deva [ reph-deva reph_anusvara-deva ] by jh_ra-deva;
@@ -178,6 +186,7 @@ sub d_ga_uMatra-deva [ reph-deva reph_anusvara-deva ] by d_ga_uMatra-deva;
 sub d_g_ra-deva [ reph-deva reph_anusvara-deva ] by d_g_ra-deva;
 sub d_gha-deva [ reph-deva reph_anusvara-deva ] by d_gha-deva;
 sub d_gha_uMatra-deva [ reph-deva reph_anusvara-deva ] by d_gha_uMatra-deva;
+sub d_ddh_r_ya-deva [ reph-deva reph_anusvara-deva ] by d_ddh_r_ya-deva;
 sub d_da-deva [ reph-deva reph_anusvara-deva ] by d_da-deva;
 sub d_da_uMatra-deva [ reph-deva reph_anusvara-deva ] by d_da_uMatra-deva;
 sub d_d_ya-deva [ reph-deva reph_anusvara-deva ] by d_d_ya-deva;
@@ -209,6 +218,7 @@ sub p_ta-deva [ reph-deva reph_anusvara-deva ] by p_ta-deva;
 sub p_ra-deva [ reph-deva reph_anusvara-deva ] by p_ra-deva;
 sub p_la-deva [ reph-deva reph_anusvara-deva ] by p_la-deva;
 sub ph_ra-deva [ reph-deva reph_anusvara-deva ] by ph_ra-deva;
+sub ph_r_nukta-deva [ reph-deva reph_anusvara-deva ] by ph_r_nukta-deva;
 sub ph_la-deva [ reph-deva reph_anusvara-deva ] by ph_la-deva;
 sub b_ra-deva [ reph-deva reph_anusvara-deva ] by b_ra-deva;
 sub b_la-deva [ reph-deva reph_anusvara-deva ] by b_la-deva;
@@ -216,16 +226,21 @@ sub bh_ra-deva [ reph-deva reph_anusvara-deva ] by bh_ra-deva;
 sub m_ra-deva [ reph-deva reph_anusvara-deva ] by m_ra-deva;
 sub y_ra-deva [ reph-deva reph_anusvara-deva ] by y_ra-deva;
 sub ra_uMatra-deva [ reph-deva reph_anusvara-deva ] by ra_uMatra-deva;
+sub ra_uuMatra-deva [ reph-deva reph_anusvara-deva ] by ra_uuMatra-deva;
 sub l_ra-deva [ reph-deva reph_anusvara-deva ] by l_ra-deva;
 sub l_la-deva [ reph-deva reph_anusvara-deva ] by l_la-deva;
 sub v_ra-deva [ reph-deva reph_anusvara-deva ] by v_ra-deva;
+sub sh_rVocalic-deva [ reph-deva reph_anusvara-deva ] by sh_rVocalic-deva;
 sub sh_ca-deva [ reph-deva reph_anusvara-deva ] by sh_ca-deva;
 sub sh_na-deva [ reph-deva reph_anusvara-deva ] by sh_na-deva;
 sub sh_ra-deva [ reph-deva reph_anusvara-deva ] by sh_ra-deva;
+sub sh_la-deva [ reph-deva reph_anusvara-deva ] by sh_la-deva;
 sub sh_va-deva [ reph-deva reph_anusvara-deva ] by sh_va-deva;
+sub ss_tta-deva [ reph-deva reph_anusvara-deva ] by ss_tta-deva;
 sub ss_tta-deva [ reph-deva reph_anusvara-deva ] by ss_tta-deva;
 sub ss_ttha-deva [ reph-deva reph_anusvara-deva ] by ss_ttha-deva;
 sub ss_ra-deva [ reph-deva reph_anusvara-deva ] by ss_ra-deva;
+sub s_t_ra-deva [ reph-deva reph_anusvara-deva ] by s_t_ra-deva;
 sub s_ra-deva [ reph-deva reph_anusvara-deva ] by s_ra-deva;
 sub ha_uMatra-deva [ reph-deva reph_anusvara-deva ] by ha_uMatra-deva;
 sub ha_rVocalicMatra-deva [ reph-deva reph_anusvara-deva ] by ha_rVocalicMatra-deva;
@@ -236,64 +251,121 @@ sub h_ya-deva [ reph-deva reph_anusvara-deva ] by h_ya-deva;
 sub h_ra-deva [ reph-deva reph_anusvara-deva ] by h_ra-deva;
 sub h_la-deva [ reph-deva reph_anusvara-deva ] by h_la-deva;
 sub h_va-deva [ reph-deva reph_anusvara-deva ] by h_va-deva;
+sub iiMatra_candraBindu-deva [ reph-deva reph_anusvara-deva ] by iiMatra_candraBindu-deva;
+sub oShortMatra_candraBindu-deva [ reph-deva reph_anusvara-deva ] by oShortMatra_candraBindu-deva;
+sub oMatra_candraBindu-deva [ reph-deva reph_anusvara-deva ] by oMatra_candraBindu-deva;
+sub auMatra_candraBindu-deva [ reph-deva reph_anusvara-deva ] by auMatra_candraBindu-deva;
+sub da_uMatra-deva.001 [ reph-deva reph_anusvara-deva ] by da_uMatra-deva.001;
+sub iiMatra_candraBindu-deva.01 [ reph-deva reph_anusvara-deva ] by iiMatra_candraBindu-deva.01;
 sub c_ca-deva.alt [ reph-deva reph_anusvara-deva ] by c_ca-deva.alt;
 sub t_ra-deva.alt [ reph-deva reph_anusvara-deva ] by t_ra-deva.alt;
+sub k_la-deva.loclMAR [ reph-deva reph_anusvara-deva ] by k_la-deva.loclMAR;
+sub c_la-deva.loclMAR [ reph-deva reph_anusvara-deva ] by c_la-deva.loclMAR;
+sub ch_la-deva.loclMAR [ reph-deva reph_anusvara-deva ] by ch_la-deva.loclMAR;
+sub p_la-deva.loclMAR [ reph-deva reph_anusvara-deva ] by p_la-deva.loclMAR;
+sub ph_laph_la-deva.loclMAR [ reph-deva reph_anusvara-deva ] by ph_laph_la-deva.loclMAR;
+sub l_la-deva.loclMAR [ reph-deva reph_anusvara-deva ] by l_la-deva.loclMAR;
 sub sh_la-deva.loclMAR [ reph-deva reph_anusvara-deva ] by sh_la-deva.loclMAR;
 sub k_ra-deva.loclNEP [ reph-deva reph_anusvara-deva ] by k_ra-deva.loclNEP;
 } removeReph;
 # END removeReph
 
+# Prefix: Languagesystems
+# automatic
+languagesystem DFLT dflt;
+languagesystem dev2 dflt;
+languagesystem grek dflt;
+languagesystem latn dflt;
+languagesystem dev2 NEP;
+languagesystem dev2 MAR;
+
+# automatic
+@DevaHalfforms = [ k-deva k_ss-deva kh-deva g-deva gh-deva ng-deva ng_k-deva c-deva ch-deva j-deva j_j-deva j_ny-deva jh-deva ny-deva tt-deva tt_tt-deva tth-deva dd-deva ddh-deva nn-deva t-deva t_t-deva t_r-deva th-deva d-deva d_y-deva dh-deva n-deva nnn-deva p-deva ph-deva b-deva b_r-deva bh-deva m-deva y-deva rr-deva l-deva ll-deva lll-deva v-deva v_r-deva sh-deva sh_r-deva ss-deva s-deva h-deva q-deva khh-deva ghh-deva z-deva f-deva sh-deva.loclMAR jh-deva.loclNEP sh-deva.ss02 ];
+
+# automatic
+@DevaFullforms = [ ka-deva kha-deva ga-deva gha-deva nga-deva ca-deva cha-deva ja-deva jha-deva nya-deva tta-deva ttha-deva dda-deva ddha-deva nna-deva ta-deva tha-deva da-deva dha-deva na-deva nnna-deva pa-deva pha-deva ba-deva bha-deva ma-deva ya-deva ra-deva rra-deva la-deva lla-deva llla-deva va-deva sha-deva ssa-deva sa-deva ha-deva qa-deva khha-deva ghha-deva za-deva dddha-deva rha-deva fa-deva yya-deva zha-deva jjya-deva gga-deva jja-deva ddda-deva bba-deva ka-deva.001 dda-deva.001 ha-deva.alt ka-deva.comb na-deva.comb pa-deva.comb ra-deva.comb ya-deva.conecta la-deva.loclMAR sha-deva.loclMAR jha-deva.loclNEP zha-deva.loclNEP ];
+
+# automatic
+@DevaCjct = [ k_ka-deva k_ta-deva k_ra-deva k_la-deva k_va-deva k_ssa-deva k_ss_ra-deva kh_ra-deva g_na-deva g_ra-deva g_la-deva gh_ra-deva gh_la-deva ng_ka-deva ng_k_ssa-deva ng_kha-deva ng_ga-deva ng_gha-deva ng_ma-deva c_ca-deva c_ra-deva c_la-deva ch_va-deva j_ja-deva j_nya-deva j_ny_ra-deva j_ra-deva jha_uMatra-deva jh_ra-deva ny_ca-deva ny_ja-deva ny_ra-deva tt_tta-deva tt_tt_ya-deva tt_ttha-deva tt_ddha-deva tt_na-deva tt_ya-deva tt_va-deva tth_ttha-deva tth_tth_ya-deva tth_na-deva tth_ya-deva dd_gha-deva dd_tta-deva dd_dda-deva dd_dd_ya-deva dd_ddha-deva dd_na-deva dd_ma-deva dd_ya-deva ddh_ddha-deva ddh_ddh_ya-deva ddh_na-deva ddh_ya-deva nn_ra-deva t_ta-deva t_ra-deva t_r_ya-deva th_ra-deva da_uMatra-deva d_ga-deva d_ga_uMatra-deva d_g_ra-deva d_gha-deva d_gha_uMatra-deva d_ddh_r_ya-deva d_da-deva d_da_uMatra-deva d_d_ya-deva d_dha-deva d_dha_uMatra-deva d_dh_ya-deva d_na-deva d_na_uMatra-deva d_ba-deva d_ba_uMatra-deva d_b_ra-deva d_bha-deva d_bha_uMatra-deva d_bh_ya-deva d_ma-deva d_ya-deva d_ra-deva d_ra_uMatra-deva d_r_ya-deva d_va-deva d_va_uMatra-deva d_v_ya-deva d_rVocalicMatra-deva dh_ra-deva n_na-deva n_ra-deva p_tta-deva p_ta-deva p_ra-deva p_la-deva ph_ra-deva ph_r_nukta-deva ph_la-deva b_ra-deva b_la-deva bh_ra-deva m_ra-deva y_ra-deva ra_uMatra-deva ra_uuMatra-deva l_ra-deva l_la-deva v_ra-deva sh_rVocalic-deva sh_ca-deva sh_na-deva sh_ra-deva sh_la-deva sh_va-deva ss_tta-deva ss_tta-deva ss_ttha-deva ss_ra-deva s_t_ra-deva s_ra-deva ha_uMatra-deva ha_rVocalicMatra-deva h_nna-deva h_na-deva h_ma-deva h_ya-deva h_ra-deva h_la-deva h_va-deva iiMatra_candraBindu-deva oShortMatra_candraBindu-deva oMatra_candraBindu-deva auMatra_candraBindu-deva da_uMatra-deva.001 iiMatra_candraBindu-deva.01 c_ca-deva.alt t_ra-deva.alt k_la-deva.loclMAR c_la-deva.loclMAR ch_la-deva.loclMAR p_la-deva.loclMAR ph_laph_la-deva.loclMAR l_la-deva.loclMAR sh_la-deva.loclMAR k_ra-deva.loclNEP ];
+
+# automatic
+@Deva = [ ka-deva kha-deva ga-deva gha-deva nga-deva ca-deva cha-deva ja-deva jha-deva nya-deva tta-deva ttha-deva dda-deva ddha-deva nna-deva ta-deva tha-deva da-deva dha-deva na-deva nnna-deva pa-deva pha-deva ba-deva bha-deva ma-deva ya-deva ra-deva rra-deva la-deva lla-deva llla-deva va-deva sha-deva ssa-deva sa-deva ha-deva qa-deva khha-deva ghha-deva za-deva dddha-deva rha-deva fa-deva yya-deva zha-deva jjya-deva gga-deva jja-deva ddda-deva bba-deva ka-deva.001 dda-deva.001 ha-deva.alt ka-deva.comb na-deva.comb pa-deva.comb ra-deva.comb ya-deva.conecta la-deva.loclMAR sha-deva.loclMAR jha-deva.loclNEP zha-deva.loclNEP k-deva k_ss-deva kh-deva g-deva gh-deva ng-deva ng_k-deva c-deva ch-deva j-deva j_j-deva j_ny-deva jh-deva ny-deva tt-deva tt_tt-deva tth-deva dd-deva ddh-deva nn-deva t-deva t_t-deva t_r-deva th-deva d-deva d_y-deva dh-deva n-deva nnn-deva p-deva ph-deva b-deva b_r-deva bh-deva m-deva y-deva rr-deva l-deva ll-deva lll-deva v-deva v_r-deva sh-deva sh_r-deva ss-deva s-deva h-deva q-deva khh-deva ghh-deva z-deva f-deva sh-deva.loclMAR jh-deva.loclNEP sh-deva.ss02 k_ka-deva k_ta-deva k_ra-deva k_la-deva k_va-deva k_ssa-deva k_ss_ra-deva kh_ra-deva g_na-deva g_ra-deva g_la-deva gh_ra-deva gh_la-deva ng_ka-deva ng_k_ssa-deva ng_kha-deva ng_ga-deva ng_gha-deva ng_ma-deva c_ca-deva c_ra-deva c_la-deva ch_va-deva j_ja-deva j_nya-deva j_ny_ra-deva j_ra-deva jha_uMatra-deva jh_ra-deva ny_ca-deva ny_ja-deva ny_ra-deva tt_tta-deva tt_tt_ya-deva tt_ttha-deva tt_ddha-deva tt_na-deva tt_ya-deva tt_va-deva tth_ttha-deva tth_tth_ya-deva tth_na-deva tth_ya-deva dd_gha-deva dd_tta-deva dd_dda-deva dd_dd_ya-deva dd_ddha-deva dd_na-deva dd_ma-deva dd_ya-deva ddh_ddha-deva ddh_ddh_ya-deva ddh_na-deva ddh_ya-deva nn_ra-deva t_ta-deva t_ra-deva t_r_ya-deva th_ra-deva da_uMatra-deva d_ga-deva d_ga_uMatra-deva d_g_ra-deva d_gha-deva d_gha_uMatra-deva d_ddh_r_ya-deva d_da-deva d_da_uMatra-deva d_d_ya-deva d_dha-deva d_dha_uMatra-deva d_dh_ya-deva d_na-deva d_na_uMatra-deva d_ba-deva d_ba_uMatra-deva d_b_ra-deva d_bha-deva d_bha_uMatra-deva d_bh_ya-deva d_ma-deva d_ya-deva d_ra-deva d_ra_uMatra-deva d_r_ya-deva d_va-deva d_va_uMatra-deva d_v_ya-deva d_rVocalicMatra-deva dh_ra-deva n_na-deva n_ra-deva p_tta-deva p_ta-deva p_ra-deva p_la-deva ph_ra-deva ph_r_nukta-deva ph_la-deva b_ra-deva b_la-deva bh_ra-deva m_ra-deva y_ra-deva ra_uMatra-deva ra_uuMatra-deva l_ra-deva l_la-deva v_ra-deva sh_rVocalic-deva sh_ca-deva sh_na-deva sh_ra-deva sh_la-deva sh_va-deva ss_tta-deva ss_tta-deva ss_ttha-deva ss_ra-deva s_t_ra-deva s_ra-deva ha_uMatra-deva ha_rVocalicMatra-deva h_nna-deva h_na-deva h_ma-deva h_ya-deva h_ra-deva h_la-deva h_va-deva iiMatra_candraBindu-deva oShortMatra_candraBindu-deva oMatra_candraBindu-deva auMatra_candraBindu-deva da_uMatra-deva.001 iiMatra_candraBindu-deva.01 c_ca-deva.alt t_ra-deva.alt k_la-deva.loclMAR c_la-deva.loclMAR ch_la-deva.loclMAR p_la-deva.loclMAR ph_laph_la-deva.loclMAR l_la-deva.loclMAR sh_la-deva.loclMAR k_ra-deva.loclNEP ];
+
+# automatic
+@iMatraBase = [ iMatra-deva iMatra_reph-deva iMatra_reph_anusvara-deva ];
+
+# automatic
+@iMatra = [ iMatra-deva iMatra-deva.00 iMatra-deva.01 iMatra-deva.02 iMatra-deva.03 iMatra-deva.04 iMatra-deva.05 iMatra-deva.06 iMatra-deva.07 iMatra-deva.08 iMatra-deva.09 iMatra-deva.10 iMatra-deva.11 iMatra-deva.12 iMatra-deva.13 iMatra-deva.14 iMatra-deva.15 ];
+
+# automatic
+@iMatra_reph = [ iMatra_reph-deva iMatra_reph-deva.00 iMatra_reph-deva.01 iMatra_reph-deva.02 iMatra_reph-deva.03 iMatra_reph-deva.04 iMatra_reph-deva.05 iMatra_reph-deva.06 iMatra_reph-deva.07 iMatra_reph-deva.08 iMatra_reph-deva.09 iMatra_reph-deva.10 iMatra_reph-deva.11 iMatra_reph-deva.12 iMatra_reph-deva.13 iMatra_reph-deva.14 iMatra_reph-deva.15 ];
+
+# automatic
+@iMatra_reph_anusvara = [ iMatra_reph_anusvara-deva iMatra_reph_anusvara-deva.00 iMatra_reph_anusvara-deva.01 iMatra_reph_anusvara-deva.02 iMatra_reph_anusvara-deva.03 iMatra_reph_anusvara-deva.04 iMatra_reph_anusvara-deva.05 iMatra_reph_anusvara-deva.06 iMatra_reph_anusvara-deva.07 iMatra_reph_anusvara-deva.08 iMatra_reph_anusvara-deva.09 iMatra_reph_anusvara-deva.10 iMatra_reph_anusvara-deva.11 iMatra_reph_anusvara-deva.12 iMatra_reph_anusvara-deva.13 iMatra_reph_anusvara-deva.14 iMatra_reph_anusvara-deva.15 ];
+
+# automatic
+@DevaHalf.01 = [ rr-deva ];
+
+# automatic
+@DevaHalf.02 = [ g-deva gh-deva c-deva j_ny-deva t-deva t_t-deva t_r-deva th-deva d_y-deva n-deva nnn-deva p-deva b-deva b_r-deva bh-deva m-deva y-deva v-deva v_r-deva ss-deva ghh-deva ];
+
+# automatic
+@DevaHalf.03 = [ k_ss-deva j-deva j_j-deva nn-deva dh-deva l-deva sh_r-deva s-deva h-deva z-deva sh-deva.ss02 ];
+
+# automatic
+@DevaHalf.04 = [ kh-deva jh-deva ny-deva tt-deva tt_tt-deva sh-deva khh-deva sh-deva.loclMAR ];
+
+# automatic
+@DevaHalf.05 = [ k-deva ng-deva tth-deva dd-deva ddh-deva d-deva ph-deva q-deva f-deva ];
+
+# automatic
+@DevaHalf.06 = [ ng_k-deva ch-deva ll-deva lll-deva jh-deva.loclNEP ];
+
+# automatic
+@DevaFull.00 = [ iiMatra_candraBindu-deva iiMatra_candraBindu-deva.01 ];
+
+# automatic
+@DevaFull.01 = [ ra-deva rra-deva ra-deva.comb ra_uMatra-deva ra_uuMatra-deva oShortMatra_candraBindu-deva oMatra_candraBindu-deva auMatra_candraBindu-deva ];
+
+# automatic
+@DevaFull.02 = [ pa-deva.comb ya-deva.conecta zha-deva.loclNEP ];
+
+# automatic
+@DevaFull.03 = [ ka-deva ga-deva nga-deva ca-deva tta-deva ttha-deva dda-deva ddha-deva ta-deva da-deva na-deva nnna-deva pa-deva pha-deva ba-deva ya-deva va-deva ssa-deva ha-deva qa-deva ghha-deva dddha-deva rha-deva fa-deva yya-deva jjya-deva ddda-deva ka-deva.001 dda-deva.001 ha-deva.alt na-deva.comb k_ka-deva k_ra-deva k_va-deva g_na-deva g_ra-deva g_la-deva ng_ka-deva ng_k_ssa-deva ng_kha-deva ng_ga-deva ng_gha-deva ng_ma-deva c_ra-deva ch_va-deva tt_tta-deva tt_ttha-deva tt_ddha-deva tt_na-deva tt_va-deva tth_ttha-deva tth_na-deva dd_gha-deva dd_tta-deva dd_dda-deva dd_ddha-deva dd_na-deva ddh_ddha-deva ddh_na-deva t_ra-deva da_uMatra-deva d_ga-deva d_ga_uMatra-deva d_g_ra-deva d_na-deva d_na_uMatra-deva d_ba-deva d_ba_uMatra-deva d_b_ra-deva d_ra-deva d_ra_uMatra-deva d_va-deva d_va_uMatra-deva d_rVocalicMatra-deva n_na-deva n_ra-deva p_tta-deva p_ra-deva ph_ra-deva ph_r_nukta-deva b_ra-deva b_la-deva y_ra-deva v_ra-deva ss_tta-deva ss_tta-deva ss_ttha-deva ss_ra-deva ha_uMatra-deva ha_rVocalicMatra-deva h_nna-deva h_na-deva h_ra-deva h_la-deva h_va-deva da_uMatra-deva.001 t_ra-deva.alt k_la-deva.loclMAR c_la-deva.loclMAR p_la-deva.loclMAR ph_laph_la-deva.loclMAR k_ra-deva.loclNEP ];
+
+# automatic
+@DevaFull.04 = [ gha-deva cha-deva tha-deva dha-deva bha-deva ma-deva lla-deva llla-deva sa-deva bba-deva ka-deva.comb la-deva.loclMAR sha-deva.loclMAR jha-deva.loclNEP k_ta-deva k_ssa-deva gh_ra-deva j_ja-deva j_nya-deva ny_ca-deva ny_ja-deva t_ta-deva th_ra-deva d_gha-deva d_gha_uMatra-deva d_da-deva d_da_uMatra-deva d_dha-deva d_dha_uMatra-deva d_bha-deva d_bha_uMatra-deva d_ma-deva d_ya-deva d_r_ya-deva dh_ra-deva bh_ra-deva m_ra-deva sh_rVocalic-deva sh_ca-deva sh_na-deva sh_ra-deva sh_la-deva sh_va-deva s_ra-deva c_ca-deva.alt ch_la-deva.loclMAR l_la-deva.loclMAR ];
+
+# automatic
+@DevaFull.05 = [ ja-deva nna-deva la-deva sha-deva za-deva zha-deva gga-deva k_ss_ra-deva j_ny_ra-deva j_ra-deva nn_ra-deva l_ra-deva h_ma-deva h_ya-deva ];
+
+# automatic
+@DevaFull.06 = [ kha-deva jha-deva nya-deva khha-deva jja-deva kh_ra-deva jha_uMatra-deva jh_ra-deva ny_ra-deva t_r_ya-deva p_ta-deva s_t_ra-deva ];
+
+# automatic
+@DevaFull.07 = [ c_ca-deva d_d_ya-deva ];
+
+# automatic
+@DevaFull.08 = [ c_la-deva tt_tt_ya-deva tt_ya-deva tth_tth_ya-deva dd_dd_ya-deva dd_ya-deva ddh_ddh_ya-deva ddh_ya-deva d_v_ya-deva p_la-deva sh_la-deva.loclMAR ];
+
+# automatic
+@DevaFull.09 = [ tth_ya-deva dd_ma-deva d_ddh_r_ya-deva d_dh_ya-deva d_bh_ya-deva ];
+
+# automatic
+@DevaFull.10 = [ l_la-deva ];
+
+# automatic
+@DevaFull.11 = [ k_la-deva ph_la-deva ];
+
+# automatic
+@DevaFull.12 = [ gh_la-deva ];
+
 # automatic
 @Uppercase = [ A AE B C Ccedilla D E Eth F G H I J K L M N O OE Oslash P Q R S T Thorn U V W X Y Z ];
 
-@DevaHalfforms = [ k-deva k_ss-deva kh-deva g-deva gh-deva ng-deva c-deva ch-deva j-deva j_ny-deva jh-deva ny-deva tt-deva tt_tt-deva tth-deva dd-deva ddh-deva nn-deva t-deva t_t-deva t_r-deva th-deva d-deva d_y-deva dh-deva n-deva p-deva ph-deva b-deva bh-deva m-deva y-deva rr-deva l-deva ll-deva v-deva v_r-deva sh-deva sh_r-deva ss-deva s-deva h-deva q-deva khh-deva ghh-deva z-deva sh-deva.loclMAR sh-deva.ss02 ];
-
-@DevaFullforms = [ ka-deva kha-deva ga-deva gha-deva nga-deva ca-deva cha-deva ja-deva jha-deva nya-deva tta-deva ttha-deva dda-deva ddha-deva nna-deva ta-deva tha-deva da-deva dha-deva na-deva nnna-deva pa-deva pha-deva ba-deva bha-deva ma-deva ya-deva ra-deva rra-deva la-deva lla-deva llla-deva va-deva sha-deva ssa-deva sa-deva ha-deva qa-deva khha-deva ghha-deva za-deva dddha-deva rha-deva fa-deva yya-deva zha-deva jjya-deva gga-deva jja-deva ddda-deva bba-deva ha-deva.alt ya-deva.conecta la-deva.loclMAR sha-deva.loclMAR jha-deva.loclNEP zha-deva.loclNEP ];
-
-@DevaCjct = [ k_ka-deva k_ta-deva k_ra-deva k_la-deva k_va-deva k_ssa-deva kh_ra-deva g_na-deva g_ra-deva g_la-deva gh_ra-deva gh_la-deva ng_ka-deva ng_kha-deva ng_ga-deva ng_gha-deva ng_ma-deva c_ca-deva c_ra-deva c_la-deva ch_va-deva j_ja-deva j_nya-deva j_ra-deva jha_uMatra-deva jh_ra-deva ny_ca-deva ny_ja-deva ny_ra-deva tt_tta-deva tt_tt_ya-deva tt_ttha-deva tt_ddha-deva tt_na-deva tt_ya-deva tt_va-deva tth_ttha-deva tth_tth_ya-deva tth_na-deva tth_ya-deva dd_gha-deva dd_tta-deva dd_dda-deva dd_dd_ya-deva dd_ddha-deva dd_na-deva dd_ma-deva dd_ya-deva ddh_ddha-deva ddh_ddh_ya-deva ddh_na-deva ddh_ya-deva nn_ra-deva t_ta-deva t_ra-deva t_r_ya-deva th_ra-deva da_uMatra-deva d_ga-deva d_ga_uMatra-deva d_g_ra-deva d_gha-deva d_gha_uMatra-deva d_da-deva d_da_uMatra-deva d_d_ya-deva d_dha-deva d_dha_uMatra-deva d_dh_ya-deva d_na-deva d_na_uMatra-deva d_ba-deva d_ba_uMatra-deva d_b_ra-deva d_bha-deva d_bha_uMatra-deva d_bh_ya-deva d_ma-deva d_ya-deva d_ra-deva d_ra_uMatra-deva d_r_ya-deva d_va-deva d_va_uMatra-deva d_v_ya-deva d_rVocalicMatra-deva dh_ra-deva n_na-deva n_ra-deva p_tta-deva p_ta-deva p_ra-deva p_la-deva ph_ra-deva ph_la-deva b_ra-deva b_la-deva bh_ra-deva m_ra-deva y_ra-deva ra_uMatra-deva l_ra-deva l_la-deva v_ra-deva sh_ca-deva sh_na-deva sh_ra-deva sh_va-deva ss_tta-deva ss_ttha-deva ss_ra-deva s_ra-deva ha_uMatra-deva ha_rVocalicMatra-deva h_nna-deva h_na-deva h_ma-deva h_ya-deva h_ra-deva h_la-deva h_va-deva c_ca-deva.alt t_ra-deva.alt sh_la-deva.loclMAR k_ra-deva.loclNEP ];
-
-@Deva = [ ka-deva kha-deva ga-deva gha-deva nga-deva ca-deva cha-deva ja-deva jha-deva nya-deva tta-deva ttha-deva dda-deva ddha-deva nna-deva ta-deva tha-deva da-deva dha-deva na-deva nnna-deva pa-deva pha-deva ba-deva bha-deva ma-deva ya-deva ra-deva rra-deva la-deva lla-deva llla-deva va-deva sha-deva ssa-deva sa-deva ha-deva qa-deva khha-deva ghha-deva za-deva dddha-deva rha-deva fa-deva yya-deva zha-deva jjya-deva gga-deva jja-deva ddda-deva bba-deva ha-deva.alt ya-deva.conecta la-deva.loclMAR sha-deva.loclMAR jha-deva.loclNEP zha-deva.loclNEP k-deva k_ss-deva kh-deva g-deva gh-deva ng-deva c-deva ch-deva j-deva j_ny-deva jh-deva ny-deva tt-deva tt_tt-deva tth-deva dd-deva ddh-deva nn-deva t-deva t_t-deva t_r-deva th-deva d-deva d_y-deva dh-deva n-deva p-deva ph-deva b-deva bh-deva m-deva y-deva rr-deva l-deva ll-deva v-deva v_r-deva sh-deva sh_r-deva ss-deva s-deva h-deva q-deva khh-deva ghh-deva z-deva sh-deva.loclMAR sh-deva.ss02 k_ka-deva k_ta-deva k_ra-deva k_la-deva k_va-deva k_ssa-deva kh_ra-deva g_na-deva g_ra-deva g_la-deva gh_ra-deva gh_la-deva ng_ka-deva ng_kha-deva ng_ga-deva ng_gha-deva ng_ma-deva c_ca-deva c_ra-deva c_la-deva ch_va-deva j_ja-deva j_nya-deva j_ra-deva jha_uMatra-deva jh_ra-deva ny_ca-deva ny_ja-deva ny_ra-deva tt_tta-deva tt_tt_ya-deva tt_ttha-deva tt_ddha-deva tt_na-deva tt_ya-deva tt_va-deva tth_ttha-deva tth_tth_ya-deva tth_na-deva tth_ya-deva dd_gha-deva dd_tta-deva dd_dda-deva dd_dd_ya-deva dd_ddha-deva dd_na-deva dd_ma-deva dd_ya-deva ddh_ddha-deva ddh_ddh_ya-deva ddh_na-deva ddh_ya-deva nn_ra-deva t_ta-deva t_ra-deva t_r_ya-deva th_ra-deva da_uMatra-deva d_ga-deva d_ga_uMatra-deva d_g_ra-deva d_gha-deva d_gha_uMatra-deva d_da-deva d_da_uMatra-deva d_d_ya-deva d_dha-deva d_dha_uMatra-deva d_dh_ya-deva d_na-deva d_na_uMatra-deva d_ba-deva d_ba_uMatra-deva d_b_ra-deva d_bha-deva d_bha_uMatra-deva d_bh_ya-deva d_ma-deva d_ya-deva d_ra-deva d_ra_uMatra-deva d_r_ya-deva d_va-deva d_va_uMatra-deva d_v_ya-deva d_rVocalicMatra-deva dh_ra-deva n_na-deva n_ra-deva p_tta-deva p_ta-deva p_ra-deva p_la-deva ph_ra-deva ph_la-deva b_ra-deva b_la-deva bh_ra-deva m_ra-deva y_ra-deva ra_uMatra-deva l_ra-deva l_la-deva v_ra-deva sh_ca-deva sh_na-deva sh_ra-deva sh_va-deva ss_tta-deva ss_ttha-deva ss_ra-deva s_ra-deva ha_uMatra-deva ha_rVocalicMatra-deva h_nna-deva h_na-deva h_ma-deva h_ya-deva h_ra-deva h_la-deva h_va-deva c_ca-deva.alt t_ra-deva.alt sh_la-deva.loclMAR k_ra-deva.loclNEP ];
-
-@iMatraBase = [ iMatra-deva iMatra_reph-deva iMatra_reph_anusvara-deva ];
-
-@iMatra = [ iMatra-deva iMatra-deva.00 iMatra-deva.01 iMatra-deva.02 iMatra-deva.03 iMatra-deva.04 iMatra-deva.05 iMatra-deva.06 iMatra-deva.07 iMatra-deva.08 iMatra-deva.09 iMatra-deva.10 iMatra-deva.11 iMatra-deva.12 iMatra-deva.13 iMatra-deva.14 iMatra-deva.15 ];
-
-@iMatra_reph = [ iMatra_reph-deva iMatra_reph-deva.00 iMatra_reph-deva.01 iMatra_reph-deva.02 iMatra_reph-deva.03 iMatra_reph-deva.04 iMatra_reph-deva.05 iMatra_reph-deva.06 iMatra_reph-deva.07 iMatra_reph-deva.08 iMatra_reph-deva.09 iMatra_reph-deva.10 iMatra_reph-deva.11 iMatra_reph-deva.12 iMatra_reph-deva.13 iMatra_reph-deva.14 iMatra_reph-deva.15 ];
-
-@iMatra_reph_anusvara = [ iMatra_reph_anusvara-deva iMatra_reph_anusvara-deva.00 iMatra_reph_anusvara-deva.01 iMatra_reph_anusvara-deva.02 iMatra_reph_anusvara-deva.03 iMatra_reph_anusvara-deva.04 iMatra_reph_anusvara-deva.05 iMatra_reph_anusvara-deva.06 iMatra_reph_anusvara-deva.07 iMatra_reph_anusvara-deva.08 iMatra_reph_anusvara-deva.09 iMatra_reph_anusvara-deva.10 iMatra_reph_anusvara-deva.11 iMatra_reph_anusvara-deva.12 iMatra_reph_anusvara-deva.13 iMatra_reph_anusvara-deva.14 iMatra_reph_anusvara-deva.15 ];
-
-@DevaHalf.01 = [ rr-deva ];
-
-@DevaHalf.02 = [ g-deva gh-deva c-deva j_ny-deva t-deva t_t-deva t_r-deva th-deva d_y-deva n-deva p-deva b-deva bh-deva m-deva y-deva v-deva v_r-deva ss-deva ghh-deva ];
-
-@DevaHalf.03 = [ k_ss-deva j-deva nn-deva dh-deva l-deva sh_r-deva s-deva h-deva z-deva sh-deva.ss02 ];
-
-@DevaHalf.04 = [ kh-deva jh-deva ny-deva tt-deva tt_tt-deva sh-deva khh-deva sh-deva.loclMAR ];
-
-@DevaHalf.05 = [ k-deva ng-deva tth-deva dd-deva ddh-deva d-deva ph-deva q-deva ];
-
-@DevaHalf.06 = [ ch-deva ll-deva ];
-
-@DevaFull.01 = [ ra-deva rra-deva zha-deva.loclNEP ra_uMatra-deva ];
-
-@DevaFull.02 = [ ya-deva.conecta ];
-
-@DevaFull.03 = [ ka-deva ga-deva gha-deva nga-deva ca-deva tta-deva ttha-deva dda-deva ddha-deva ta-deva da-deva na-deva nnna-deva pa-deva pha-deva ba-deva ya-deva va-deva ssa-deva ha-deva qa-deva ghha-deva dddha-deva rha-deva fa-deva yya-deva jjya-deva gga-deva ddda-deva bba-deva ha-deva.alt k_ka-deva k_ra-deva k_la-deva k_va-deva g_na-deva g_ra-deva g_la-deva ng_ka-deva ng_kha-deva ng_ga-deva ng_gha-deva ng_ma-deva c_ra-deva c_la-deva ch_va-deva tt_tta-deva tt_ttha-deva tt_ddha-deva tt_na-deva tt_va-deva tth_ttha-deva tth_na-deva dd_gha-deva dd_tta-deva dd_dda-deva dd_ddha-deva dd_na-deva ddh_ddha-deva ddh_na-deva t_ra-deva da_uMatra-deva d_ga-deva d_ga_uMatra-deva d_g_ra-deva d_na-deva d_na_uMatra-deva d_ba-deva d_ba_uMatra-deva d_b_ra-deva d_ra-deva d_ra_uMatra-deva d_va-deva d_va_uMatra-deva d_rVocalicMatra-deva n_na-deva n_ra-deva p_tta-deva p_ra-deva p_la-deva ph_ra-deva ph_la-deva b_ra-deva b_la-deva y_ra-deva v_ra-deva ss_tta-deva ss_ttha-deva ss_ra-deva ha_uMatra-deva ha_rVocalicMatra-deva h_nna-deva h_na-deva h_ra-deva h_la-deva h_va-deva t_ra-deva.alt k_ra-deva.loclNEP ];
-
-@DevaFull.04 = [ cha-deva tha-deva dha-deva bha-deva ma-deva lla-deva llla-deva sa-deva la-deva.loclMAR sha-deva.loclMAR jha-deva.loclNEP k_ta-deva k_ssa-deva gh_ra-deva gh_la-deva j_ja-deva j_nya-deva ny_ca-deva ny_ja-deva t_ta-deva th_ra-deva d_gha-deva d_gha_uMatra-deva d_da-deva d_da_uMatra-deva d_dha-deva d_dha_uMatra-deva d_bha-deva d_bha_uMatra-deva d_ma-deva d_ya-deva d_r_ya-deva dh_ra-deva bh_ra-deva m_ra-deva l_la-deva sh_ca-deva sh_na-deva sh_ra-deva sh_va-deva s_ra-deva c_ca-deva.alt ];
-
-@DevaFull.05 = [ ja-deva nna-deva la-deva sha-deva za-deva zha-deva jja-deva j_ra-deva nn_ra-deva l_ra-deva h_ma-deva h_ya-deva ];
-
-@DevaFull.06 = [ kha-deva jha-deva nya-deva khha-deva kh_ra-deva jha_uMatra-deva jh_ra-deva ny_ra-deva t_r_ya-deva p_ta-deva ];
-
-@DevaFull.07 = [ c_ca-deva d_d_ya-deva ];
-
-@DevaFull.08 = [ tt_tt_ya-deva tt_ya-deva tth_tth_ya-deva dd_dd_ya-deva dd_ya-deva ddh_ddh_ya-deva ddh_ya-deva d_v_ya-deva sh_la-deva.loclMAR ];
-
-@DevaFull.09 = [ tth_ya-deva dd_ma-deva d_dh_ya-deva d_bh_ya-deva ];
-
 feature aalt {
 # automatic
+feature pres;
 feature ccmp;
 feature locl;
 feature ordn;
@@ -304,8 +376,6 @@ feature rphf;
 feature rkrf;
 feature half;
 feature cjct;
-feature abvs;
-feature pres;
 } aalt;
 
 feature ccmp {
@@ -324,11 +394,13 @@ sub aiMatra-deva reph-deva by aiMatra_reph-deva;
 sub aiMatra-deva reph-deva anusvara-deva by aiMatra_reph_anusvara-deva;
 sub reph-deva candraBindu-deva by reph_candraBindu-deva;
 sub reph-deva anusvara-deva by reph_anusvara-deva;
+sub reph-deva auMatra-deva anusvara-deva by reph_auMatra_anusvara-deva;
 sub rakar-deva uMatra-deva by rakar_uMatra-deva;
 sub rakar-deva uuMatra-deva by rakar_uuMatra-deva;
 } ccmp;
 
 feature locl {
+# automatic
 script dev2;
 language NEP;
 sub jha-deva by jha-deva.loclNEP;
@@ -343,11 +415,6 @@ sub lVocalic-deva by lVocalic-deva.loclMAR;
 sub llVocalic-deva by llVocalic-deva.loclMAR;
 sub sh-deva by sh-deva.loclMAR;
 sub reph-deva by reph-deva.loclMAR;
-#agregados por caro
-sub k_la-deva by k_la-deva.loclMAR;
-sub l_la-deva by l_la-deva.loclMAR;
-sub p_la-deva by p_la-deva.loclMAR;
-sub sh_la-deva by sh_la-deva.loclMAR;
 } locl;
 
 feature ordn {
@@ -488,6 +555,7 @@ sub jha-deva.loclNEP halant-deva by jh-deva.loclNEP;
 } half;
 
 feature cjct {
+# automatic
 sub k-deva ka-deva by k_ka-deva;
 sub k-deva ta-deva by k_ta-deva;
 sub k-deva la-deva by k_la-deva;
@@ -578,6 +646,7 @@ sub sh-deva na-deva by sh_na-deva;
 sub sh-deva la-deva by sh_la-deva;
 sub sh-deva va-deva by sh_va-deva;
 sub ss-deva tta-deva by ss_tta-deva;
+sub ss-deva tta-deva by ss_tta-deva;
 sub ss-deva ttha-deva by ss_ttha-deva;
 sub s-deva t_ra-deva by s_t_ra-deva;
 sub ha-deva uMatra-deva by ha_uMatra-deva;
@@ -592,529 +661,21 @@ sub iiMatra-deva candraBindu-deva by iiMatra_candraBindu-deva;
 sub oShortMatra-deva candraBindu-deva by oShortMatra_candraBindu-deva;
 sub oMatra-deva candraBindu-deva by oMatra_candraBindu-deva;
 sub auMatra-deva candraBindu-deva by auMatra_candraBindu-deva;
-#agregado por caro
-sub eMatra-deva reph-deva anusvara-deva by eMatra_reph_anusvara-deva;
-sub aiMatra-deva reph-deva anusvara-deva by aiMatra_reph_anusvara-deva;
-sub eCandraMatra-deva anusvara-deva by candraBindu-deva;
-sub iiMatra-deva anusvara-deva by iiMatra_anusvara-deva;
 } cjct;
 
-feature abvs {
-# BEGIN Above-Base Substitutions
-sub iMatra-deva reph-deva anusvara-deva by iMatra_reph_anusvara-deva;
-sub iMatra-deva reph-deva by iMatra_reph-deva;
-sub iiMatra-deva reph-deva anusvara-deva by iiMatra_reph_anusvara-deva;
-sub iiMatra-deva reph-deva by iiMatra_reph-deva;
-sub oMatra_anusvara-deva reph-deva by oMatra_reph_anusvara-deva;
-sub oMatra-deva anusvara-deva by oMatra_anusvara-deva;
-sub oMatra-deva reph-deva by oMatra_reph-deva;
-
-sub auMatra-deva anusvara-deva by auMatra_anusvara-deva;
-sub auMatra-deva reph-deva by auMatra_reph-deva;
-sub auMatra_anusvara-deva reph-deva by auMatra_reph_anusvara-deva;
-sub eMatra-deva anusvara-deva by eMatra_anusvara-deva;
-sub eMatra-deva reph-deva by eMatra_reph-deva;
-sub eMatra_anusvara-deva reph-deva by eMatra_reph_anusvara-deva;
-sub aiMatra-deva anusvara-deva by aiMatra_anusvara-deva;
-sub aiMatra-deva reph-deva by aiMatra_reph-deva;
-sub aiMatra_anusvara-deva reph-deva by aiMatra_reph_anusvara-deva;
-sub reph-deva anusvara-deva by reph_anusvara-deva;
-sub rakar-deva uMatra-deva by rakar_uMatra-deva;
-sub rakar-deva uuMatra-deva by rakar_uuMatra-deva;
-
-
-sub @iMatra' @Deva [reph-deva] by @iMatra_reph;
-sub @iMatra' @Deva [reph_anusvara-deva] by @iMatra_reph_anusvara;
-sub @iMatra' @Deva @Deva [reph-deva] by @iMatra_reph;
-sub @iMatra' @Deva @Deva [reph_anusvara-deva] by @iMatra_reph_anusvara;
-sub @iMatra' @Deva @Deva @Deva [reph-deva] by @iMatra_reph;
-sub @iMatra' @Deva @Deva @Deva [reph_anusvara-deva] by @iMatra_reph_anusvara;
-sub @iMatra' @Deva @Deva @Deva @Deva [reph-deva] by @iMatra_reph;
-sub @iMatra' @Deva @Deva @Deva @Deva [reph_anusvara-deva] by @iMatra_reph_anusvara;
-
-#remove reph
-sub [@iMatra_reph @iMatra_reph_anusvara] @Deva' lookup removeReph [reph-deva reph_anusvara-deva]';
-sub [@iMatra_reph @iMatra_reph_anusvara] @Deva @Deva' lookup removeReph [reph-deva reph_anusvara-deva]';
-sub [@iMatra_reph @iMatra_reph_anusvara] @Deva @Deva @Deva' lookup removeReph [reph-deva reph_anusvara-deva]';
-sub [@iMatra_reph @iMatra_reph_anusvara] @Deva @Deva @Deva @Deva' lookup removeReph [reph-deva reph_anusvara-deva]';
-sub [@iMatra_reph @iMatra_reph_anusvara] @Deva @Deva @Deva @Deva @Deva' lookup removeReph [reph-deva reph_anusvara-deva]';
-#utiliza un candraBindu alternativo en iMatra
-sub [@iMatra @iMatra_reph @iMatra_reph_anusvara] @Deva candraBindu-deva' by candraBindu-deva.alt;
-sub [@iMatra @iMatra_reph @iMatra_reph_anusvara] @Deva @Deva candraBindu-deva' by candraBindu-deva.alt;
-sub [@iMatra @iMatra_reph @iMatra_reph_anusvara] @Deva @Deva @Deva candraBindu-deva' by candraBindu-deva.alt;
-sub [@iMatra @iMatra_reph @iMatra_reph_anusvara] @Deva @Deva @Deva @Deva candraBindu-deva' by candraBindu-deva.alt;
-
-#utiliza un anusvara alternativo en iMatra
-sub [@iMatra @iMatra_reph @iMatra_reph_anusvara] @Deva anusvara-deva' by anusvara-deva.alt;
-sub [@iMatra @iMatra_reph @iMatra_reph_anusvara] @Deva @Deva anusvara-deva' by anusvara-deva.alt;
-sub [@iMatra @iMatra_reph @iMatra_reph_anusvara] @Deva @Deva @Deva anusvara-deva' by anusvara-deva.alt;
-sub [@iMatra @iMatra_reph @iMatra_reph_anusvara] @Deva @Deva @Deva @Deva anusvara-deva' by anusvara-deva.alt;
-
-#candraBindu y anusvara alternativo despues de reph
-sub [reph-deva reph_anusvara-deva] [candraBindu-deva anusvara-deva]' by [candraBindu-deva.alt anusvara-deva.alt];
-
-# END Above-Base Substitutions
-} abvs;
-
 feature pres {
-# BEGIN Pre-Base Substitutions
-#Predefined combinations
-sub [@iMatraBase]' k-deva s-deva p_ra-deva by [iMatra-deva.13 iMatra_reph-deva.13 iMatra_reph_anusvara-deva.13];
-sub [@iMatraBase]' k-deva s-deva p-deva la-deva by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' t-deva s-deva n-deva ya-deva by [iMatra-deva.14 iMatra_reph-deva.14 iMatra_reph_anusvara-deva.14];
-sub [@iMatraBase]' n-deva s-deva m-deva ya-deva by [iMatra-deva.14 iMatra_reph-deva.14 iMatra_reph_anusvara-deva.14];
-sub [@iMatraBase]' c-deva c-deva ya-deva by [iMatra-deva.10 iMatra_reph-deva.10 iMatra_reph_anusvara-deva.10];
-sub [@iMatraBase]' g-deva bh-deva ya-deva by [iMatra-deva.10 iMatra_reph-deva.10 iMatra_reph_anusvara-deva.10];
-sub [@iMatraBase]' g-deva dh-deva va-deva by [iMatra-deva.10 iMatra_reph-deva.10 iMatra_reph_anusvara-deva.10];
-sub [@iMatraBase]' g-deva dh-deva ya-deva by [iMatra-deva.10 iMatra_reph-deva.10 iMatra_reph_anusvara-deva.10];
-sub [@iMatraBase]' g-deva l-deva ya-deva by [iMatra-deva.11 iMatra_reph-deva.11 iMatra_reph_anusvara-deva.11];
-sub [@iMatraBase]' g-deva m-deva ya-deva by [iMatra-deva.10 iMatra_reph-deva.10 iMatra_reph_anusvara-deva.10];
-sub [@iMatraBase]' gh-deva l-deva ya-deva by [iMatra-deva.11 iMatra_reph-deva.11 iMatra_reph_anusvara-deva.11];
-sub [@iMatraBase]' h-deva m-deva ya-deva by [iMatra-deva.12 iMatra_reph-deva.12 iMatra_reph_anusvara-deva.12];
-sub [@iMatraBase]' k-deva k-deva ya-deva by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' k-deva s-deva dda-deva by [iMatra-deva.13 iMatra_reph-deva.13 iMatra_reph_anusvara-deva.13];
-sub [@iMatraBase]' k-deva s-deva pa-deva by [iMatra-deva.13 iMatra_reph-deva.13 iMatra_reph_anusvara-deva.13];
-sub [@iMatraBase]' k-deva s-deva ta-deva by [iMatra-deva.14 iMatra_reph-deva.14 iMatra_reph_anusvara-deva.14];
-sub [@iMatraBase]' k-deva s-deva tta-deva by [iMatra-deva.13 iMatra_reph-deva.13 iMatra_reph_anusvara-deva.13];
-sub [@iMatraBase]' k-deva t-deva va-deva by [iMatra-deva.12 iMatra_reph-deva.12 iMatra_reph_anusvara-deva.12];
-sub [@iMatraBase]' k-deva t-deva ya-deva by [iMatra-deva.12 iMatra_reph-deva.12 iMatra_reph_anusvara-deva.12];
-sub [@iMatraBase]' k-deva v-deva ya-deva by [iMatra-deva.12 iMatra_reph-deva.12 iMatra_reph_anusvara-deva.12];
-sub [@iMatraBase]' kh-deva m-deva ya-deva by [iMatra-deva.12 iMatra_reph-deva.12 iMatra_reph_anusvara-deva.12];
-sub [@iMatraBase]' kh-deva t-deva ya-deva by [iMatra-deva.12 iMatra_reph-deva.12 iMatra_reph_anusvara-deva.12];
-sub [@iMatraBase]' l-deva k-deva ya-deva by [iMatra-deva.14 iMatra_reph-deva.14 iMatra_reph_anusvara-deva.14];
-sub [@iMatraBase]' l-deva l-deva ya-deva by [iMatra-deva.13 iMatra_reph-deva.13 iMatra_reph_anusvara-deva.13];
-sub [@iMatraBase]' l-deva th-deva ya-deva by [iMatra-deva.12 iMatra_reph-deva.12 iMatra_reph_anusvara-deva.12];
-sub [@iMatraBase]' m-deva b-deva ya-deva by [iMatra-deva.10 iMatra_reph-deva.10 iMatra_reph_anusvara-deva.10];
-sub [@iMatraBase]' m-deva bh-deva va-deva by [iMatra-deva.10 iMatra_reph-deva.10 iMatra_reph_anusvara-deva.10];
-sub [@iMatraBase]' m-deva bh-deva ya-deva by [iMatra-deva.10 iMatra_reph-deva.10 iMatra_reph_anusvara-deva.10];
-sub [@iMatraBase]' m-deva m-deva ya-deva by [iMatra-deva.10 iMatra_reph-deva.10 iMatra_reph_anusvara-deva.10];
-sub [@iMatraBase]' n-deva bh-deva va-deva by [iMatra-deva.10 iMatra_reph-deva.10 iMatra_reph_anusvara-deva.10];
-sub [@iMatraBase]' n-deva bh-deva ya-deva by [iMatra-deva.10 iMatra_reph-deva.10 iMatra_reph_anusvara-deva.10];
-sub [@iMatraBase]' n-deva dh-deva ya-deva by [iMatra-deva.10 iMatra_reph-deva.10 iMatra_reph_anusvara-deva.10];
-sub [@iMatraBase]' n-deva g-deva va-deva by [iMatra-deva.09 iMatra_reph-deva.09 iMatra_reph_anusvara-deva.09];
-sub [@iMatraBase]' n-deva j-deva ya-deva by [iMatra-deva.11 iMatra_reph-deva.11 iMatra_reph_anusvara-deva.11];
-sub [@iMatraBase]' n-deva k-deva sa-deva by [iMatra-deva.14 iMatra_reph-deva.14 iMatra_reph_anusvara-deva.14];
-sub [@iMatraBase]' n-deva m-deva ya-deva by [iMatra-deva.10 iMatra_reph-deva.10 iMatra_reph_anusvara-deva.10];
-sub [@iMatraBase]' n-deva s-deva tta-deva by [iMatra-deva.10 iMatra_reph-deva.10 iMatra_reph_anusvara-deva.10];
-sub [@iMatraBase]' n-deva s-deva ya-deva by [iMatra-deva.11 iMatra_reph-deva.11 iMatra_reph_anusvara-deva.11];
-sub [@iMatraBase]' n-deva t-deva sa-deva by [iMatra-deva.11 iMatra_reph-deva.11 iMatra_reph_anusvara-deva.11];
-sub [@iMatraBase]' n-deva t-deva va-deva by [iMatra-deva.09 iMatra_reph-deva.09 iMatra_reph_anusvara-deva.09];
-sub [@iMatraBase]' n-deva t-deva ya-deva by [iMatra-deva.09 iMatra_reph-deva.09 iMatra_reph_anusvara-deva.09];
-sub [@iMatraBase]' n-deva th-deva va-deva by [iMatra-deva.10 iMatra_reph-deva.10 iMatra_reph_anusvara-deva.10];
-sub [@iMatraBase]' n-deva th-deva ya-deva by [iMatra-deva.10 iMatra_reph-deva.10 iMatra_reph_anusvara-deva.10];
-sub [@iMatraBase]' nga-deva k-deva ta-deva by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' nga-deva kh-deva ya-deva by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' ny-deva c-deva ya-deva by [iMatra-deva.12 iMatra_reph-deva.12 iMatra_reph_anusvara-deva.12];
-sub [@iMatraBase]' ny-deva j-deva ya-deva by [iMatra-deva.13 iMatra_reph-deva.13 iMatra_reph_anusvara-deva.13];
-sub [@iMatraBase]' p-deva s-deva va-deva by [iMatra-deva.10 iMatra_reph-deva.10 iMatra_reph_anusvara-deva.10];
-sub [@iMatraBase]' p-deva t-deva ya-deva by [iMatra-deva.09 iMatra_reph-deva.09 iMatra_reph_anusvara-deva.09];
-sub [@iMatraBase]' ra-deva c-deva cha-deva by [iMatra-deva.12 iMatra_reph-deva.12 iMatra_reph_anusvara-deva.12];
-sub [@iMatraBase]' s-deva m-deva ya-deva by [iMatra-deva.11 iMatra_reph-deva.11 iMatra_reph_anusvara-deva.11];
-sub [@iMatraBase]' s-deva n-deva ya-deva by [iMatra-deva.11 iMatra_reph-deva.11 iMatra_reph_anusvara-deva.11];
-sub [@iMatraBase]' s-deva p-deva la-deva by [iMatra-deva.12 iMatra_reph-deva.12 iMatra_reph_anusvara-deva.12];
-sub [@iMatraBase]' s-deva t-deva va-deva by [iMatra-deva.10 iMatra_reph-deva.10 iMatra_reph_anusvara-deva.10];
-sub [@iMatraBase]' s-deva t-deva ya-deva by [iMatra-deva.10 iMatra_reph-deva.10 iMatra_reph_anusvara-deva.10];
-sub [@iMatraBase]' s-deva th-deva ya-deva by [iMatra-deva.11 iMatra_reph-deva.11 iMatra_reph_anusvara-deva.11];
-sub [@iMatraBase]' t-deva k-deva la-deva by [iMatra-deva.14 iMatra_reph-deva.14 iMatra_reph_anusvara-deva.14];
-sub [@iMatraBase]' t-deva k-deva ya-deva by [iMatra-deva.12 iMatra_reph-deva.12 iMatra_reph_anusvara-deva.12];
-sub [@iMatraBase]' t-deva m-deva ya-deva by [iMatra-deva.10 iMatra_reph-deva.10 iMatra_reph_anusvara-deva.10];
-sub [@iMatraBase]' t-deva n-deva ya-deva by [iMatra-deva.09 iMatra_reph-deva.09 iMatra_reph_anusvara-deva.09];
-sub [@iMatraBase]' t-deva p-deva la-deva by [iMatra-deva.11 iMatra_reph-deva.11 iMatra_reph_anusvara-deva.11];
-sub [@iMatraBase]' t-deva s-deva na-deva by [iMatra-deva.11 iMatra_reph-deva.11 iMatra_reph_anusvara-deva.11];
-sub [@iMatraBase]' t-deva s-deva va-deva by [iMatra-deva.10 iMatra_reph-deva.10 iMatra_reph_anusvara-deva.10];
-sub [@iMatraBase]' t-deva s-deva ya-deva by [iMatra-deva.10 iMatra_reph-deva.10 iMatra_reph_anusvara-deva.10];
-#Triple combinations
-sub [@iMatraBase]' [@DevaHalf.01] [@DevaHalf.01] [@DevaFull.01] by [iMatra-deva.06 iMatra_reph-deva.06 iMatra_reph_anusvara-deva.06];
-sub [@iMatraBase]' [@DevaHalf.01] [@DevaHalf.01] [@DevaFull.02] by [iMatra-deva.07 iMatra_reph-deva.07 iMatra_reph_anusvara-deva.07];
-sub [@iMatraBase]' [@DevaHalf.01] [@DevaHalf.01] [@DevaFull.03] by [iMatra-deva.08 iMatra_reph-deva.08 iMatra_reph_anusvara-deva.08];
-sub [@iMatraBase]' [@DevaHalf.01] [@DevaHalf.01] [@DevaFull.04] by [iMatra-deva.09 iMatra_reph-deva.09 iMatra_reph_anusvara-deva.09];
-sub [@iMatraBase]' [@DevaHalf.01] [@DevaHalf.01] [@DevaFull.05] by [iMatra-deva.10 iMatra_reph-deva.10 iMatra_reph_anusvara-deva.10];
-sub [@iMatraBase]' [@DevaHalf.01] [@DevaHalf.01] [@DevaFull.06] by [iMatra-deva.11 iMatra_reph-deva.11 iMatra_reph_anusvara-deva.11];
-sub [@iMatraBase]' [@DevaHalf.01] [@DevaHalf.01] [@DevaFull.07] by [iMatra-deva.12 iMatra_reph-deva.12 iMatra_reph_anusvara-deva.12];
-sub [@iMatraBase]' [@DevaHalf.01] [@DevaHalf.01] [@DevaFull.08] by [iMatra-deva.13 iMatra_reph-deva.13 iMatra_reph_anusvara-deva.13];
-sub [@iMatraBase]' [@DevaHalf.01] [@DevaHalf.01] [@DevaFull.09] by [iMatra-deva.14 iMatra_reph-deva.14 iMatra_reph_anusvara-deva.14];
-sub [@iMatraBase]' [@DevaHalf.01] [@DevaHalf.02] [@DevaFull.01] by [iMatra-deva.07 iMatra_reph-deva.07 iMatra_reph_anusvara-deva.07];
-sub [@iMatraBase]' [@DevaHalf.01] [@DevaHalf.02] [@DevaFull.02] by [iMatra-deva.08 iMatra_reph-deva.08 iMatra_reph_anusvara-deva.08];
-sub [@iMatraBase]' [@DevaHalf.01] [@DevaHalf.02] [@DevaFull.03] by [iMatra-deva.09 iMatra_reph-deva.09 iMatra_reph_anusvara-deva.09];
-sub [@iMatraBase]' [@DevaHalf.01] [@DevaHalf.02] [@DevaFull.04] by [iMatra-deva.10 iMatra_reph-deva.10 iMatra_reph_anusvara-deva.10];
-sub [@iMatraBase]' [@DevaHalf.01] [@DevaHalf.02] [@DevaFull.05] by [iMatra-deva.11 iMatra_reph-deva.11 iMatra_reph_anusvara-deva.11];
-sub [@iMatraBase]' [@DevaHalf.01] [@DevaHalf.02] [@DevaFull.06] by [iMatra-deva.12 iMatra_reph-deva.12 iMatra_reph_anusvara-deva.12];
-sub [@iMatraBase]' [@DevaHalf.01] [@DevaHalf.02] [@DevaFull.07] by [iMatra-deva.13 iMatra_reph-deva.13 iMatra_reph_anusvara-deva.13];
-sub [@iMatraBase]' [@DevaHalf.01] [@DevaHalf.02] [@DevaFull.08] by [iMatra-deva.14 iMatra_reph-deva.14 iMatra_reph_anusvara-deva.14];
-sub [@iMatraBase]' [@DevaHalf.01] [@DevaHalf.02] [@DevaFull.09] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.01] [@DevaHalf.03] [@DevaFull.01] by [iMatra-deva.08 iMatra_reph-deva.08 iMatra_reph_anusvara-deva.08];
-sub [@iMatraBase]' [@DevaHalf.01] [@DevaHalf.03] [@DevaFull.02] by [iMatra-deva.09 iMatra_reph-deva.09 iMatra_reph_anusvara-deva.09];
-sub [@iMatraBase]' [@DevaHalf.01] [@DevaHalf.03] [@DevaFull.03] by [iMatra-deva.10 iMatra_reph-deva.10 iMatra_reph_anusvara-deva.10];
-sub [@iMatraBase]' [@DevaHalf.01] [@DevaHalf.03] [@DevaFull.04] by [iMatra-deva.11 iMatra_reph-deva.11 iMatra_reph_anusvara-deva.11];
-sub [@iMatraBase]' [@DevaHalf.01] [@DevaHalf.03] [@DevaFull.05] by [iMatra-deva.12 iMatra_reph-deva.12 iMatra_reph_anusvara-deva.12];
-sub [@iMatraBase]' [@DevaHalf.01] [@DevaHalf.03] [@DevaFull.06] by [iMatra-deva.13 iMatra_reph-deva.13 iMatra_reph_anusvara-deva.13];
-sub [@iMatraBase]' [@DevaHalf.01] [@DevaHalf.03] [@DevaFull.07] by [iMatra-deva.14 iMatra_reph-deva.14 iMatra_reph_anusvara-deva.14];
-sub [@iMatraBase]' [@DevaHalf.01] [@DevaHalf.03] [@DevaFull.08] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.01] [@DevaHalf.03] [@DevaFull.09] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.01] [@DevaHalf.04] [@DevaFull.01] by [iMatra-deva.09 iMatra_reph-deva.09 iMatra_reph_anusvara-deva.09];
-sub [@iMatraBase]' [@DevaHalf.01] [@DevaHalf.04] [@DevaFull.02] by [iMatra-deva.10 iMatra_reph-deva.10 iMatra_reph_anusvara-deva.10];
-sub [@iMatraBase]' [@DevaHalf.01] [@DevaHalf.04] [@DevaFull.03] by [iMatra-deva.11 iMatra_reph-deva.11 iMatra_reph_anusvara-deva.11];
-sub [@iMatraBase]' [@DevaHalf.01] [@DevaHalf.04] [@DevaFull.04] by [iMatra-deva.12 iMatra_reph-deva.12 iMatra_reph_anusvara-deva.12];
-sub [@iMatraBase]' [@DevaHalf.01] [@DevaHalf.04] [@DevaFull.05] by [iMatra-deva.13 iMatra_reph-deva.13 iMatra_reph_anusvara-deva.13];
-sub [@iMatraBase]' [@DevaHalf.01] [@DevaHalf.04] [@DevaFull.06] by [iMatra-deva.14 iMatra_reph-deva.14 iMatra_reph_anusvara-deva.14];
-sub [@iMatraBase]' [@DevaHalf.01] [@DevaHalf.04] [@DevaFull.07] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.01] [@DevaHalf.04] [@DevaFull.08] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.01] [@DevaHalf.04] [@DevaFull.09] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.01] [@DevaHalf.05] [@DevaFull.01] by [iMatra-deva.10 iMatra_reph-deva.10 iMatra_reph_anusvara-deva.10];
-sub [@iMatraBase]' [@DevaHalf.01] [@DevaHalf.05] [@DevaFull.02] by [iMatra-deva.11 iMatra_reph-deva.11 iMatra_reph_anusvara-deva.11];
-sub [@iMatraBase]' [@DevaHalf.01] [@DevaHalf.05] [@DevaFull.03] by [iMatra-deva.12 iMatra_reph-deva.12 iMatra_reph_anusvara-deva.12];
-sub [@iMatraBase]' [@DevaHalf.01] [@DevaHalf.05] [@DevaFull.04] by [iMatra-deva.13 iMatra_reph-deva.13 iMatra_reph_anusvara-deva.13];
-sub [@iMatraBase]' [@DevaHalf.01] [@DevaHalf.05] [@DevaFull.05] by [iMatra-deva.14 iMatra_reph-deva.14 iMatra_reph_anusvara-deva.14];
-sub [@iMatraBase]' [@DevaHalf.01] [@DevaHalf.05] [@DevaFull.06] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.01] [@DevaHalf.05] [@DevaFull.07] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.01] [@DevaHalf.05] [@DevaFull.08] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.01] [@DevaHalf.05] [@DevaFull.09] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.01] [@DevaHalf.06] [@DevaFull.01] by [iMatra-deva.11 iMatra_reph-deva.11 iMatra_reph_anusvara-deva.11];
-sub [@iMatraBase]' [@DevaHalf.01] [@DevaHalf.06] [@DevaFull.02] by [iMatra-deva.12 iMatra_reph-deva.12 iMatra_reph_anusvara-deva.12];
-sub [@iMatraBase]' [@DevaHalf.01] [@DevaHalf.06] [@DevaFull.03] by [iMatra-deva.13 iMatra_reph-deva.13 iMatra_reph_anusvara-deva.13];
-sub [@iMatraBase]' [@DevaHalf.01] [@DevaHalf.06] [@DevaFull.04] by [iMatra-deva.14 iMatra_reph-deva.14 iMatra_reph_anusvara-deva.14];
-sub [@iMatraBase]' [@DevaHalf.01] [@DevaHalf.06] [@DevaFull.05] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.01] [@DevaHalf.06] [@DevaFull.06] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.01] [@DevaHalf.06] [@DevaFull.07] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.01] [@DevaHalf.06] [@DevaFull.08] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.01] [@DevaHalf.06] [@DevaFull.09] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.02] [@DevaHalf.01] [@DevaFull.01] by [iMatra-deva.07 iMatra_reph-deva.07 iMatra_reph_anusvara-deva.07];
-sub [@iMatraBase]' [@DevaHalf.02] [@DevaHalf.01] [@DevaFull.02] by [iMatra-deva.08 iMatra_reph-deva.08 iMatra_reph_anusvara-deva.08];
-sub [@iMatraBase]' [@DevaHalf.02] [@DevaHalf.01] [@DevaFull.03] by [iMatra-deva.09 iMatra_reph-deva.09 iMatra_reph_anusvara-deva.09];
-sub [@iMatraBase]' [@DevaHalf.02] [@DevaHalf.01] [@DevaFull.04] by [iMatra-deva.10 iMatra_reph-deva.10 iMatra_reph_anusvara-deva.10];
-sub [@iMatraBase]' [@DevaHalf.02] [@DevaHalf.01] [@DevaFull.05] by [iMatra-deva.11 iMatra_reph-deva.11 iMatra_reph_anusvara-deva.11];
-sub [@iMatraBase]' [@DevaHalf.02] [@DevaHalf.01] [@DevaFull.06] by [iMatra-deva.12 iMatra_reph-deva.12 iMatra_reph_anusvara-deva.12];
-sub [@iMatraBase]' [@DevaHalf.02] [@DevaHalf.01] [@DevaFull.07] by [iMatra-deva.13 iMatra_reph-deva.13 iMatra_reph_anusvara-deva.13];
-sub [@iMatraBase]' [@DevaHalf.02] [@DevaHalf.01] [@DevaFull.08] by [iMatra-deva.14 iMatra_reph-deva.14 iMatra_reph_anusvara-deva.14];
-sub [@iMatraBase]' [@DevaHalf.02] [@DevaHalf.01] [@DevaFull.09] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.02] [@DevaHalf.02] [@DevaFull.01] by [iMatra-deva.08 iMatra_reph-deva.08 iMatra_reph_anusvara-deva.08];
-sub [@iMatraBase]' [@DevaHalf.02] [@DevaHalf.02] [@DevaFull.02] by [iMatra-deva.09 iMatra_reph-deva.09 iMatra_reph_anusvara-deva.09];
-sub [@iMatraBase]' [@DevaHalf.02] [@DevaHalf.02] [@DevaFull.03] by [iMatra-deva.10 iMatra_reph-deva.10 iMatra_reph_anusvara-deva.10];
-sub [@iMatraBase]' [@DevaHalf.02] [@DevaHalf.02] [@DevaFull.04] by [iMatra-deva.11 iMatra_reph-deva.11 iMatra_reph_anusvara-deva.11];
-sub [@iMatraBase]' [@DevaHalf.02] [@DevaHalf.02] [@DevaFull.05] by [iMatra-deva.12 iMatra_reph-deva.12 iMatra_reph_anusvara-deva.12];
-sub [@iMatraBase]' [@DevaHalf.02] [@DevaHalf.02] [@DevaFull.06] by [iMatra-deva.13 iMatra_reph-deva.13 iMatra_reph_anusvara-deva.13];
-sub [@iMatraBase]' [@DevaHalf.02] [@DevaHalf.02] [@DevaFull.07] by [iMatra-deva.14 iMatra_reph-deva.14 iMatra_reph_anusvara-deva.14];
-sub [@iMatraBase]' [@DevaHalf.02] [@DevaHalf.02] [@DevaFull.08] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.02] [@DevaHalf.02] [@DevaFull.09] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.02] [@DevaHalf.03] [@DevaFull.01] by [iMatra-deva.09 iMatra_reph-deva.09 iMatra_reph_anusvara-deva.09];
-sub [@iMatraBase]' [@DevaHalf.02] [@DevaHalf.03] [@DevaFull.02] by [iMatra-deva.10 iMatra_reph-deva.10 iMatra_reph_anusvara-deva.10];
-sub [@iMatraBase]' [@DevaHalf.02] [@DevaHalf.03] [@DevaFull.03] by [iMatra-deva.11 iMatra_reph-deva.11 iMatra_reph_anusvara-deva.11];
-sub [@iMatraBase]' [@DevaHalf.02] [@DevaHalf.03] [@DevaFull.04] by [iMatra-deva.12 iMatra_reph-deva.12 iMatra_reph_anusvara-deva.12];
-sub [@iMatraBase]' [@DevaHalf.02] [@DevaHalf.03] [@DevaFull.05] by [iMatra-deva.13 iMatra_reph-deva.13 iMatra_reph_anusvara-deva.13];
-sub [@iMatraBase]' [@DevaHalf.02] [@DevaHalf.03] [@DevaFull.06] by [iMatra-deva.14 iMatra_reph-deva.14 iMatra_reph_anusvara-deva.14];
-sub [@iMatraBase]' [@DevaHalf.02] [@DevaHalf.03] [@DevaFull.07] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.02] [@DevaHalf.03] [@DevaFull.08] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.02] [@DevaHalf.03] [@DevaFull.09] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.02] [@DevaHalf.04] [@DevaFull.01] by [iMatra-deva.10 iMatra_reph-deva.10 iMatra_reph_anusvara-deva.10];
-sub [@iMatraBase]' [@DevaHalf.02] [@DevaHalf.04] [@DevaFull.02] by [iMatra-deva.11 iMatra_reph-deva.11 iMatra_reph_anusvara-deva.11];
-sub [@iMatraBase]' [@DevaHalf.02] [@DevaHalf.04] [@DevaFull.03] by [iMatra-deva.12 iMatra_reph-deva.12 iMatra_reph_anusvara-deva.12];
-sub [@iMatraBase]' [@DevaHalf.02] [@DevaHalf.04] [@DevaFull.04] by [iMatra-deva.13 iMatra_reph-deva.13 iMatra_reph_anusvara-deva.13];
-sub [@iMatraBase]' [@DevaHalf.02] [@DevaHalf.04] [@DevaFull.05] by [iMatra-deva.14 iMatra_reph-deva.14 iMatra_reph_anusvara-deva.14];
-sub [@iMatraBase]' [@DevaHalf.02] [@DevaHalf.04] [@DevaFull.06] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.02] [@DevaHalf.04] [@DevaFull.07] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.02] [@DevaHalf.04] [@DevaFull.08] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.02] [@DevaHalf.04] [@DevaFull.09] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.02] [@DevaHalf.05] [@DevaFull.01] by [iMatra-deva.11 iMatra_reph-deva.11 iMatra_reph_anusvara-deva.11];
-sub [@iMatraBase]' [@DevaHalf.02] [@DevaHalf.05] [@DevaFull.02] by [iMatra-deva.12 iMatra_reph-deva.12 iMatra_reph_anusvara-deva.12];
-sub [@iMatraBase]' [@DevaHalf.02] [@DevaHalf.05] [@DevaFull.03] by [iMatra-deva.13 iMatra_reph-deva.13 iMatra_reph_anusvara-deva.13];
-sub [@iMatraBase]' [@DevaHalf.02] [@DevaHalf.05] [@DevaFull.04] by [iMatra-deva.14 iMatra_reph-deva.14 iMatra_reph_anusvara-deva.14];
-sub [@iMatraBase]' [@DevaHalf.02] [@DevaHalf.05] [@DevaFull.05] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.02] [@DevaHalf.05] [@DevaFull.06] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.02] [@DevaHalf.05] [@DevaFull.07] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.02] [@DevaHalf.05] [@DevaFull.08] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.02] [@DevaHalf.05] [@DevaFull.09] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.02] [@DevaHalf.06] [@DevaFull.01] by [iMatra-deva.12 iMatra_reph-deva.12 iMatra_reph_anusvara-deva.12];
-sub [@iMatraBase]' [@DevaHalf.02] [@DevaHalf.06] [@DevaFull.02] by [iMatra-deva.13 iMatra_reph-deva.13 iMatra_reph_anusvara-deva.13];
-sub [@iMatraBase]' [@DevaHalf.02] [@DevaHalf.06] [@DevaFull.03] by [iMatra-deva.14 iMatra_reph-deva.14 iMatra_reph_anusvara-deva.14];
-sub [@iMatraBase]' [@DevaHalf.02] [@DevaHalf.06] [@DevaFull.04] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.02] [@DevaHalf.06] [@DevaFull.05] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.02] [@DevaHalf.06] [@DevaFull.06] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.02] [@DevaHalf.06] [@DevaFull.07] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.02] [@DevaHalf.06] [@DevaFull.08] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.02] [@DevaHalf.06] [@DevaFull.09] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.03] [@DevaHalf.01] [@DevaFull.01] by [iMatra-deva.08 iMatra_reph-deva.08 iMatra_reph_anusvara-deva.08];
-sub [@iMatraBase]' [@DevaHalf.03] [@DevaHalf.01] [@DevaFull.02] by [iMatra-deva.09 iMatra_reph-deva.09 iMatra_reph_anusvara-deva.09];
-sub [@iMatraBase]' [@DevaHalf.03] [@DevaHalf.01] [@DevaFull.03] by [iMatra-deva.10 iMatra_reph-deva.10 iMatra_reph_anusvara-deva.10];
-sub [@iMatraBase]' [@DevaHalf.03] [@DevaHalf.01] [@DevaFull.04] by [iMatra-deva.11 iMatra_reph-deva.11 iMatra_reph_anusvara-deva.11];
-sub [@iMatraBase]' [@DevaHalf.03] [@DevaHalf.01] [@DevaFull.05] by [iMatra-deva.12 iMatra_reph-deva.12 iMatra_reph_anusvara-deva.12];
-sub [@iMatraBase]' [@DevaHalf.03] [@DevaHalf.01] [@DevaFull.06] by [iMatra-deva.13 iMatra_reph-deva.13 iMatra_reph_anusvara-deva.13];
-sub [@iMatraBase]' [@DevaHalf.03] [@DevaHalf.01] [@DevaFull.07] by [iMatra-deva.14 iMatra_reph-deva.14 iMatra_reph_anusvara-deva.14];
-sub [@iMatraBase]' [@DevaHalf.03] [@DevaHalf.01] [@DevaFull.08] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.03] [@DevaHalf.01] [@DevaFull.09] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.03] [@DevaHalf.02] [@DevaFull.01] by [iMatra-deva.09 iMatra_reph-deva.09 iMatra_reph_anusvara-deva.09];
-sub [@iMatraBase]' [@DevaHalf.03] [@DevaHalf.02] [@DevaFull.02] by [iMatra-deva.10 iMatra_reph-deva.10 iMatra_reph_anusvara-deva.10];
-sub [@iMatraBase]' [@DevaHalf.03] [@DevaHalf.02] [@DevaFull.03] by [iMatra-deva.11 iMatra_reph-deva.11 iMatra_reph_anusvara-deva.11];
-sub [@iMatraBase]' [@DevaHalf.03] [@DevaHalf.02] [@DevaFull.04] by [iMatra-deva.12 iMatra_reph-deva.12 iMatra_reph_anusvara-deva.12];
-sub [@iMatraBase]' [@DevaHalf.03] [@DevaHalf.02] [@DevaFull.05] by [iMatra-deva.13 iMatra_reph-deva.13 iMatra_reph_anusvara-deva.13];
-sub [@iMatraBase]' [@DevaHalf.03] [@DevaHalf.02] [@DevaFull.06] by [iMatra-deva.14 iMatra_reph-deva.14 iMatra_reph_anusvara-deva.14];
-sub [@iMatraBase]' [@DevaHalf.03] [@DevaHalf.02] [@DevaFull.07] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.03] [@DevaHalf.02] [@DevaFull.08] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.03] [@DevaHalf.02] [@DevaFull.09] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.03] [@DevaHalf.03] [@DevaFull.01] by [iMatra-deva.10 iMatra_reph-deva.10 iMatra_reph_anusvara-deva.10];
-sub [@iMatraBase]' [@DevaHalf.03] [@DevaHalf.03] [@DevaFull.02] by [iMatra-deva.11 iMatra_reph-deva.11 iMatra_reph_anusvara-deva.11];
-sub [@iMatraBase]' [@DevaHalf.03] [@DevaHalf.03] [@DevaFull.03] by [iMatra-deva.12 iMatra_reph-deva.12 iMatra_reph_anusvara-deva.12];
-sub [@iMatraBase]' [@DevaHalf.03] [@DevaHalf.03] [@DevaFull.04] by [iMatra-deva.13 iMatra_reph-deva.13 iMatra_reph_anusvara-deva.13];
-sub [@iMatraBase]' [@DevaHalf.03] [@DevaHalf.03] [@DevaFull.05] by [iMatra-deva.14 iMatra_reph-deva.14 iMatra_reph_anusvara-deva.14];
-sub [@iMatraBase]' [@DevaHalf.03] [@DevaHalf.03] [@DevaFull.06] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.03] [@DevaHalf.03] [@DevaFull.07] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.03] [@DevaHalf.03] [@DevaFull.08] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.03] [@DevaHalf.03] [@DevaFull.09] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.03] [@DevaHalf.04] [@DevaFull.01] by [iMatra-deva.11 iMatra_reph-deva.11 iMatra_reph_anusvara-deva.11];
-sub [@iMatraBase]' [@DevaHalf.03] [@DevaHalf.04] [@DevaFull.02] by [iMatra-deva.12 iMatra_reph-deva.12 iMatra_reph_anusvara-deva.12];
-sub [@iMatraBase]' [@DevaHalf.03] [@DevaHalf.04] [@DevaFull.03] by [iMatra-deva.13 iMatra_reph-deva.13 iMatra_reph_anusvara-deva.13];
-sub [@iMatraBase]' [@DevaHalf.03] [@DevaHalf.04] [@DevaFull.04] by [iMatra-deva.14 iMatra_reph-deva.14 iMatra_reph_anusvara-deva.14];
-sub [@iMatraBase]' [@DevaHalf.03] [@DevaHalf.04] [@DevaFull.05] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.03] [@DevaHalf.04] [@DevaFull.06] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.03] [@DevaHalf.04] [@DevaFull.07] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.03] [@DevaHalf.04] [@DevaFull.08] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.03] [@DevaHalf.04] [@DevaFull.09] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.03] [@DevaHalf.05] [@DevaFull.01] by [iMatra-deva.12 iMatra_reph-deva.12 iMatra_reph_anusvara-deva.12];
-sub [@iMatraBase]' [@DevaHalf.03] [@DevaHalf.05] [@DevaFull.02] by [iMatra-deva.13 iMatra_reph-deva.13 iMatra_reph_anusvara-deva.13];
-sub [@iMatraBase]' [@DevaHalf.03] [@DevaHalf.05] [@DevaFull.03] by [iMatra-deva.14 iMatra_reph-deva.14 iMatra_reph_anusvara-deva.14];
-sub [@iMatraBase]' [@DevaHalf.03] [@DevaHalf.05] [@DevaFull.04] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.03] [@DevaHalf.05] [@DevaFull.05] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.03] [@DevaHalf.05] [@DevaFull.06] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.03] [@DevaHalf.05] [@DevaFull.07] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.03] [@DevaHalf.05] [@DevaFull.08] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.03] [@DevaHalf.05] [@DevaFull.09] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.03] [@DevaHalf.06] [@DevaFull.01] by [iMatra-deva.13 iMatra_reph-deva.13 iMatra_reph_anusvara-deva.13];
-sub [@iMatraBase]' [@DevaHalf.03] [@DevaHalf.06] [@DevaFull.02] by [iMatra-deva.14 iMatra_reph-deva.14 iMatra_reph_anusvara-deva.14];
-sub [@iMatraBase]' [@DevaHalf.03] [@DevaHalf.06] [@DevaFull.03] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.03] [@DevaHalf.06] [@DevaFull.04] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.03] [@DevaHalf.06] [@DevaFull.05] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.03] [@DevaHalf.06] [@DevaFull.06] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.03] [@DevaHalf.06] [@DevaFull.07] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.03] [@DevaHalf.06] [@DevaFull.08] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.03] [@DevaHalf.06] [@DevaFull.09] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.04] [@DevaHalf.01] [@DevaFull.01] by [iMatra-deva.09 iMatra_reph-deva.09 iMatra_reph_anusvara-deva.09];
-sub [@iMatraBase]' [@DevaHalf.04] [@DevaHalf.01] [@DevaFull.02] by [iMatra-deva.10 iMatra_reph-deva.10 iMatra_reph_anusvara-deva.10];
-sub [@iMatraBase]' [@DevaHalf.04] [@DevaHalf.01] [@DevaFull.03] by [iMatra-deva.11 iMatra_reph-deva.11 iMatra_reph_anusvara-deva.11];
-sub [@iMatraBase]' [@DevaHalf.04] [@DevaHalf.01] [@DevaFull.04] by [iMatra-deva.12 iMatra_reph-deva.12 iMatra_reph_anusvara-deva.12];
-sub [@iMatraBase]' [@DevaHalf.04] [@DevaHalf.01] [@DevaFull.05] by [iMatra-deva.13 iMatra_reph-deva.13 iMatra_reph_anusvara-deva.13];
-sub [@iMatraBase]' [@DevaHalf.04] [@DevaHalf.01] [@DevaFull.06] by [iMatra-deva.14 iMatra_reph-deva.14 iMatra_reph_anusvara-deva.14];
-sub [@iMatraBase]' [@DevaHalf.04] [@DevaHalf.01] [@DevaFull.07] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.04] [@DevaHalf.01] [@DevaFull.08] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.04] [@DevaHalf.01] [@DevaFull.09] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.04] [@DevaHalf.02] [@DevaFull.01] by [iMatra-deva.10 iMatra_reph-deva.10 iMatra_reph_anusvara-deva.10];
-sub [@iMatraBase]' [@DevaHalf.04] [@DevaHalf.02] [@DevaFull.02] by [iMatra-deva.11 iMatra_reph-deva.11 iMatra_reph_anusvara-deva.11];
-sub [@iMatraBase]' [@DevaHalf.04] [@DevaHalf.02] [@DevaFull.03] by [iMatra-deva.12 iMatra_reph-deva.12 iMatra_reph_anusvara-deva.12];
-sub [@iMatraBase]' [@DevaHalf.04] [@DevaHalf.02] [@DevaFull.04] by [iMatra-deva.13 iMatra_reph-deva.13 iMatra_reph_anusvara-deva.13];
-sub [@iMatraBase]' [@DevaHalf.04] [@DevaHalf.02] [@DevaFull.05] by [iMatra-deva.14 iMatra_reph-deva.14 iMatra_reph_anusvara-deva.14];
-sub [@iMatraBase]' [@DevaHalf.04] [@DevaHalf.02] [@DevaFull.06] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.04] [@DevaHalf.02] [@DevaFull.07] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.04] [@DevaHalf.02] [@DevaFull.08] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.04] [@DevaHalf.02] [@DevaFull.09] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.04] [@DevaHalf.03] [@DevaFull.01] by [iMatra-deva.11 iMatra_reph-deva.11 iMatra_reph_anusvara-deva.11];
-sub [@iMatraBase]' [@DevaHalf.04] [@DevaHalf.03] [@DevaFull.02] by [iMatra-deva.12 iMatra_reph-deva.12 iMatra_reph_anusvara-deva.12];
-sub [@iMatraBase]' [@DevaHalf.04] [@DevaHalf.03] [@DevaFull.03] by [iMatra-deva.13 iMatra_reph-deva.13 iMatra_reph_anusvara-deva.13];
-sub [@iMatraBase]' [@DevaHalf.04] [@DevaHalf.03] [@DevaFull.04] by [iMatra-deva.14 iMatra_reph-deva.14 iMatra_reph_anusvara-deva.14];
-sub [@iMatraBase]' [@DevaHalf.04] [@DevaHalf.03] [@DevaFull.05] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.04] [@DevaHalf.03] [@DevaFull.06] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.04] [@DevaHalf.03] [@DevaFull.07] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.04] [@DevaHalf.03] [@DevaFull.08] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.04] [@DevaHalf.03] [@DevaFull.09] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.04] [@DevaHalf.04] [@DevaFull.01] by [iMatra-deva.12 iMatra_reph-deva.12 iMatra_reph_anusvara-deva.12];
-sub [@iMatraBase]' [@DevaHalf.04] [@DevaHalf.04] [@DevaFull.02] by [iMatra-deva.13 iMatra_reph-deva.13 iMatra_reph_anusvara-deva.13];
-sub [@iMatraBase]' [@DevaHalf.04] [@DevaHalf.04] [@DevaFull.03] by [iMatra-deva.14 iMatra_reph-deva.14 iMatra_reph_anusvara-deva.14];
-sub [@iMatraBase]' [@DevaHalf.04] [@DevaHalf.04] [@DevaFull.04] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.04] [@DevaHalf.04] [@DevaFull.05] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.04] [@DevaHalf.04] [@DevaFull.06] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.04] [@DevaHalf.04] [@DevaFull.07] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.04] [@DevaHalf.04] [@DevaFull.08] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.04] [@DevaHalf.04] [@DevaFull.09] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.04] [@DevaHalf.05] [@DevaFull.01] by [iMatra-deva.13 iMatra_reph-deva.13 iMatra_reph_anusvara-deva.13];
-sub [@iMatraBase]' [@DevaHalf.04] [@DevaHalf.05] [@DevaFull.02] by [iMatra-deva.14 iMatra_reph-deva.14 iMatra_reph_anusvara-deva.14];
-sub [@iMatraBase]' [@DevaHalf.04] [@DevaHalf.05] [@DevaFull.03] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.04] [@DevaHalf.05] [@DevaFull.04] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.04] [@DevaHalf.05] [@DevaFull.05] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.04] [@DevaHalf.05] [@DevaFull.06] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.04] [@DevaHalf.05] [@DevaFull.07] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.04] [@DevaHalf.05] [@DevaFull.08] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.04] [@DevaHalf.05] [@DevaFull.09] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.04] [@DevaHalf.06] [@DevaFull.01] by [iMatra-deva.14 iMatra_reph-deva.14 iMatra_reph_anusvara-deva.14];
-sub [@iMatraBase]' [@DevaHalf.04] [@DevaHalf.06] [@DevaFull.02] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.04] [@DevaHalf.06] [@DevaFull.03] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.04] [@DevaHalf.06] [@DevaFull.04] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.04] [@DevaHalf.06] [@DevaFull.05] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.04] [@DevaHalf.06] [@DevaFull.06] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.04] [@DevaHalf.06] [@DevaFull.07] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.04] [@DevaHalf.06] [@DevaFull.08] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.04] [@DevaHalf.06] [@DevaFull.09] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.05] [@DevaHalf.01] [@DevaFull.01] by [iMatra-deva.10 iMatra_reph-deva.10 iMatra_reph_anusvara-deva.10];
-sub [@iMatraBase]' [@DevaHalf.05] [@DevaHalf.01] [@DevaFull.02] by [iMatra-deva.11 iMatra_reph-deva.11 iMatra_reph_anusvara-deva.11];
-sub [@iMatraBase]' [@DevaHalf.05] [@DevaHalf.01] [@DevaFull.03] by [iMatra-deva.12 iMatra_reph-deva.12 iMatra_reph_anusvara-deva.12];
-sub [@iMatraBase]' [@DevaHalf.05] [@DevaHalf.01] [@DevaFull.04] by [iMatra-deva.13 iMatra_reph-deva.13 iMatra_reph_anusvara-deva.13];
-sub [@iMatraBase]' [@DevaHalf.05] [@DevaHalf.01] [@DevaFull.05] by [iMatra-deva.14 iMatra_reph-deva.14 iMatra_reph_anusvara-deva.14];
-sub [@iMatraBase]' [@DevaHalf.05] [@DevaHalf.01] [@DevaFull.06] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.05] [@DevaHalf.01] [@DevaFull.07] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.05] [@DevaHalf.01] [@DevaFull.08] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.05] [@DevaHalf.01] [@DevaFull.09] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.05] [@DevaHalf.02] [@DevaFull.01] by [iMatra-deva.11 iMatra_reph-deva.11 iMatra_reph_anusvara-deva.11];
-sub [@iMatraBase]' [@DevaHalf.05] [@DevaHalf.02] [@DevaFull.02] by [iMatra-deva.12 iMatra_reph-deva.12 iMatra_reph_anusvara-deva.12];
-sub [@iMatraBase]' [@DevaHalf.05] [@DevaHalf.02] [@DevaFull.03] by [iMatra-deva.13 iMatra_reph-deva.13 iMatra_reph_anusvara-deva.13];
-sub [@iMatraBase]' [@DevaHalf.05] [@DevaHalf.02] [@DevaFull.04] by [iMatra-deva.14 iMatra_reph-deva.14 iMatra_reph_anusvara-deva.14];
-sub [@iMatraBase]' [@DevaHalf.05] [@DevaHalf.02] [@DevaFull.05] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.05] [@DevaHalf.02] [@DevaFull.06] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.05] [@DevaHalf.02] [@DevaFull.07] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.05] [@DevaHalf.02] [@DevaFull.08] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.05] [@DevaHalf.02] [@DevaFull.09] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.05] [@DevaHalf.03] [@DevaFull.01] by [iMatra-deva.12 iMatra_reph-deva.12 iMatra_reph_anusvara-deva.12];
-sub [@iMatraBase]' [@DevaHalf.05] [@DevaHalf.03] [@DevaFull.02] by [iMatra-deva.13 iMatra_reph-deva.13 iMatra_reph_anusvara-deva.13];
-sub [@iMatraBase]' [@DevaHalf.05] [@DevaHalf.03] [@DevaFull.03] by [iMatra-deva.14 iMatra_reph-deva.14 iMatra_reph_anusvara-deva.14];
-sub [@iMatraBase]' [@DevaHalf.05] [@DevaHalf.03] [@DevaFull.04] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.05] [@DevaHalf.03] [@DevaFull.05] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.05] [@DevaHalf.03] [@DevaFull.06] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.05] [@DevaHalf.03] [@DevaFull.07] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.05] [@DevaHalf.03] [@DevaFull.08] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.05] [@DevaHalf.03] [@DevaFull.09] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.05] [@DevaHalf.04] [@DevaFull.01] by [iMatra-deva.13 iMatra_reph-deva.13 iMatra_reph_anusvara-deva.13];
-sub [@iMatraBase]' [@DevaHalf.05] [@DevaHalf.04] [@DevaFull.02] by [iMatra-deva.14 iMatra_reph-deva.14 iMatra_reph_anusvara-deva.14];
-sub [@iMatraBase]' [@DevaHalf.05] [@DevaHalf.04] [@DevaFull.03] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.05] [@DevaHalf.04] [@DevaFull.04] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.05] [@DevaHalf.04] [@DevaFull.05] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.05] [@DevaHalf.04] [@DevaFull.06] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.05] [@DevaHalf.04] [@DevaFull.07] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.05] [@DevaHalf.04] [@DevaFull.08] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.05] [@DevaHalf.04] [@DevaFull.09] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.05] [@DevaHalf.05] [@DevaFull.01] by [iMatra-deva.14 iMatra_reph-deva.14 iMatra_reph_anusvara-deva.14];
-sub [@iMatraBase]' [@DevaHalf.05] [@DevaHalf.05] [@DevaFull.02] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.05] [@DevaHalf.05] [@DevaFull.03] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.05] [@DevaHalf.05] [@DevaFull.04] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.05] [@DevaHalf.05] [@DevaFull.05] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.05] [@DevaHalf.05] [@DevaFull.06] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.05] [@DevaHalf.05] [@DevaFull.07] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.05] [@DevaHalf.05] [@DevaFull.08] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.05] [@DevaHalf.05] [@DevaFull.09] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.05] [@DevaHalf.06] [@DevaFull.01] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.05] [@DevaHalf.06] [@DevaFull.02] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.05] [@DevaHalf.06] [@DevaFull.03] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.05] [@DevaHalf.06] [@DevaFull.04] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.05] [@DevaHalf.06] [@DevaFull.05] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.05] [@DevaHalf.06] [@DevaFull.06] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.05] [@DevaHalf.06] [@DevaFull.07] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.05] [@DevaHalf.06] [@DevaFull.08] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.05] [@DevaHalf.06] [@DevaFull.09] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.06] [@DevaHalf.01] [@DevaFull.01] by [iMatra-deva.11 iMatra_reph-deva.11 iMatra_reph_anusvara-deva.11];
-sub [@iMatraBase]' [@DevaHalf.06] [@DevaHalf.01] [@DevaFull.02] by [iMatra-deva.12 iMatra_reph-deva.12 iMatra_reph_anusvara-deva.12];
-sub [@iMatraBase]' [@DevaHalf.06] [@DevaHalf.01] [@DevaFull.03] by [iMatra-deva.13 iMatra_reph-deva.13 iMatra_reph_anusvara-deva.13];
-sub [@iMatraBase]' [@DevaHalf.06] [@DevaHalf.01] [@DevaFull.04] by [iMatra-deva.14 iMatra_reph-deva.14 iMatra_reph_anusvara-deva.14];
-sub [@iMatraBase]' [@DevaHalf.06] [@DevaHalf.01] [@DevaFull.05] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.06] [@DevaHalf.01] [@DevaFull.06] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.06] [@DevaHalf.01] [@DevaFull.07] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.06] [@DevaHalf.01] [@DevaFull.08] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.06] [@DevaHalf.01] [@DevaFull.09] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.06] [@DevaHalf.02] [@DevaFull.01] by [iMatra-deva.12 iMatra_reph-deva.12 iMatra_reph_anusvara-deva.12];
-sub [@iMatraBase]' [@DevaHalf.06] [@DevaHalf.02] [@DevaFull.02] by [iMatra-deva.13 iMatra_reph-deva.13 iMatra_reph_anusvara-deva.13];
-sub [@iMatraBase]' [@DevaHalf.06] [@DevaHalf.02] [@DevaFull.03] by [iMatra-deva.14 iMatra_reph-deva.14 iMatra_reph_anusvara-deva.14];
-sub [@iMatraBase]' [@DevaHalf.06] [@DevaHalf.02] [@DevaFull.04] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.06] [@DevaHalf.02] [@DevaFull.05] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.06] [@DevaHalf.02] [@DevaFull.06] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.06] [@DevaHalf.02] [@DevaFull.07] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.06] [@DevaHalf.02] [@DevaFull.08] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.06] [@DevaHalf.02] [@DevaFull.09] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.06] [@DevaHalf.03] [@DevaFull.01] by [iMatra-deva.13 iMatra_reph-deva.13 iMatra_reph_anusvara-deva.13];
-sub [@iMatraBase]' [@DevaHalf.06] [@DevaHalf.03] [@DevaFull.02] by [iMatra-deva.14 iMatra_reph-deva.14 iMatra_reph_anusvara-deva.14];
-sub [@iMatraBase]' [@DevaHalf.06] [@DevaHalf.03] [@DevaFull.03] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.06] [@DevaHalf.03] [@DevaFull.04] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.06] [@DevaHalf.03] [@DevaFull.05] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.06] [@DevaHalf.03] [@DevaFull.06] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.06] [@DevaHalf.03] [@DevaFull.07] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.06] [@DevaHalf.03] [@DevaFull.08] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.06] [@DevaHalf.03] [@DevaFull.09] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.06] [@DevaHalf.04] [@DevaFull.01] by [iMatra-deva.14 iMatra_reph-deva.14 iMatra_reph_anusvara-deva.14];
-sub [@iMatraBase]' [@DevaHalf.06] [@DevaHalf.04] [@DevaFull.02] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.06] [@DevaHalf.04] [@DevaFull.03] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.06] [@DevaHalf.04] [@DevaFull.04] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.06] [@DevaHalf.04] [@DevaFull.05] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.06] [@DevaHalf.04] [@DevaFull.06] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.06] [@DevaHalf.04] [@DevaFull.07] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.06] [@DevaHalf.04] [@DevaFull.08] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.06] [@DevaHalf.04] [@DevaFull.09] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.06] [@DevaHalf.05] [@DevaFull.01] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.06] [@DevaHalf.05] [@DevaFull.02] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.06] [@DevaHalf.05] [@DevaFull.03] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.06] [@DevaHalf.05] [@DevaFull.04] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.06] [@DevaHalf.05] [@DevaFull.05] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.06] [@DevaHalf.05] [@DevaFull.06] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.06] [@DevaHalf.05] [@DevaFull.07] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.06] [@DevaHalf.05] [@DevaFull.08] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.06] [@DevaHalf.05] [@DevaFull.09] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.06] [@DevaHalf.06] [@DevaFull.01] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.06] [@DevaHalf.06] [@DevaFull.02] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.06] [@DevaHalf.06] [@DevaFull.03] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.06] [@DevaHalf.06] [@DevaFull.04] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.06] [@DevaHalf.06] [@DevaFull.05] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.06] [@DevaHalf.06] [@DevaFull.06] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.06] [@DevaHalf.06] [@DevaFull.07] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.06] [@DevaHalf.06] [@DevaFull.08] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.06] [@DevaHalf.06] [@DevaFull.09] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-#Double combinations
-sub [@iMatraBase]' [@DevaHalf.01] [@DevaFull.01] by [iMatra-deva.03 iMatra_reph-deva.03 iMatra_reph_anusvara-deva.03];
-sub [@iMatraBase]' [@DevaHalf.01] [@DevaFull.02] by [iMatra-deva.04 iMatra_reph-deva.04 iMatra_reph_anusvara-deva.04];
-sub [@iMatraBase]' [@DevaHalf.01] [@DevaFull.03] by [iMatra-deva.05 iMatra_reph-deva.05 iMatra_reph_anusvara-deva.05];
-sub [@iMatraBase]' [@DevaHalf.01] [@DevaFull.04] by [iMatra-deva.06 iMatra_reph-deva.06 iMatra_reph_anusvara-deva.06];
-sub [@iMatraBase]' [@DevaHalf.01] [@DevaFull.05] by [iMatra-deva.07 iMatra_reph-deva.07 iMatra_reph_anusvara-deva.07];
-sub [@iMatraBase]' [@DevaHalf.01] [@DevaFull.06] by [iMatra-deva.08 iMatra_reph-deva.08 iMatra_reph_anusvara-deva.08];
-sub [@iMatraBase]' [@DevaHalf.01] [@DevaFull.07] by [iMatra-deva.09 iMatra_reph-deva.09 iMatra_reph_anusvara-deva.09];
-sub [@iMatraBase]' [@DevaHalf.01] [@DevaFull.08] by [iMatra-deva.10 iMatra_reph-deva.10 iMatra_reph_anusvara-deva.10];
-sub [@iMatraBase]' [@DevaHalf.01] [@DevaFull.09] by [iMatra-deva.11 iMatra_reph-deva.11 iMatra_reph_anusvara-deva.11];
-sub [@iMatraBase]' [@DevaHalf.02] [@DevaFull.01] by [iMatra-deva.04 iMatra_reph-deva.04 iMatra_reph_anusvara-deva.04];
-sub [@iMatraBase]' [@DevaHalf.02] [@DevaFull.02] by [iMatra-deva.05 iMatra_reph-deva.05 iMatra_reph_anusvara-deva.05];
-sub [@iMatraBase]' [@DevaHalf.02] [@DevaFull.03] by [iMatra-deva.06 iMatra_reph-deva.06 iMatra_reph_anusvara-deva.06];
-sub [@iMatraBase]' [@DevaHalf.02] [@DevaFull.04] by [iMatra-deva.07 iMatra_reph-deva.07 iMatra_reph_anusvara-deva.07];
-sub [@iMatraBase]' [@DevaHalf.02] [@DevaFull.05] by [iMatra-deva.08 iMatra_reph-deva.08 iMatra_reph_anusvara-deva.08];
-sub [@iMatraBase]' [@DevaHalf.02] [@DevaFull.06] by [iMatra-deva.09 iMatra_reph-deva.09 iMatra_reph_anusvara-deva.09];
-sub [@iMatraBase]' [@DevaHalf.02] [@DevaFull.07] by [iMatra-deva.10 iMatra_reph-deva.10 iMatra_reph_anusvara-deva.10];
-sub [@iMatraBase]' [@DevaHalf.02] [@DevaFull.08] by [iMatra-deva.11 iMatra_reph-deva.11 iMatra_reph_anusvara-deva.11];
-sub [@iMatraBase]' [@DevaHalf.02] [@DevaFull.09] by [iMatra-deva.12 iMatra_reph-deva.12 iMatra_reph_anusvara-deva.12];
-sub [@iMatraBase]' [@DevaHalf.03] [@DevaFull.01] by [iMatra-deva.05 iMatra_reph-deva.05 iMatra_reph_anusvara-deva.05];
-sub [@iMatraBase]' [@DevaHalf.03] [@DevaFull.02] by [iMatra-deva.06 iMatra_reph-deva.06 iMatra_reph_anusvara-deva.06];
-sub [@iMatraBase]' [@DevaHalf.03] [@DevaFull.03] by [iMatra-deva.07 iMatra_reph-deva.07 iMatra_reph_anusvara-deva.07];
-sub [@iMatraBase]' [@DevaHalf.03] [@DevaFull.04] by [iMatra-deva.08 iMatra_reph-deva.08 iMatra_reph_anusvara-deva.08];
-sub [@iMatraBase]' [@DevaHalf.03] [@DevaFull.05] by [iMatra-deva.09 iMatra_reph-deva.09 iMatra_reph_anusvara-deva.09];
-sub [@iMatraBase]' [@DevaHalf.03] [@DevaFull.06] by [iMatra-deva.10 iMatra_reph-deva.10 iMatra_reph_anusvara-deva.10];
-sub [@iMatraBase]' [@DevaHalf.03] [@DevaFull.07] by [iMatra-deva.11 iMatra_reph-deva.11 iMatra_reph_anusvara-deva.11];
-sub [@iMatraBase]' [@DevaHalf.03] [@DevaFull.08] by [iMatra-deva.12 iMatra_reph-deva.12 iMatra_reph_anusvara-deva.12];
-sub [@iMatraBase]' [@DevaHalf.03] [@DevaFull.09] by [iMatra-deva.13 iMatra_reph-deva.13 iMatra_reph_anusvara-deva.13];
-sub [@iMatraBase]' [@DevaHalf.04] [@DevaFull.01] by [iMatra-deva.06 iMatra_reph-deva.06 iMatra_reph_anusvara-deva.06];
-sub [@iMatraBase]' [@DevaHalf.04] [@DevaFull.02] by [iMatra-deva.07 iMatra_reph-deva.07 iMatra_reph_anusvara-deva.07];
-sub [@iMatraBase]' [@DevaHalf.04] [@DevaFull.03] by [iMatra-deva.08 iMatra_reph-deva.08 iMatra_reph_anusvara-deva.08];
-sub [@iMatraBase]' [@DevaHalf.04] [@DevaFull.04] by [iMatra-deva.09 iMatra_reph-deva.09 iMatra_reph_anusvara-deva.09];
-sub [@iMatraBase]' [@DevaHalf.04] [@DevaFull.05] by [iMatra-deva.10 iMatra_reph-deva.10 iMatra_reph_anusvara-deva.10];
-sub [@iMatraBase]' [@DevaHalf.04] [@DevaFull.06] by [iMatra-deva.11 iMatra_reph-deva.11 iMatra_reph_anusvara-deva.11];
-sub [@iMatraBase]' [@DevaHalf.04] [@DevaFull.07] by [iMatra-deva.12 iMatra_reph-deva.12 iMatra_reph_anusvara-deva.12];
-sub [@iMatraBase]' [@DevaHalf.04] [@DevaFull.08] by [iMatra-deva.13 iMatra_reph-deva.13 iMatra_reph_anusvara-deva.13];
-sub [@iMatraBase]' [@DevaHalf.04] [@DevaFull.09] by [iMatra-deva.14 iMatra_reph-deva.14 iMatra_reph_anusvara-deva.14];
-sub [@iMatraBase]' [@DevaHalf.05] [@DevaFull.01] by [iMatra-deva.07 iMatra_reph-deva.07 iMatra_reph_anusvara-deva.07];
-sub [@iMatraBase]' [@DevaHalf.05] [@DevaFull.02] by [iMatra-deva.08 iMatra_reph-deva.08 iMatra_reph_anusvara-deva.08];
-sub [@iMatraBase]' [@DevaHalf.05] [@DevaFull.03] by [iMatra-deva.09 iMatra_reph-deva.09 iMatra_reph_anusvara-deva.09];
-sub [@iMatraBase]' [@DevaHalf.05] [@DevaFull.04] by [iMatra-deva.10 iMatra_reph-deva.10 iMatra_reph_anusvara-deva.10];
-sub [@iMatraBase]' [@DevaHalf.05] [@DevaFull.05] by [iMatra-deva.11 iMatra_reph-deva.11 iMatra_reph_anusvara-deva.11];
-sub [@iMatraBase]' [@DevaHalf.05] [@DevaFull.06] by [iMatra-deva.12 iMatra_reph-deva.12 iMatra_reph_anusvara-deva.12];
-sub [@iMatraBase]' [@DevaHalf.05] [@DevaFull.07] by [iMatra-deva.13 iMatra_reph-deva.13 iMatra_reph_anusvara-deva.13];
-sub [@iMatraBase]' [@DevaHalf.05] [@DevaFull.08] by [iMatra-deva.14 iMatra_reph-deva.14 iMatra_reph_anusvara-deva.14];
-sub [@iMatraBase]' [@DevaHalf.05] [@DevaFull.09] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.06] [@DevaFull.01] by [iMatra-deva.08 iMatra_reph-deva.08 iMatra_reph_anusvara-deva.08];
-sub [@iMatraBase]' [@DevaHalf.06] [@DevaFull.02] by [iMatra-deva.09 iMatra_reph-deva.09 iMatra_reph_anusvara-deva.09];
-sub [@iMatraBase]' [@DevaHalf.06] [@DevaFull.03] by [iMatra-deva.10 iMatra_reph-deva.10 iMatra_reph_anusvara-deva.10];
-sub [@iMatraBase]' [@DevaHalf.06] [@DevaFull.04] by [iMatra-deva.11 iMatra_reph-deva.11 iMatra_reph_anusvara-deva.11];
-sub [@iMatraBase]' [@DevaHalf.06] [@DevaFull.05] by [iMatra-deva.12 iMatra_reph-deva.12 iMatra_reph_anusvara-deva.12];
-sub [@iMatraBase]' [@DevaHalf.06] [@DevaFull.06] by [iMatra-deva.13 iMatra_reph-deva.13 iMatra_reph_anusvara-deva.13];
-sub [@iMatraBase]' [@DevaHalf.06] [@DevaFull.07] by [iMatra-deva.14 iMatra_reph-deva.14 iMatra_reph_anusvara-deva.14];
-sub [@iMatraBase]' [@DevaHalf.06] [@DevaFull.08] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-sub [@iMatraBase]' [@DevaHalf.06] [@DevaFull.09] by [iMatra-deva.15 iMatra_reph-deva.15 iMatra_reph_anusvara-deva.15];
-#Widths by classes
-sub [@iMatraBase]' [@DevaFull.01] by [iMatra-deva.01 iMatra_reph-deva.01 iMatra_reph_anusvara-deva.01];
-sub [@iMatraBase]' [@DevaFull.02] by [iMatra-deva.02 iMatra_reph-deva.02 iMatra_reph_anusvara-deva.02];
-sub [@iMatraBase]' [@DevaFull.03] by [iMatra-deva.03 iMatra_reph-deva.03 iMatra_reph_anusvara-deva.03];
-sub [@iMatraBase]' [@DevaFull.04] by [iMatra-deva.04 iMatra_reph-deva.04 iMatra_reph_anusvara-deva.04];
-sub [@iMatraBase]' [@DevaFull.05] by [iMatra-deva.05 iMatra_reph-deva.05 iMatra_reph_anusvara-deva.05];
-sub [@iMatraBase]' [@DevaFull.06] by [iMatra-deva.06 iMatra_reph-deva.06 iMatra_reph_anusvara-deva.06];
-sub [@iMatraBase]' [@DevaFull.07] by [iMatra-deva.07 iMatra_reph-deva.07 iMatra_reph_anusvara-deva.07];
-sub [@iMatraBase]' [@DevaFull.08] by [iMatra-deva.08 iMatra_reph-deva.08 iMatra_reph_anusvara-deva.08];
-sub [@iMatraBase]' [@DevaFull.09] by [iMatra-deva.09 iMatra_reph-deva.09 iMatra_reph_anusvara-deva.09];
-#iMatra substitution
-sub [fa-deva jha-deva.loclNEP ka-deva k_va-deva k_ra-deva k_ka-deva k_ta-deva pha-deva ph_ra-deva qa-deva zha-deva.loclNEP rVocalic-deva rrVocalic-deva ] [iiMatra-deva iiMatra_reph-deva iiMatra_reph_anusvara-deva]' by [iiMatra-deva.01 iiMatra_reph-deva.01 iiMatra_reph_anusvara-deva.01];
-# END Pre-Base Substitutions
+# automatic
+sub [iMatra-deva]' [ra_uMatra-deva iiMatra_candraBindu-deva iiMatra_candraBindu-deva.01 rra-deva rr-deva ra-deva k_ss-deva ra_uuMatra-deva] by [iMatra-deva.00];
+sub [iMatra-deva]' [sh-deva.loclMAR d_y-deva zha-deva.loclNEP] by [iMatra-deva.01];
+sub [iMatra-deva]' [ddha-deva rha-deva d_na_uMatra-deva tt_tt-deva d_va_uMatra-deva dda-deva tt_va-deva ha_uMatra-deva nga-deva d_va-deva h_na-deva tt_ttha-deva d_ga-deva tt_tta-deva d_ba-deva tt_na-deva ng_gha-deva ddda-deva da_uMatra-deva tth_na-deva ll-deva ng_ga-deva d_ra-deva dd_tta-deva ttha-deva da-deva ha_rVocalicMatra-deva d_ra_uMatra-deva d_ga_uMatra-deva k_la-deva.loclMAR h_nna-deva dd_ddha-deva ddh_ddha-deva tt_ddha-deva dd_dda-deva ha-deva d_na-deva ya-deva.conecta d_b_ra-deva dddha-deva d_g_ra-deva d_rVocalicMatra-deva h_va-deva h_la-deva d_ba_uMatra-deva ng_ma-deva da_uMatra-deva.001 tth_ttha-deva h_ra-deva dda-deva.001] by [iMatra-deva.02];
+sub [iMatra-deva]' [b_ra-deva ch_la-deva.loclMAR fa-deva m_ra-deva ya-deva d_bha_uMatra-deva k_va-deva ghha-deva g_ra-deva ta-deva ph_ra-deva d_da_uMatra-deva n_na-deva ssa-deva ddh_na-deva l_la-deva.loclMAR ss_tta-deva k_ra-deva c_la-deva.loclMAR g_na-deva jh-deva.loclNEP v_ra-deva ng_ka-deva jjya-deva p_ra-deva na-deva d_dha_uMatra-deva pha-deva ng_kha-deva d_dha-deva p_tta-deva t_ra-deva.alt k-deva ss_ttha-deva t_ra-deva d_r_ya-deva ma-deva ng_k_ssa-deva p_la-deva.loclMAR bh_ra-deva y_ra-deva d_gha_uMatra-deva la-deva.loclMAR ka-deva.001 ng_k-deva ca-deva gh_ra-deva k_ta-deva c_ca-deva.alt d_da-deva ha-deva.alt va-deva nnna-deva dd_gha-deva qa-deva d_gha-deva k_ra-deva.loclNEP ph_laph_la-deva.loclMAR d_ya-deva ga-deva b_la-deva ch_va-deva th_ra-deva ba-deva tha-deva c_ra-deva jha-deva.loclNEP k_ka-deva g_la-deva ss_ra-deva t_ta-deva pa-deva n_ra-deva ph_r_nukta-deva d_bha-deva ka-deva tta-deva dd_na-deva gha-deva yya-deva] by [iMatra-deva.03];
+sub [iMatra-deva]' [sh_na-deva s_ra-deva sha-deva.loclMAR bha-deva zha-deva sh_rVocalic-deva nna-deva dh_ra-deva ja-deva sa-deva d_ma-deva cha-deva ny_ca-deva sh_la-deva lla-deva nn_ra-deva ny_ja-deva j_nya-deva k_ssa-deva j_ja-deva za-deva llla-deva dha-deva sh_va-deva sh_ca-deva sh_ra-deva] by [iMatra-deva.04];
+sub [iMatra-deva]' [l_ra-deva khha-deva h_ya-deva j_ra-deva k_ss_ra-deva kh_ra-deva kha-deva sha-deva ny_ra-deva j_ny_ra-deva la-deva s_t_ra-deva nya-deva h_ma-deva] by [iMatra-deva.05];
+sub [iMatra-deva]' [t_r_ya-deva jha-deva jh_ra-deva jha_uMatra-deva p_ta-deva] by [iMatra-deva.06];
+sub [iMatra-deva]' [tt_tt_ya-deva d_d_ya-deva c_ca-deva sh_la-deva.loclMAR] by [iMatra-deva.07];
+sub [iMatra-deva]' [ddh_ddh_ya-deva dd_ya-deva d_v_ya-deva p_la-deva ddh_ya-deva tt_ya-deva tth_ya-deva d_bh_ya-deva dd_dd_ya-deva c_la-deva tth_tth_ya-deva] by [iMatra-deva.08];
+sub [iMatra-deva]' [dd_ma-deva d_dh_ya-deva d_ddh_r_ya-deva l_la-deva] by [iMatra-deva.09];
+sub [iMatra-deva]' [k_la-deva ph_la-deva] by [iMatra-deva.11];
+sub [iMatra-deva]' [gh_la-deva] by [iMatra-deva.12];
 } pres;
 

@@ -6,10 +6,7 @@
     <component base="aa-deva"/>
     <component base="aiMatra-deva" xOffset="558"/>
     <contour>
-      <point x="891" y="600" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="891" y="0" type="move" name="bottom"/>
+      <point x="977" y="659" type="move" name="top"/>
     </contour>
   </outline>
 </glyph>

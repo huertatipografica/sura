@@ -19,5 +19,8 @@
       <point x="420" y="293" type="curve"/>
     </contour>
     <component base="i-deva"/>
+    <contour>
+      <point x="178" y="-114" type="move" name="nukta"/>
+    </contour>
   </outline>
 </glyph>

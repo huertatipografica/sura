@@ -4,12 +4,9 @@
   <unicode hex="0934"/>
   <outline>
     <component base="lla-deva"/>
-    <component base="nukta-deva" xOffset="323" yOffset="153"/>
+    <component base="nukta-deva" xOffset="323" yOffset="113"/>
     <contour>
       <point x="537" y="599" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="370" y="-61" type="move" name="bottom"/>
     </contour>
   </outline>
 </glyph>

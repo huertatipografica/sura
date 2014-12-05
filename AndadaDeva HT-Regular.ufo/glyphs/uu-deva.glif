@@ -36,10 +36,10 @@
     </contour>
     <component base="u-deva"/>
     <contour>
-      <point x="325" y="599" type="move" name="top"/>
+      <point x="315" y="599" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="378" y="0" type="move" name="bottom"/>
+      <point x="308" y="60" type="move" name="bottom"/>
     </contour>
   </outline>
 </glyph>

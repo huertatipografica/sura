@@ -12,11 +12,5 @@
       <point x="67" y="-59" type="line"/>
     </contour>
     <component base="dda-deva"/>
-    <contour>
-      <point x="399" y="641" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="324" y="-163" type="move" name="bottom"/>
-    </contour>
   </outline>
 </glyph>

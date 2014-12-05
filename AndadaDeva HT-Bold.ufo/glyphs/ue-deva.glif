@@ -4,7 +4,7 @@
   <unicode hex="0976"/>
   <outline>
     <component base="a-deva"/>
-    <component base="ueMatra-deva" xOffset="478"/>
+    <component base="ueMatra-deva" xOffset="481"/>
     <contour>
       <point x="685" y="640" type="move" name="top"/>
     </contour>

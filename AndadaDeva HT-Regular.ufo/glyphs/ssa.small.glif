@@ -20,10 +20,10 @@
       <point x="439" y="182" type="line"/>
     </contour>
     <contour>
-      <point x="121" y="519" type="line"/>
-      <point x="368" y="232" type="line"/>
-      <point x="395" y="292" type="line"/>
-      <point x="181" y="546" type="line"/>
+      <point x="104" y="544" type="line"/>
+      <point x="372" y="232" type="line"/>
+      <point x="390" y="292" type="line"/>
+      <point x="178" y="544" type="line"/>
     </contour>
     <contour>
       <point x="410" y="599" type="move" name="top"/>

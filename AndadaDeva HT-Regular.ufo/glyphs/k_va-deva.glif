@@ -3,13 +3,13 @@
   <advance width="814"/>
   <outline>
     <contour>
-      <point x="374" y="561" type="line"/>
-      <point x="374" y="137" type="line"/>
-      <point x="366" y="-113" type="line"/>
-      <point x="444" y="-128" type="line"/>
-      <point x="462" y="-113" type="line"/>
-      <point x="454" y="167" type="line"/>
-      <point x="454" y="561" type="line"/>
+      <point x="374" y="562" type="line"/>
+      <point x="374" y="138" type="line"/>
+      <point x="366" y="-112" type="line"/>
+      <point x="444" y="-127" type="line"/>
+      <point x="462" y="-112" type="line"/>
+      <point x="454" y="168" type="line"/>
+      <point x="454" y="562" type="line"/>
     </contour>
     <contour>
       <point x="-20" y="599" type="line"/>
@@ -96,10 +96,18 @@
       <point x="216" y="-15" type="move" name="nukta"/>
     </contour>
     <contour>
-      <point x="414" y="-109" type="move" name="bottom"/>
+      <point x="414" y="-91" type="move" name="bottom"/>
     </contour>
     <contour>
       <point x="414" y="599" type="move" name="top"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>10</integer>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
 </glyph>

@@ -26,8 +26,8 @@
     </contour>
     <contour>
       <point x="403" y="561" type="line"/>
-      <point x="403" y="67" type="line"/>
-      <point x="483" y="67" type="line"/>
+      <point x="403" y="77" type="line"/>
+      <point x="483" y="77" type="line"/>
       <point x="483" y="561" type="line"/>
     </contour>
     <contour>
@@ -43,10 +43,18 @@
       <point x="166" y="0" type="move" name="nukta"/>
     </contour>
     <contour>
-      <point x="316" y="-214" type="move" name="bottom"/>
+      <point x="326" y="-184" type="move" name="bottom"/>
     </contour>
     <contour>
       <point x="443" y="599" type="move" name="top"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>5</integer>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
 </glyph>
