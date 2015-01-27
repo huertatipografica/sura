@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="eShort-deva" format="1">
-  <advance width="527"/>
-  <unicode hex="090E"/>
-  <outline>
-    <component base="e-deva"/>
-    <component base="eShortMatra-deva" xOffset="23"/>
-  </outline>
-</glyph>
