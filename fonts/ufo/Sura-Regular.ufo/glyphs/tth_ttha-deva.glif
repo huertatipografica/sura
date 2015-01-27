@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tth_ttha-deva" format="1">
+  <advance width="579"/>
+  <outline>
+    <contour>
+      <point x="-20" y="599" type="line"/>
+      <point x="-30" y="589" type="line"/>
+      <point x="-15" y="529" type="line"/>
+      <point x="599" y="529" type="line"/>
+      <point x="609" y="539" type="line"/>
+      <point x="594" y="599" type="line"/>
+    </contour>
+    <component base="ttha.small" xOffset="-3"/>
+    <component base="ttha.small" xOffset="-3" yOffset="-374"/>
+    <contour>
+      <point x="399" y="599" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="293" y="-203" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

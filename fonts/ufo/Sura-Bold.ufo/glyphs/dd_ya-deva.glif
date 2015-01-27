@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dd_ya-deva" format="1">
+  <advance width="1152"/>
+  <outline>
+    <contour>
+      <point x="385" y="469" type="line"/>
+      <point x="385" y="361" type="line"/>
+      <point x="628" y="361" type="line" smooth="yes"/>
+      <point x="665" y="361"/>
+      <point x="692" y="349"/>
+      <point x="692" y="330" type="curve" smooth="yes"/>
+      <point x="692" y="292"/>
+      <point x="662" y="273"/>
+      <point x="588" y="265" type="curve"/>
+      <point x="569" y="227" type="line"/>
+      <point x="592" y="124"/>
+      <point x="698" y="44"/>
+      <point x="816" y="44" type="curve" smooth="yes"/>
+      <point x="882" y="44"/>
+      <point x="950" y="80"/>
+      <point x="1007" y="144" type="curve"/>
+      <point x="951" y="249" type="line"/>
+      <point x="914" y="187"/>
+      <point x="855" y="149"/>
+      <point x="790" y="149" type="curve" smooth="yes"/>
+      <point x="731" y="149"/>
+      <point x="688" y="159"/>
+      <point x="678" y="176" type="curve"/>
+      <point x="763" y="193"/>
+      <point x="809" y="245"/>
+      <point x="809" y="302" type="curve" smooth="yes"/>
+      <point x="809" y="413"/>
+      <point x="689" y="469"/>
+      <point x="552" y="469" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="950" y="563" type="line"/>
+      <point x="950" y="185" type="line"/>
+      <point x="933" y="-15" type="line"/>
+      <point x="1050" y="-34" type="line"/>
+      <point x="1078" y="-9" type="line"/>
+      <point x="1064" y="184" type="line"/>
+      <point x="1064" y="563" type="line"/>
+    </contour>
+    <contour>
+      <point x="1157" y="641" type="line"/>
+      <point x="517" y="641" type="line"/>
+      <point x="507" y="611" type="line"/>
+      <point x="532" y="536" type="line"/>
+      <point x="1169" y="536" type="line"/>
+      <point x="1182" y="566" type="line"/>
+    </contour>
+    <component base="dda-deva"/>
+    <contour>
+      <point x="691" y="0" type="move" name="nukta"/>
+    </contour>
+    <contour>
+      <point x="1001" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="1001" y="641" type="move" name="top"/>
+    </contour>
+  </outline>
+</glyph>

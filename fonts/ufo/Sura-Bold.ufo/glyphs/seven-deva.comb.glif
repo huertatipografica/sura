@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="seven-deva.comb" format="1">
+  <advance width="286"/>
+  <unicode hex="A8E7"/>
+  <outline>
+    <contour>
+      <point x="20" y="956"/>
+      <point x="5" y="905"/>
+      <point x="5" y="847" type="curve" smooth="yes"/>
+      <point x="5" y="774"/>
+      <point x="52" y="728"/>
+      <point x="143" y="728" type="curve" smooth="yes"/>
+      <point x="222" y="728"/>
+      <point x="281" y="781"/>
+      <point x="281" y="864" type="curve" smooth="yes"/>
+      <point x="281" y="924"/>
+      <point x="250" y="986"/>
+      <point x="190" y="986" type="curve" smooth="yes"/>
+      <point x="150" y="986"/>
+      <point x="125" y="964"/>
+      <point x="111" y="916" type="curve"/>
+      <point x="125" y="882"/>
+      <point x="150" y="872"/>
+      <point x="170" y="852" type="curve"/>
+      <point x="197" y="876" type="line"/>
+      <point x="180" y="887"/>
+      <point x="176" y="903"/>
+      <point x="176" y="914" type="curve" smooth="yes"/>
+      <point x="176" y="926"/>
+      <point x="185" y="933"/>
+      <point x="193" y="933" type="curve" smooth="yes"/>
+      <point x="202" y="933"/>
+      <point x="210" y="926"/>
+      <point x="210" y="909" type="curve" smooth="yes"/>
+      <point x="210" y="850"/>
+      <point x="173" y="788"/>
+      <point x="127" y="788" type="curve" smooth="yes"/>
+      <point x="93" y="788"/>
+      <point x="82" y="810"/>
+      <point x="82" y="839" type="curve" smooth="yes"/>
+      <point x="82" y="876"/>
+      <point x="98" y="939"/>
+      <point x="124" y="976" type="curve"/>
+      <point x="51" y="1010" type="line"/>
+    </contour>
+    <contour>
+      <point x="144" y="640" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>

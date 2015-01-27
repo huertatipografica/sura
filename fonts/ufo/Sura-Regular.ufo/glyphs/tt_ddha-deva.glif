@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tt_ddha-deva" format="1">
+  <advance width="524"/>
+  <outline>
+    <contour>
+      <point x="-20" y="599" type="line"/>
+      <point x="-30" y="589" type="line"/>
+      <point x="-15" y="529" type="line"/>
+      <point x="544" y="529" type="line"/>
+      <point x="554" y="539" type="line"/>
+      <point x="539" y="599" type="line"/>
+    </contour>
+    <component base="tta.small" xOffset="-4"/>
+    <component base="ddha.small" xOffset="11" yOffset="-378"/>
+    <contour>
+      <point x="398" y="599" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="292" y="-203" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

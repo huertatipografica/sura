@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rra-deva" format="1">
+  <advance width="393"/>
+  <unicode hex="0931"/>
+  <outline>
+    <component base="ra-deva"/>
+    <component base="nukta-deva" xOffset="15" yOffset="119"/>
+    <contour>
+      <point x="197" y="599" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="226" y="-30" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

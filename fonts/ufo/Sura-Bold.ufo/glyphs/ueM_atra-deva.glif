@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ueMatra-deva" format="1">
+  <advance width="403"/>
+  <unicode hex="0956"/>
+  <outline>
+    <component base="eCandraMatra-deva" xOffset="-10" yOffset="-884"/>
+    <contour>
+      <point x="201" y="0" type="move" name="_bottom"/>
+    </contour>
+  </outline>
+</glyph>

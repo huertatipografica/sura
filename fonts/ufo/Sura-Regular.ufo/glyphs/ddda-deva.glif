@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ddda-deva" format="1">
+  <advance width="582"/>
+  <unicode hex="097E"/>
+  <outline>
+    <contour>
+      <point x="64" y="-68" type="line"/>
+      <point x="79" y="-128" type="line"/>
+      <point x="538" y="-128" type="line"/>
+      <point x="548" y="-118" type="line"/>
+      <point x="533" y="-58" type="line"/>
+      <point x="74" y="-58" type="line"/>
+    </contour>
+    <component base="dda-deva"/>
+    <contour>
+      <point x="398" y="599" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="312" y="-130" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

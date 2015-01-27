@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="headstroke-deva" format="1">
+  <advance width="409"/>
+  <unicode hex="A8FB"/>
+  <outline>
+    <contour>
+      <point x="-20" y="646" type="line"/>
+      <point x="-30" y="616" type="line"/>
+      <point x="-5" y="536" type="line"/>
+      <point x="429" y="536" type="line"/>
+      <point x="439" y="566" type="line"/>
+      <point x="414" y="646" type="line"/>
+    </contour>
+  </outline>
+</glyph>

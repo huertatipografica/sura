@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="guilsinglright" format="1">
+  <advance width="270"/>
+  <unicode hex="203A"/>
+  <outline>
+    <contour>
+      <point x="250" y="242" type="line"/>
+      <point x="97" y="474" type="line"/>
+      <point x="30" y="429" type="line"/>
+      <point x="160" y="198" type="line"/>
+    </contour>
+    <contour>
+      <point x="160" y="286" type="line"/>
+      <point x="30" y="55" type="line"/>
+      <point x="97" y="10" type="line"/>
+      <point x="250" y="242" type="line"/>
+    </contour>
+  </outline>
+</glyph>

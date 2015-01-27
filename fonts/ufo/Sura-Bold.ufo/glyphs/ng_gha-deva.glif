@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ng_gha-deva" format="1">
+  <advance width="640"/>
+  <outline>
+    <contour>
+      <point x="-20" y="641" type="line"/>
+      <point x="-30" y="611" type="line"/>
+      <point x="-5" y="536" type="line"/>
+      <point x="660" y="536" type="line"/>
+      <point x="670" y="566" type="line"/>
+      <point x="645" y="641" type="line"/>
+    </contour>
+    <component base="dda.small" xOffset="24"/>
+    <component base="nukta-deva" xOffset="479" yOffset="526"/>
+    <component base="gha.small" xOffset="47" yOffset="-391"/>
+    <contour>
+      <point x="389" y="641" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="440" y="-249" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

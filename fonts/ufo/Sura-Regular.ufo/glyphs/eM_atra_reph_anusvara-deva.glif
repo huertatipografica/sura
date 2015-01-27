@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eMatra_reph_anusvara-deva" format="1">
+  <advance width="471"/>
+  <outline>
+    <component base="nukta-deva" xOffset="344" yOffset="800"/>
+    <component base="eMatra_reph-deva"/>
+    <contour>
+      <point x="323" y="599" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>

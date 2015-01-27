@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="c_ca-deva" format="1">
+  <advance width="918"/>
+  <outline>
+    <component base="c-deva"/>
+    <component base="ca-deva" xOffset="325"/>
+    <contour>
+      <point x="784" y="599" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="784" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

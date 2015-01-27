@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="k_ss_ra-deva" format="1">
+  <advance width="742"/>
+  <outline>
+    <contour>
+      <point x="608" y="229" type="line"/>
+      <point x="558" y="179"/>
+      <point x="500" y="122"/>
+      <point x="412" y="47" type="curve"/>
+      <point x="467" y="-1" type="line"/>
+      <point x="641" y="180" type="line"/>
+    </contour>
+    <contour>
+      <point x="454" y="589" type="line"/>
+      <point x="469" y="529" type="line"/>
+      <point x="752" y="529" type="line"/>
+      <point x="762" y="539" type="line"/>
+      <point x="747" y="599" type="line"/>
+      <point x="464" y="599" type="line"/>
+    </contour>
+    <contour>
+      <point x="568" y="561" type="line"/>
+      <point x="568" y="107" type="line"/>
+      <point x="563" y="-13" type="line"/>
+      <point x="638" y="-28" type="line"/>
+      <point x="656" y="-13" type="line"/>
+      <point x="648" y="167" type="line"/>
+      <point x="648" y="561" type="line"/>
+    </contour>
+    <component base="k_ss-deva"/>
+    <contour>
+      <point x="608" y="599" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="608" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

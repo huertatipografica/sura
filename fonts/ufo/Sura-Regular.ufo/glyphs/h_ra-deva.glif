@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="h_ra-deva" format="1">
+  <advance width="609"/>
+  <outline>
+    <contour>
+      <point x="454" y="225" type="line"/>
+      <point x="404" y="175"/>
+      <point x="346" y="118"/>
+      <point x="258" y="43" type="curve"/>
+      <point x="313" y="-5" type="line"/>
+      <point x="487" y="176" type="line"/>
+    </contour>
+    <component base="h_compo"/>
+    <contour>
+      <point x="397" y="599" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="319" y="-166" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

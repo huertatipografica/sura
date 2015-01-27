@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lVocalic-deva" format="1">
+  <advance width="730"/>
+  <unicode hex="090C"/>
+  <outline>
+    <contour>
+      <point x="442" y="589" type="line"/>
+      <point x="457" y="529" type="line"/>
+      <point x="740" y="529" type="line"/>
+      <point x="750" y="539" type="line"/>
+      <point x="735" y="599" type="line"/>
+      <point x="452" y="599" type="line"/>
+    </contour>
+    <contour>
+      <point x="640" y="60" type="line"/>
+      <point x="636" y="167" type="line"/>
+      <point x="636" y="561" type="line"/>
+      <point x="556" y="561" type="line"/>
+      <point x="556" y="137" type="line"/>
+      <point x="552" y="60" type="line"/>
+    </contour>
+    <component base="l-deva"/>
+    <component base="rVocalicMatra-deva" xOffset="434" yOffset="93"/>
+    <contour>
+      <point x="596" y="599" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="415" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

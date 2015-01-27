@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zero-deva" format="1">
+  <advance width="562"/>
+  <unicode hex="0966"/>
+  <outline>
+    <contour>
+      <point x="151" y="568"/>
+      <point x="61" y="481"/>
+      <point x="61" y="351" type="curve" smooth="yes"/>
+      <point x="61" y="222"/>
+      <point x="151" y="137"/>
+      <point x="281" y="137" type="curve" smooth="yes"/>
+      <point x="411" y="137"/>
+      <point x="501" y="222"/>
+      <point x="501" y="352" type="curve" smooth="yes"/>
+      <point x="501" y="482"/>
+      <point x="411" y="568"/>
+      <point x="281" y="568" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="384" y="507"/>
+      <point x="417" y="445"/>
+      <point x="417" y="386" type="curve" smooth="yes"/>
+      <point x="417" y="286"/>
+      <point x="351" y="197"/>
+      <point x="253" y="197" type="curve" smooth="yes"/>
+      <point x="173" y="197"/>
+      <point x="146" y="265"/>
+      <point x="146" y="316" type="curve" smooth="yes"/>
+      <point x="146" y="416"/>
+      <point x="212" y="507"/>
+      <point x="310" y="507" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

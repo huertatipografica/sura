@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ng_ka-deva" format="1">
+  <advance width="705"/>
+  <outline>
+    <contour>
+      <point x="-20" y="599" type="line"/>
+      <point x="-30" y="589" type="line"/>
+      <point x="-15" y="529" type="line"/>
+      <point x="725" y="529" type="line"/>
+      <point x="735" y="539" type="line"/>
+      <point x="720" y="599" type="line"/>
+    </contour>
+    <component base="dda.small" xOffset="47"/>
+    <component base="nukta-deva" xOffset="482" yOffset="535"/>
+    <component base="ka.small" xOffset="8" yOffset="-380"/>
+    <contour>
+      <point x="416" y="599" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="334" y="-193" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

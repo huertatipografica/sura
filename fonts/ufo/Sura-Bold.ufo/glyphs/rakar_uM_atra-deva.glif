@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rakar_uMatra-deva" format="1">
+  <advance width="496"/>
+  <outline>
+    <contour>
+      <point x="199" y="54" type="line"/>
+      <point x="187" y="4" type="line"/>
+      <point x="312" y="-60"/>
+      <point x="370" y="-109"/>
+      <point x="440" y="-163" type="curve"/>
+      <point x="486" y="-97" type="line"/>
+      <point x="267" y="54" type="line"/>
+    </contour>
+    <contour>
+      <point x="195" y="54" type="line"/>
+      <point x="146" y="8"/>
+      <point x="99" y="-22"/>
+      <point x="10" y="-69" type="curve"/>
+      <point x="84" y="-163" type="line"/>
+      <point x="308" y="1" type="line"/>
+      <point x="242" y="54" type="line"/>
+    </contour>
+    <component base="uMatra-deva" xOffset="8" yOffset="-153"/>
+    <contour>
+      <point x="238" y="0" type="move" name="_bottom"/>
+    </contour>
+  </outline>
+</glyph>

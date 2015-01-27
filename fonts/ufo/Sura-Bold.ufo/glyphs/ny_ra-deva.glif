@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ny_ra-deva" format="1">
+  <advance width="858"/>
+  <outline>
+    <contour>
+      <point x="566" y="123"/>
+      <point x="448" y="42"/>
+      <point x="364" y="-4" type="curve"/>
+      <point x="428" y="-76" type="line"/>
+      <point x="663" y="102" type="line"/>
+      <point x="649" y="180" type="line"/>
+    </contour>
+    <component base="ny-deva"/>
+    <component base="aaMatra-deva" xOffset="547"/>
+    <contour>
+      <point x="704" y="641" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="704" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>
