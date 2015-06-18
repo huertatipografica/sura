@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="breveacute.cap" format="1">
+  <advance width="360"/>
+  <outline>
+    <contour>
+      <point x="123" y="669" type="line"/>
+      <point x="156" y="624" type="line"/>
+      <point x="316" y="708" type="line"/>
+      <point x="280" y="767" type="line"/>
+    </contour>
+    <component base="brevecomb" xOffset="6" yOffset="-30"/>
+    <contour>
+      <point x="180" y="494" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>

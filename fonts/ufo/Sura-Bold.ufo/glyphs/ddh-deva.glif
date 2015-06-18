@@ -5,4 +5,19 @@
     <component base="ddha-deva"/>
     <component base="halant-deva" xOffset="194" yOffset="11"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>disableAlignment</key>
+          <true/>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>halant-deva</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

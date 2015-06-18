@@ -5,4 +5,19 @@
     <component base="auMatra-deva"/>
     <component base="candraBindu-deva" xOffset="54" yOffset="56"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>disableAlignment</key>
+          <true/>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>candraBindu-deva</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

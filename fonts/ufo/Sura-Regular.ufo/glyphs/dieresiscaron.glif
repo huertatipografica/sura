@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresiscaron" format="1">
+  <advance width="360"/>
+  <outline>
+    <component base="circumflexcomb.flat" xOffset="340" yOffset="1285" xScale="-1" yScale="-1"/>
+    <component base="dieresiscomb" yOffset="10"/>
+    <contour>
+      <point x="180" y="494" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>

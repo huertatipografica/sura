@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflexacute.cap" format="1">
+  <advance width="360"/>
+  <outline>
+    <contour>
+      <point x="346" y="749" type="line"/>
+      <point x="265" y="628" type="line"/>
+      <point x="301" y="605" type="line"/>
+      <point x="392" y="716" type="line"/>
+    </contour>
+    <component base="circumflexcomb" xOffset="18" yOffset="-20"/>
+    <contour>
+      <point x="180" y="494" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>

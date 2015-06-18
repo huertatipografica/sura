@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="grave.cap" format="1">
+  <advance width="360"/>
+  <outline>
+    <contour>
+      <point x="294" y="535" type="line"/>
+      <point x="309" y="577" type="line"/>
+      <point x="80" y="678" type="line"/>
+      <point x="54" y="613" type="line"/>
+    </contour>
+    <contour>
+      <point x="186" y="494" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>
