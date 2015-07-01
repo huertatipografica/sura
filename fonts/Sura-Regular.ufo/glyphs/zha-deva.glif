@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zha-deva" format="1">
+  <advance width="710"/>
+  <unicode hex="0979"/>
+  <outline>
+    <contour>
+      <point x="214" y="28"/>
+      <point x="188" y="-2"/>
+      <point x="188" y="-11" type="curve" smooth="yes"/>
+      <point x="188" y="-37"/>
+      <point x="223" y="-68"/>
+      <point x="232" y="-68" type="curve" smooth="yes"/>
+      <point x="258" y="-68"/>
+      <point x="284" y="-38"/>
+      <point x="284" y="-29" type="curve" smooth="yes"/>
+      <point x="284" y="-3"/>
+      <point x="249" y="28"/>
+      <point x="240" y="28" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="353" y="28"/>
+      <point x="327" y="-2"/>
+      <point x="327" y="-11" type="curve" smooth="yes"/>
+      <point x="327" y="-37"/>
+      <point x="362" y="-68"/>
+      <point x="371" y="-68" type="curve" smooth="yes"/>
+      <point x="397" y="-68"/>
+      <point x="423" y="-38"/>
+      <point x="423" y="-29" type="curve" smooth="yes"/>
+      <point x="423" y="-3"/>
+      <point x="388" y="28"/>
+      <point x="379" y="28" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="287" y="-86"/>
+      <point x="261" y="-116"/>
+      <point x="261" y="-125" type="curve" smooth="yes"/>
+      <point x="261" y="-151"/>
+      <point x="296" y="-182"/>
+      <point x="305" y="-182" type="curve" smooth="yes"/>
+      <point x="331" y="-182"/>
+      <point x="357" y="-152"/>
+      <point x="357" y="-143" type="curve" smooth="yes"/>
+      <point x="357" y="-117"/>
+      <point x="322" y="-86"/>
+      <point x="313" y="-86" type="curve" smooth="yes"/>
+    </contour>
+    <component base="ja-deva"/>
+    <contour>
+      <point x="576" y="599" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="576" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+      <string>==aaMatra-deva</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>za-deva</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>za-deva</string>
+    </dict>
+  </lib>
+</glyph>

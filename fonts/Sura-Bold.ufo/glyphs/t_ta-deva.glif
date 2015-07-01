@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="t_ta-deva" format="1">
+  <advance width="670"/>
+  <outline>
+    <component base="t_t-deva"/>
+    <component base="aaMatra-deva" xOffset="359"/>
+    <contour>
+      <point x="515" y="640" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="515" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>t_t-deva</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>aaMatra-deva</string>
+    </dict>
+  </lib>
+</glyph>

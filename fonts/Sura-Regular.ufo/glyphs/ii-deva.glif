@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ii-deva" format="1">
+  <advance width="550"/>
+  <unicode hex="0908"/>
+  <outline>
+    <component base="i-deva"/>
+    <component base="reph-deva" xOffset="271"/>
+    <contour>
+      <point x="366" y="600" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="252" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>x</key>
+          <integer>0</integer>
+          <key>y</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <integer>90</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>x</key>
+          <integer>366</integer>
+          <key>y</key>
+          <integer>614</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

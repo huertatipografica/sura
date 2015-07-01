@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sh_va-deva" format="1">
+  <advance width="646"/>
+  <outline>
+    <contour>
+      <point x="270" y="343" type="line"/>
+      <point x="218" y="311"/>
+      <point x="193" y="266"/>
+      <point x="193" y="210" type="curve" smooth="yes"/>
+      <point x="193" y="119"/>
+      <point x="270" y="44"/>
+      <point x="365" y="44" type="curve" smooth="yes"/>
+      <point x="429" y="44"/>
+      <point x="486" y="69"/>
+      <point x="533" y="116" type="curve"/>
+      <point x="492" y="200" type="line"/>
+      <point x="455" y="138"/>
+      <point x="407" y="106"/>
+      <point x="350" y="106" type="curve" smooth="yes"/>
+      <point x="300" y="106"/>
+      <point x="276" y="139"/>
+      <point x="276" y="178" type="curve" smooth="yes"/>
+      <point x="276" y="219"/>
+      <point x="301" y="268"/>
+      <point x="350" y="296" type="curve"/>
+    </contour>
+    <component base="sh-deva.ss02"/>
+    <component base="aaMatra-deva" xOffset="378"/>
+    <contour>
+      <point x="512" y="599" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="512" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
+      <string>==sh-deva.ss02</string>
+      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+      <string>==aaMatra-deva</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>sh-deva</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>ra-deva</string>
+    </dict>
+  </lib>
+</glyph>

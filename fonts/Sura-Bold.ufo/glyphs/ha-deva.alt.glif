@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ha-deva.alt" format="1">
+  <advance width="624"/>
+  <outline>
+    <component base="h_compo"/>
+    <contour>
+      <point x="424" y="641" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="342" y="-95" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>ha-deva</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>ha-deva</string>
+    </dict>
+  </lib>
+</glyph>

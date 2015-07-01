@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lcaron" format="1">
+  <advance width="275"/>
+  <unicode hex="013E"/>
+  <outline>
+    <contour>
+      <point x="11" y="707" type="line"/>
+      <point x="87" y="691" type="line"/>
+      <point x="87" y="691"/>
+      <point x="97" y="635"/>
+      <point x="97" y="615" type="curve" smooth="yes"/>
+      <point x="97" y="137" type="line" smooth="yes"/>
+      <point x="97" y="117"/>
+      <point x="89" y="70"/>
+      <point x="87" y="61" type="curve"/>
+      <point x="10" y="45" type="line"/>
+      <point x="15" y="-5" type="line"/>
+      <point x="15" y="-5"/>
+      <point x="106" y="0"/>
+      <point x="126" y="0" type="curve" smooth="yes"/>
+      <point x="206" y="0"/>
+      <point x="256" y="0"/>
+      <point x="256" y="0" type="curve"/>
+      <point x="262" y="54" type="line"/>
+      <point x="184" y="61" type="line"/>
+      <point x="183" y="69"/>
+      <point x="178" y="123"/>
+      <point x="178" y="167" type="curve" smooth="yes"/>
+      <point x="178" y="585" type="line" smooth="yes"/>
+      <point x="178" y="632"/>
+      <point x="182" y="707"/>
+      <point x="185" y="738" type="curve"/>
+      <point x="166" y="756" type="line"/>
+      <point x="108" y="756" type="line" smooth="yes"/>
+      <point x="88" y="756"/>
+      <point x="16" y="760"/>
+      <point x="16" y="760" type="curve"/>
+    </contour>
+    <contour>
+      <point x="330" y="705" type="line"/>
+      <point x="317" y="462" type="line"/>
+      <point x="261" y="465" type="line"/>
+      <point x="253" y="705" type="line"/>
+    </contour>
+    <contour>
+      <point x="122" y="756" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="138" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="264" y="494" type="move" name="topright"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>0</integer>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+            <dict>
+              <key>points</key>
+              <array>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>326</integer>
+                  <key>y</key>
+                  <integer>756</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>313</integer>
+                  <key>y</key>
+                  <integer>513</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>255</integer>
+                  <key>y</key>
+                  <integer>516</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>256</integer>
+                  <key>y</key>
+                  <integer>610</integer>
+                </dict>
+                <dict>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>255</integer>
+                  <key>y</key>
+                  <integer>629</integer>
+                </dict>
+                <dict>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>247</integer>
+                  <key>y</key>
+                  <integer>756</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>curve</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>247</integer>
+                  <key>y</key>
+                  <integer>756</integer>
+                </dict>
+              </array>
+            </dict>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>lcaron</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>275</integer>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

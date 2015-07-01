@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ddda-deva" format="1">
+  <advance width="582"/>
+  <unicode hex="097E"/>
+  <outline>
+    <contour>
+      <point x="64" y="-68" type="line"/>
+      <point x="79" y="-128" type="line"/>
+      <point x="538" y="-128" type="line"/>
+      <point x="548" y="-118" type="line"/>
+      <point x="533" y="-58" type="line"/>
+      <point x="74" y="-58" type="line"/>
+    </contour>
+    <component base="dda-deva"/>
+    <contour>
+      <point x="398" y="599" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="312" y="-130" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
+      <string>==dda-deva</string>
+      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+      <string>==dda-deva</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>dda-deva</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>dda-deva</string>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>90</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>x</key>
+          <integer>398</integer>
+          <key>y</key>
+          <integer>611</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

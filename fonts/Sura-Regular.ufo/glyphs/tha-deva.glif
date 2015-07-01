@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tha-deva" format="1">
+  <advance width="610"/>
+  <unicode hex="0925"/>
+  <outline>
+    <component base="th-deva"/>
+    <component base="aaMatra-deva" xOffset="342"/>
+    <contour>
+      <point x="476" y="599" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="466" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>90</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>x</key>
+          <integer>476</integer>
+          <key>y</key>
+          <integer>671</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

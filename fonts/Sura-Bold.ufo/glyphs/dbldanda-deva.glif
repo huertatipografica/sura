@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dbldanda-deva" format="1">
+  <advance width="509"/>
+  <unicode hex="0965"/>
+  <outline>
+    <component base="danda-deva"/>
+    <component base="danda-deva" xOffset="198"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>danda-deva</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>danda-deva</string>
+    </dict>
+  </lib>
+</glyph>

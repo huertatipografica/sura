@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="doubleCandraBindu_halant-deva" format="1">
+  <advance width="434"/>
+  <unicode hex="A8F4"/>
+  <outline>
+    <component base="candraBindu-deva" xOffset="8" yOffset="-290"/>
+    <component base="candraBindu-deva" xOffset="8" yOffset="-586"/>
+    <component base="halant-deva" xOffset="83" yOffset="155"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
+      <string>==spacingCandraBindu-deva</string>
+      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+      <string>==spacingCandraBindu-deva</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>spacingCandraBindu-deva</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>spacingCandraBindu-deva</string>
+    </dict>
+  </lib>
+</glyph>

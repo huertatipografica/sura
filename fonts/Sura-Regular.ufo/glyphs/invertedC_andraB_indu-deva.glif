@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="invertedCandraBindu-deva" format="1">
+  <advance width="355"/>
+  <unicode hex="0900"/>
+  <outline>
+    <component base="eCandraMatra-deva" xOffset="355" yOffset="1476" xScale="-1" yScale="-1"/>
+    <component base="anusvara-deva" xOffset="117" yOffset="-37"/>
+    <contour>
+      <point x="185" y="599" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>x</key>
+          <integer>307</integer>
+          <key>y</key>
+          <integer>838</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <integer>90</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>x</key>
+          <integer>185</integer>
+          <key>y</key>
+          <integer>638</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

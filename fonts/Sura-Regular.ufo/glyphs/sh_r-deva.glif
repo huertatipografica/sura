@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sh_r-deva" format="1">
+  <advance width="380"/>
+  <outline>
+    <contour>
+      <point x="510" y="268" type="line"/>
+      <point x="467" y="309" type="line"/>
+      <point x="386" y="232"/>
+      <point x="306" y="167"/>
+      <point x="157" y="57" type="curve"/>
+      <point x="207" y="4" type="line"/>
+    </contour>
+    <component base="sh-deva.ss02"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
+      <string>==sh-deva.ss02</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>sh-deva</string>
+    </dict>
+  </lib>
+</glyph>

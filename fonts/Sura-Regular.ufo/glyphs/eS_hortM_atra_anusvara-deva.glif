@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eShortMatra_anusvara-deva" format="1">
+  <advance width="488"/>
+  <outline>
+    <component base="eShortMatra-deva"/>
+    <component base="anusvara-deva" xOffset="334" yOffset="60"/>
+    <contour>
+      <point x="390" y="599" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+      <string>==anusvara-deva</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>anusvara-deva</string>
+    </dict>
+  </lib>
+</glyph>

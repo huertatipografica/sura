@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="pa-deva.comb" format="1">
+  <advance width="384"/>
+  <unicode hex="A8EE"/>
+  <outline>
+    <contour>
+      <point x="10" y="1012" type="line"/>
+      <point x="5" y="987" type="line"/>
+      <point x="23" y="942" type="line"/>
+      <point x="51" y="942" type="line"/>
+      <point x="51" y="846" type="line" smooth="yes"/>
+      <point x="51" y="795"/>
+      <point x="115" y="736"/>
+      <point x="153" y="736" type="curve" smooth="yes"/>
+      <point x="178" y="736"/>
+      <point x="207" y="739"/>
+      <point x="237" y="753" type="curve"/>
+      <point x="226" y="661" type="line"/>
+      <point x="304" y="650" type="line"/>
+      <point x="323" y="668" type="line"/>
+      <point x="313" y="771" type="line"/>
+      <point x="313" y="942" type="line"/>
+      <point x="371" y="942" type="line"/>
+      <point x="379" y="967" type="line"/>
+      <point x="361" y="1012" type="line"/>
+    </contour>
+    <contour>
+      <point x="239" y="862" type="line"/>
+      <point x="226" y="832"/>
+      <point x="209" y="795"/>
+      <point x="158" y="795" type="curve" smooth="yes"/>
+      <point x="135" y="795"/>
+      <point x="129" y="804"/>
+      <point x="129" y="822" type="curve" smooth="yes"/>
+      <point x="129" y="942" type="line"/>
+      <point x="239" y="942" type="line"/>
+    </contour>
+    <contour>
+      <point x="194" y="640" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>90</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>x</key>
+          <integer>238</integer>
+          <key>y</key>
+          <integer>431</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <integer>90</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>x</key>
+          <integer>92</integer>
+          <key>y</key>
+          <integer>93</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+            <dict>
+              <key>name</key>
+              <string>nukta</string>
+              <key>x</key>
+              <integer>163</integer>
+              <key>y</key>
+              <integer>0</integer>
+            </dict>
+            <dict>
+              <key>name</key>
+              <string>bottom</string>
+              <key>x</key>
+              <integer>473</integer>
+              <key>y</key>
+              <integer>0</integer>
+            </dict>
+            <dict>
+              <key>name</key>
+              <string>top</string>
+              <key>x</key>
+              <integer>475</integer>
+              <key>y</key>
+              <integer>641</integer>
+            </dict>
+          </array>
+          <key>components</key>
+          <array>
+            <dict>
+              <key>baseGlyph</key>
+              <string>p-deva</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+              </array>
+            </dict>
+            <dict>
+              <key>baseGlyph</key>
+              <string>aaMatra-deva</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+              </array>
+            </dict>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>pa-deva.comb</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>384</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

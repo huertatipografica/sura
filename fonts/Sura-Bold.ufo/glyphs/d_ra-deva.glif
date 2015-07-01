@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="d_ra-deva" format="1">
+  <advance width="603"/>
+  <outline>
+    <contour>
+      <point x="-20" y="641" type="line"/>
+      <point x="-30" y="611" type="line"/>
+      <point x="-5" y="536" type="line"/>
+      <point x="623" y="536" type="line"/>
+      <point x="633" y="566" type="line"/>
+      <point x="608" y="641" type="line"/>
+    </contour>
+    <contour>
+      <point x="362" y="130" type="line"/>
+      <point x="283" y="66"/>
+      <point x="202" y="7"/>
+      <point x="124" y="-43" type="curve"/>
+      <point x="190" y="-124" type="line"/>
+      <point x="416" y="64" type="line"/>
+    </contour>
+    <component base="da.small"/>
+    <contour>
+      <point x="412" y="641" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="331" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
+      <string>==da-deva</string>
+      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+      <string>==da-deva</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>da-deva</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>da-deva</string>
+    </dict>
+  </lib>
+</glyph>

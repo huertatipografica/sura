@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="spacingCandraBindu-deva" format="1">
+  <advance width="423"/>
+  <unicode hex="A8F2"/>
+  <outline>
+    <component base="candraBindu-deva" xOffset="-3" yOffset="-290"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>90</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>x</key>
+          <integer>184</integer>
+          <key>y</key>
+          <integer>560</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

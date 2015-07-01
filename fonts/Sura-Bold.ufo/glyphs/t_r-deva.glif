@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="t_r-deva" format="1">
+  <advance width="323"/>
+  <outline>
+    <contour>
+      <point x="-25" y="611" type="line"/>
+      <point x="0" y="536" type="line"/>
+      <point x="493" y="536" type="line"/>
+      <point x="506" y="566" type="line"/>
+      <point x="481" y="641" type="line"/>
+      <point x="-15" y="641" type="line"/>
+    </contour>
+    <contour>
+      <point x="107" y="272" type="line"/>
+      <point x="171" y="335"/>
+      <point x="197" y="349"/>
+      <point x="232" y="349" type="curve"/>
+      <point x="280" y="349"/>
+      <point x="323" y="319"/>
+      <point x="392" y="241" type="curve"/>
+      <point x="434" y="285" type="line"/>
+      <point x="370" y="361"/>
+      <point x="316" y="458"/>
+      <point x="214" y="458" type="curve"/>
+      <point x="146" y="458"/>
+      <point x="81" y="426"/>
+      <point x="27" y="376" type="curve"/>
+    </contour>
+    <contour>
+      <point x="402" y="281" type="line"/>
+      <point x="401" y="210" type="line"/>
+      <point x="434" y="212" type="line"/>
+      <point x="434" y="285" type="line"/>
+    </contour>
+    <contour>
+      <point x="394" y="284" type="line"/>
+      <point x="326" y="239"/>
+      <point x="193" y="164"/>
+      <point x="69" y="102" type="curve"/>
+      <point x="146" y="-5" type="line"/>
+      <point x="434" y="212" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>t_ra-deva</string>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>90</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>x</key>
+          <integer>76</integer>
+          <key>y</key>
+          <integer>193</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+            <dict>
+              <key>points</key>
+              <array>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>394</integer>
+                  <key>y</key>
+                  <integer>284</integer>
+                </dict>
+                <dict>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>346</integer>
+                  <key>y</key>
+                  <integer>250</integer>
+                </dict>
+                <dict>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>193</integer>
+                  <key>y</key>
+                  <integer>167</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>curve</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>69</integer>
+                  <key>y</key>
+                  <integer>102</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>146</integer>
+                  <key>y</key>
+                  <integer>-5</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>434</integer>
+                  <key>y</key>
+                  <integer>212</integer>
+                </dict>
+              </array>
+            </dict>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>t_r-deva</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>323</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

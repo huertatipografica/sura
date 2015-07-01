@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eMatra_anusvara-deva" format="1">
+  <advance width="431"/>
+  <outline>
+    <component base="eMatra-deva"/>
+    <component base="anusvara-deva" xOffset="305"/>
+    <contour>
+      <point x="323" y="599" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>90</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>x</key>
+          <integer>342</integer>
+          <key>y</key>
+          <integer>577</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>
