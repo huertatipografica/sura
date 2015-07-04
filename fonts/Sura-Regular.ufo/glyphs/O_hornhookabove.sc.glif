@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ohornhookabove.sc" format="1">
+  <advance width="681"/>
+  <outline>
+    <component base="Ohorn.sc"/>
+    <component base="hookabovecomb" xOffset="133"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

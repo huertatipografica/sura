@@ -4,14 +4,6 @@
   <unicode hex="1EF3"/>
   <outline>
     <component base="y"/>
-    <component base="grave" xOffset="86"/>
+    <component base="grave" xOffset="76"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>0</integer>
-      <key>public.markColor</key>
-      <string>0.85,0.26,0.06,1</string>
-    </dict>
-  </lib>
 </glyph>

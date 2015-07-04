@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Hcircumflex.sc" format="1">
+  <advance width="688"/>
+  <outline>
+    <component base="H.sc"/>
+    <component base="circumflex" xOffset="153"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

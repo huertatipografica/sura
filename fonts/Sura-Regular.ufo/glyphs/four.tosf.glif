@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="four.tosf" format="1">
+  <advance width="510"/>
+  <outline>
+    <contour>
+      <point x="347" y="569" type="line"/>
+      <point x="2" y="53" type="line"/>
+      <point x="46" y="0" type="line"/>
+      <point x="306" y="0" type="line"/>
+      <point x="306" y="-230" type="line"/>
+      <point x="385" y="-204" type="line"/>
+      <point x="385" y="0" type="line"/>
+      <point x="464" y="0" type="line"/>
+      <point x="465" y="67" type="line"/>
+      <point x="385" y="61" type="line"/>
+      <point x="385" y="245" type="line"/>
+      <point x="307" y="218" type="line"/>
+      <point x="307" y="56" type="line"/>
+      <point x="104" y="53" type="line"/>
+      <point x="292" y="364" type="line" smooth="yes"/>
+      <point x="307" y="387"/>
+      <point x="417" y="517"/>
+      <point x="417" y="517" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

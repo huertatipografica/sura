@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Uhornacute.sc" format="1">
+  <advance width="594"/>
+  <outline>
+    <component base="U.sc"/>
+    <component base="horncomb" xOffset="383" yOffset="-198"/>
+    <component base="acute" xOffset="158"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

@@ -6,12 +6,4 @@
     <component base="danda-deva"/>
     <component base="danda-deva" xOffset="198"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>danda-deva</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>danda-deva</string>
-    </dict>
-  </lib>
 </glyph>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="k_s_p_la-deva" format="1">
+  <advance width="2017"/>
+  <outline>
+    <component base="k-deva.alt"/>
+    <component base="s-deva" xOffset="589"/>
+    <component base="p-deva" xOffset="1002"/>
+    <component base="la-deva" xOffset="1287"/>
+  </outline>
+</glyph>

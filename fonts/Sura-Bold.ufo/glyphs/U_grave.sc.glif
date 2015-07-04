@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ugrave.sc" format="1">
+  <advance width="640"/>
+  <outline>
+    <component base="U.sc"/>
+    <component base="grave" xOffset="120"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

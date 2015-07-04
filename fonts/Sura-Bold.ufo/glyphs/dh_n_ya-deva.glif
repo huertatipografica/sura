@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dh_n_ya-deva" format="1">
+  <advance width="1414"/>
+  <outline>
+    <contour>
+      <point x="603" y="361"/>
+      <point x="545" y="360"/>
+      <point x="485" y="349" type="curve"/>
+      <point x="460" y="316" type="line"/>
+      <point x="460" y="249"/>
+      <point x="510" y="142"/>
+      <point x="623" y="142" type="curve"/>
+      <point x="648" y="177"/>
+      <point x="679" y="265"/>
+      <point x="679" y="325" type="curve"/>
+      <point x="581" y="234" type="line"/>
+      <point x="678" y="250"/>
+      <point x="822" y="262"/>
+      <point x="920" y="263" type="curve"/>
+      <point x="920" y="355" type="line"/>
+      <point x="860" y="357"/>
+      <point x="755" y="361"/>
+      <point x="690" y="361" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="412" y="641" type="line"/>
+      <point x="402" y="611" type="line"/>
+      <point x="427" y="536" type="line"/>
+      <point x="798" y="536" type="line"/>
+      <point x="808" y="566" type="line"/>
+      <point x="783" y="641" type="line"/>
+    </contour>
+    <component base="dh-deva"/>
+    <component base="ya-deva" xOffset="791"/>
+  </outline>
+</glyph>

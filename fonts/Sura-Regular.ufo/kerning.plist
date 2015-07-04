@@ -561,6 +561,13 @@
 		<key>@MMK_R_Y</key>
 		<integer>-80</integer>
 	</dict>
+	<key>dcaron</key>
+	<dict>
+		<key>@MMK_R_h</key>
+		<integer>20</integer>
+		<key>u</key>
+		<integer>10</integer>
+	</dict>
 	<key>uniA78C</key>
 	<dict>
 		<key>@MMK_R_A</key>

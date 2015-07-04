@@ -61,10 +61,4 @@
       <point x="867" y="599" type="move" name="top"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>tt_tta-deva</string>
-    </dict>
-  </lib>
 </glyph>

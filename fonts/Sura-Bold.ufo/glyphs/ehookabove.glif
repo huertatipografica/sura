@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ehookabove" format="1">
+  <advance width="541"/>
+  <unicode hex="1EBB"/>
+  <outline>
+    <component base="e"/>
+    <component base="hookabovecomb" xOffset="101"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

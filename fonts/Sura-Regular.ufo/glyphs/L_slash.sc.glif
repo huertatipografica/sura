@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lslash.sc" format="1">
+  <advance width="462"/>
+  <outline>
+    <contour>
+      <point x="17" y="246" type="line"/>
+      <point x="32" y="204" type="line"/>
+      <point x="350" y="320" type="line"/>
+      <point x="340" y="363" type="line"/>
+    </contour>
+    <component base="L.sc" xOffset="24"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Abrevehookabove.sc" format="1">
+  <advance width="541"/>
+  <outline>
+    <component base="A.sc"/>
+    <component base="brevehookabove" xOffset="94"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

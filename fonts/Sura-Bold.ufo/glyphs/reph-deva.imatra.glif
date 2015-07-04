@@ -29,10 +29,4 @@
       <point x="175" y="641" type="move" name="_imatra"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>reph-deva</string>
-    </dict>
-  </lib>
 </glyph>

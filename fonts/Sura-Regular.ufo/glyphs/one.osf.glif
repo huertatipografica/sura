@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="one.osf" format="1">
+  <advance width="411"/>
+  <outline>
+    <contour>
+      <point x="393" y="533" type="line"/>
+      <point x="393" y="533"/>
+      <point x="281" y="528"/>
+      <point x="201" y="528" type="curve" smooth="yes"/>
+      <point x="181" y="528"/>
+      <point x="19" y="533"/>
+      <point x="19" y="533" type="curve"/>
+      <point x="14" y="479" type="line"/>
+      <point x="157" y="467" type="line"/>
+      <point x="159" y="454"/>
+      <point x="166" y="408"/>
+      <point x="166" y="391" type="curve" smooth="yes"/>
+      <point x="166" y="137" type="line" smooth="yes"/>
+      <point x="166" y="120"/>
+      <point x="159" y="74"/>
+      <point x="157" y="61" type="curve"/>
+      <point x="9" y="45" type="line"/>
+      <point x="14" y="-5" type="line"/>
+      <point x="14" y="-5"/>
+      <point x="181" y="0"/>
+      <point x="201" y="0" type="curve" smooth="yes"/>
+      <point x="281" y="0"/>
+      <point x="395" y="-5"/>
+      <point x="395" y="-5" type="curve"/>
+      <point x="402" y="54" type="line"/>
+      <point x="254" y="61" type="line"/>
+      <point x="252" y="75"/>
+      <point x="247" y="125"/>
+      <point x="247" y="167" type="curve" smooth="yes"/>
+      <point x="247" y="361" type="line" smooth="yes"/>
+      <point x="247" y="403"/>
+      <point x="252" y="453"/>
+      <point x="254" y="467" type="curve"/>
+      <point x="397" y="474" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

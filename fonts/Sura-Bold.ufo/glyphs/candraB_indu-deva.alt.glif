@@ -7,12 +7,4 @@
       <point x="2" y="641" type="move" name="_top"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>candraBindu-deva</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>candraBindu-deva</string>
-    </dict>
-  </lib>
 </glyph>

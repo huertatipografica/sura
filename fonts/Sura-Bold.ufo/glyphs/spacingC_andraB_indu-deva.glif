@@ -3,23 +3,6 @@
   <advance width="423"/>
   <unicode hex="A8F2"/>
   <outline>
-    <component base="candraBindu-deva" xOffset="-3" yOffset="-290"/>
+    <component base="candraBindu-deva" xOffset="16" yOffset="-217" xScale="0.909" yScale="0.909"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.guides</key>
-      <array>
-        <dict>
-          <key>angle</key>
-          <integer>90</integer>
-          <key>isGlobal</key>
-          <false/>
-          <key>x</key>
-          <integer>184</integer>
-          <key>y</key>
-          <integer>560</integer>
-        </dict>
-      </array>
-    </dict>
-  </lib>
 </glyph>

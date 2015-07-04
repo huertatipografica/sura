@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="barcomp.long" format="1">
+  <advance width="694"/>
+  <outline>
+    <contour>
+      <point x="20" y="627" type="line"/>
+      <point x="20" y="583" type="line"/>
+      <point x="669" y="583" type="line"/>
+      <point x="674" y="627" type="line"/>
+    </contour>
+    <contour>
+      <point x="347" y="605" type="move" name="_center"/>
+    </contour>
+  </outline>
+</glyph>

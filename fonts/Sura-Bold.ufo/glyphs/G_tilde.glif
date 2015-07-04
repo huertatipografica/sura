@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Gtilde" format="1">
-  <advance width="732"/>
+  <advance width="733"/>
   <outline>
     <component base="G"/>
-    <component base="tilde.cap" xOffset="227" yOffset="211"/>
+    <component base="tilde.cap" xOffset="213" yOffset="211"/>
   </outline>
 </glyph>

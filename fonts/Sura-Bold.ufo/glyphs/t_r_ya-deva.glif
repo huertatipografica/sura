@@ -11,14 +11,4 @@
       <point x="783" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
-      <string>==ya-deva</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>t_ra-deva</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>ya-deva</string>
-    </dict>
-  </lib>
 </glyph>

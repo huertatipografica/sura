@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ringacute.cap" format="1">
+  <advance width="269"/>
+  <outline>
+    <component base="ringacute" yOffset="-24"/>
+    <contour>
+      <point x="132" y="494" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>

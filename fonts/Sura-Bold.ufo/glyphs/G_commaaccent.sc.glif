@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Gcommaaccent.sc" format="1">
+  <advance width="603"/>
+  <outline>
+    <component base="G.sc"/>
+    <component base="commaaccent" xOffset="223"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

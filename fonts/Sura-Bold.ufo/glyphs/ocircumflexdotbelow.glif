@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ocircumflexdotbelow" format="1">
+  <advance width="584"/>
+  <unicode hex="1ED9"/>
+  <outline>
+    <component base="o"/>
+    <component base="dotbelowcomb" xOffset="116"/>
+    <component base="circumflex" xOffset="112"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

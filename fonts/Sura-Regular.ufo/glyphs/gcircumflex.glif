@@ -3,115 +3,13 @@
   <advance width="508"/>
   <unicode hex="011D"/>
   <outline>
-    <contour>
-      <point x="471" y="440" type="line"/>
-      <point x="471" y="498" type="line"/>
-      <point x="349" y="479" type="line"/>
-      <point x="319" y="494"/>
-      <point x="284" y="503"/>
-      <point x="244" y="503" type="curve" smooth="yes"/>
-      <point x="128" y="503"/>
-      <point x="51" y="431"/>
-      <point x="51" y="322" type="curve" smooth="yes"/>
-      <point x="51" y="250"/>
-      <point x="85" y="194"/>
-      <point x="141" y="164" type="curve"/>
-      <point x="92" y="123"/>
-      <point x="69" y="98"/>
-      <point x="69" y="84" type="curve" smooth="yes"/>
-      <point x="69" y="49"/>
-      <point x="84" y="26"/>
-      <point x="120" y="11" type="curve"/>
-      <point x="67" y="-31"/>
-      <point x="29" y="-72"/>
-      <point x="29" y="-90" type="curve" smooth="yes"/>
-      <point x="29" y="-185"/>
-      <point x="97" y="-235"/>
-      <point x="227" y="-235" type="curve" smooth="yes"/>
-      <point x="367" y="-235"/>
-      <point x="481" y="-149"/>
-      <point x="481" y="-44" type="curve" smooth="yes"/>
-      <point x="481" y="4"/>
-      <point x="465" y="34"/>
-      <point x="436" y="43" type="curve" smooth="yes"/>
-      <point x="398" y="55"/>
-      <point x="311" y="64"/>
-      <point x="243" y="73" type="curve" smooth="yes"/>
-      <point x="168" y="82"/>
-      <point x="149" y="88"/>
-      <point x="149" y="108" type="curve" smooth="yes"/>
-      <point x="149" y="114"/>
-      <point x="157" y="128"/>
-      <point x="176" y="150" type="curve"/>
-      <point x="197" y="144"/>
-      <point x="219" y="141"/>
-      <point x="244" y="141" type="curve" smooth="yes"/>
-      <point x="360" y="141"/>
-      <point x="437" y="213"/>
-      <point x="437" y="322" type="curve" smooth="yes"/>
-      <point x="437" y="372"/>
-      <point x="421" y="415"/>
-      <point x="391" y="446" type="curve"/>
-    </contour>
-    <contour>
-      <point x="177" y="-6"/>
-      <point x="200" y="-10"/>
-      <point x="227" y="-13" type="curve" smooth="yes"/>
-      <point x="357" y="-30" type="line" smooth="yes"/>
-      <point x="387" y="-34"/>
-      <point x="396" y="-45"/>
-      <point x="396" y="-75" type="curve" smooth="yes"/>
-      <point x="396" y="-136"/>
-      <point x="337" y="-178"/>
-      <point x="255" y="-178" type="curve" smooth="yes"/>
-      <point x="159" y="-178"/>
-      <point x="115" y="-147"/>
-      <point x="115" y="-79" type="curve" smooth="yes"/>
-      <point x="115" y="-60"/>
-      <point x="123" y="-44"/>
-      <point x="158" y="-1" type="curve"/>
-    </contour>
-    <contour>
-      <point x="315" y="452"/>
-      <point x="350" y="409"/>
-      <point x="350" y="322" type="curve" smooth="yes"/>
-      <point x="350" y="235"/>
-      <point x="315" y="192"/>
-      <point x="244" y="192" type="curve" smooth="yes"/>
-      <point x="173" y="192"/>
-      <point x="138" y="235"/>
-      <point x="138" y="322" type="curve" smooth="yes"/>
-      <point x="138" y="408"/>
-      <point x="174" y="452"/>
-      <point x="244" y="452" type="curve" smooth="yes"/>
-    </contour>
-    <contour>
-      <point x="216" y="727" type="line"/>
-      <point x="85" y="596" type="line"/>
-      <point x="118" y="564" type="line"/>
-      <point x="290" y="693" type="line"/>
-      <point x="257" y="727" type="line"/>
-    </contour>
-    <contour>
-      <point x="384" y="564" type="line"/>
-      <point x="417" y="596" type="line"/>
-      <point x="286" y="727" type="line"/>
-      <point x="235" y="727" type="line"/>
-      <point x="212" y="693" type="line"/>
-    </contour>
-    <contour>
-      <point x="250" y="494" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="250" y="494" type="move" name="_top"/>
-    </contour>
+    <component base="g"/>
+    <component base="circumflex" xOffset="70"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>0</integer>
-      <key>public.markColor</key>
-      <string>0.85,0.26,0.06,1</string>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
     </dict>
   </lib>
 </glyph>

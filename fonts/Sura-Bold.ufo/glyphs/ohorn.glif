@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ohorn" format="1">
+  <advance width="663"/>
+  <unicode hex="01A1"/>
+  <outline>
+    <component base="o"/>
+    <component base="horncomb" xOffset="435" yOffset="-163"/>
+    <contour>
+      <point x="295" y="494" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="295" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

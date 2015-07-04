@@ -22,16 +22,4 @@
       <point x="423" y="599" type="move" name="top"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
-      <string>==pha-deva</string>
-      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
-      <string>==pha-deva</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>ph-deva</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>r-deva</string>
-    </dict>
-  </lib>
 </glyph>

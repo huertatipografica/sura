@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uhornacute" format="1">
+  <advance width="638"/>
+  <unicode hex="1EE9"/>
+  <outline>
+    <component base="u"/>
+    <component base="horncomb" xOffset="483" yOffset="-163"/>
+    <component base="acute" xOffset="128"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

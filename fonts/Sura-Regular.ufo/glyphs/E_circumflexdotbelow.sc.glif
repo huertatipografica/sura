@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ecircumflexdotbelow.sc" format="1">
+  <advance width="485"/>
+  <outline>
+    <component base="E.sc"/>
+    <component base="dotbelowcomb" xOffset="85"/>
+    <component base="circumflex" xOffset="65"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="t_s_na-deva" format="1">
+  <advance width="1401"/>
+  <outline>
+    <contour>
+      <point x="784" y="336" type="line"/>
+      <point x="748" y="308"/>
+      <point x="708" y="298"/>
+      <point x="666" y="298" type="curve" smooth="yes"/>
+      <point x="616" y="298"/>
+      <point x="565" y="312"/>
+      <point x="514" y="337" type="curve"/>
+      <point x="514" y="268" type="line"/>
+      <point x="591" y="221"/>
+      <point x="655" y="198"/>
+      <point x="714" y="198" type="curve" smooth="yes"/>
+      <point x="750" y="198"/>
+      <point x="784" y="205"/>
+      <point x="818" y="218" type="curve"/>
+    </contour>
+    <component base="t-deva.alt.001"/>
+    <component base="ra-deva" xOffset="299"/>
+    <component base="na-deva" xOffset="726"/>
+  </outline>
+</glyph>

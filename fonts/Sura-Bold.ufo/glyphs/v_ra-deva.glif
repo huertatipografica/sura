@@ -2,7 +2,7 @@
 <glyph name="v_ra-deva" format="1">
   <advance width="600"/>
   <note>
-	dVRa
+    dVRa
   </note>
   <outline>
     <component base="v_r-deva"/>
@@ -14,75 +14,4 @@
       <point x="450" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>background</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-            <dict>
-              <key>name</key>
-              <string>top</string>
-              <key>x</key>
-              <integer>450</integer>
-              <key>y</key>
-              <integer>641</integer>
-            </dict>
-            <dict>
-              <key>name</key>
-              <string>bottom</string>
-              <key>x</key>
-              <integer>450</integer>
-              <key>y</key>
-              <integer>0</integer>
-            </dict>
-          </array>
-          <key>components</key>
-          <array>
-            <dict>
-              <key>baseGlyph</key>
-              <string>v_r-deva</string>
-              <key>transformation</key>
-              <array>
-                <integer>1</integer>
-                <integer>0</integer>
-                <integer>0</integer>
-                <integer>1</integer>
-                <integer>0</integer>
-                <integer>0</integer>
-              </array>
-            </dict>
-            <dict>
-              <key>baseGlyph</key>
-              <string>aaMatra-deva</string>
-              <key>transformation</key>
-              <array>
-                <integer>1</integer>
-                <integer>0</integer>
-                <integer>0</integer>
-                <integer>1</integer>
-                <integer>0</integer>
-                <integer>0</integer>
-              </array>
-            </dict>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>v_ra-deva</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>600</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

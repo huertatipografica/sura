@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ng_ya-deva" format="1">
+  <advance width="1260"/>
+  <outline>
+    <component base="ng-deva"/>
+    <component base="ya-deva" xOffset="637"/>
+  </outline>
+</glyph>

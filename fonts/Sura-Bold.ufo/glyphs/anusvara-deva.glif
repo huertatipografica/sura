@@ -5,24 +5,7 @@
   <outline>
     <component base="nukta-deva" xOffset="10" yOffset="860"/>
     <contour>
-      <point x="81" y="641" type="move" name="_top"/>
+      <point x="81" y="596" type="move" name="_top"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.guides</key>
-      <array>
-        <dict>
-          <key>angle</key>
-          <integer>90</integer>
-          <key>isGlobal</key>
-          <false/>
-          <key>x</key>
-          <integer>81</integer>
-          <key>y</key>
-          <integer>668</integer>
-        </dict>
-      </array>
-    </dict>
-  </lib>
 </glyph>

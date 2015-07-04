@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Aogonek.sc" format="1">
+  <advance width="522"/>
+  <outline>
+    <component base="A.sc"/>
+    <component base="ogonek" xOffset="305"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

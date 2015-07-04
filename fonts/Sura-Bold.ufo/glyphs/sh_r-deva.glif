@@ -12,12 +12,4 @@
     </contour>
     <component base="sh-deva.ss02"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
-      <string>==sh-deva.ss02</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>sh-deva</string>
-    </dict>
-  </lib>
 </glyph>

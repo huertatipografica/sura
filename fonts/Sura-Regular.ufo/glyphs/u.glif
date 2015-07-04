@@ -60,7 +60,7 @@
       <point x="550" y="0" type="move" name="ogonek"/>
     </contour>
     <contour>
-      <point x="265" y="494" type="move" name="top"/>
+      <point x="260" y="494" type="move" name="top"/>
     </contour>
     <contour>
       <point x="463" y="358" type="move" name="horn"/>
@@ -69,12 +69,4 @@
       <point x="291" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>0</integer>
-      <key>public.markColor</key>
-      <string>0.85,0.26,0.06,1</string>
-    </dict>
-  </lib>
 </glyph>

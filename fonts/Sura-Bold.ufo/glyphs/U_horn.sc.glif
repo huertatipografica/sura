@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Uhorn.sc" format="1">
+  <advance width="718"/>
+  <outline>
+    <component base="U.sc"/>
+    <component base="horncomb" xOffset="490" yOffset="-213"/>
+    <contour>
+      <point x="321" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

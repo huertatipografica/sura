@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ocircumflexacute" format="1">
+  <advance width="812"/>
+  <unicode hex="1ED0"/>
+  <outline>
+    <component base="O"/>
+    <component base="circumflexacute.cap" xOffset="201" yOffset="211"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

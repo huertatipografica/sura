@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ch_na-deva" format="1">
+  <advance width="1297"/>
+  <outline>
+    <component base="ch-deva"/>
+    <component base="na-deva" xOffset="718"/>
+  </outline>
+</glyph>

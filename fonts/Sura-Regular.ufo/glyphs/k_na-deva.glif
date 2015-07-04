@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="k_na-deva" format="1">
+  <advance width="1168"/>
+  <outline>
+    <component base="k-deva.alt"/>
+    <component base="na-deva" xOffset="589"/>
+    <contour>
+      <point x="210" y="-5" type="move" name="nukta"/>
+    </contour>
+    <contour>
+      <point x="405" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="395" y="599" type="move" name="top"/>
+    </contour>
+  </outline>
+</glyph>

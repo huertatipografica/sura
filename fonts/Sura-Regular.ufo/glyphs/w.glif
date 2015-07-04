@@ -51,15 +51,7 @@
       <point x="750" y="435" type="curve"/>
     </contour>
     <contour>
-      <point x="399" y="494" type="move" name="top"/>
+      <point x="404" y="494" type="move" name="top"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>0</integer>
-      <key>public.markColor</key>
-      <string>0.85,0.26,0.06,1</string>
-    </dict>
-  </lib>
 </glyph>

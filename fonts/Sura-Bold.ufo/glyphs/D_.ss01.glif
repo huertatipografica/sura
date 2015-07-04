@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="D.ss01" format="1">
+  <advance width="613"/>
+  <outline>
+    <contour>
+      <point x="615" y="536"/>
+      <point x="-1" y="536"/>
+      <point x="-1" y="536" type="curve"/>
+      <point x="-5" y="476" type="line"/>
+      <point x="618" y="476" type="line"/>
+      <point x="615" y="536" type="line"/>
+    </contour>
+    <contour>
+      <point x="-2" y="0" type="line"/>
+      <point x="614" y="0" type="line"/>
+      <point x="618" y="60" type="line"/>
+      <point x="-5" y="60" type="line"/>
+    </contour>
+    <contour>
+      <point x="83" y="487" type="line"/>
+      <point x="86" y="470"/>
+      <point x="93" y="418"/>
+      <point x="93" y="366" type="curve" smooth="yes"/>
+      <point x="93" y="135" type="line" smooth="yes"/>
+      <point x="93" y="114"/>
+      <point x="87" y="66"/>
+      <point x="86" y="58" type="curve"/>
+      <point x="444" y="29" type="line"/>
+      <point x="526" y="74"/>
+      <point x="566" y="161"/>
+      <point x="566" y="268" type="curve" smooth="yes"/>
+      <point x="566" y="378"/>
+      <point x="523" y="466"/>
+      <point x="437" y="511" type="curve"/>
+    </contour>
+    <contour>
+      <point x="381" y="471"/>
+      <point x="411" y="379"/>
+      <point x="411" y="270" type="curve" smooth="yes"/>
+      <point x="411" y="156"/>
+      <point x="382" y="69"/>
+      <point x="273" y="69" type="curve" smooth="yes"/>
+      <point x="260" y="69"/>
+      <point x="243" y="70"/>
+      <point x="240" y="70" type="curve"/>
+      <point x="240" y="83"/>
+      <point x="238" y="126"/>
+      <point x="238" y="158" type="curve" smooth="yes"/>
+      <point x="238" y="414" type="line" smooth="yes"/>
+      <point x="238" y="416"/>
+      <point x="240" y="457"/>
+      <point x="240" y="469" type="curve"/>
+      <point x="257" y="471"/>
+      <point x="271" y="471"/>
+      <point x="276" y="471" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

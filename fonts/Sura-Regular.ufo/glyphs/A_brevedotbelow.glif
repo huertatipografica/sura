@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Abrevedotbelow" format="1">
+  <advance width="667"/>
+  <unicode hex="1EB6"/>
+  <outline>
+    <component base="A"/>
+    <component base="dotbelowcomb" xOffset="162"/>
+    <component base="breve.cap" xOffset="145" yOffset="211"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

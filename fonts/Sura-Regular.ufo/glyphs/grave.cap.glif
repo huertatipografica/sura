@@ -2,114 +2,15 @@
 <glyph name="grave.cap" format="1">
   <advance width="360"/>
   <outline>
-    <contour>
-      <point x="294" y="535" type="line"/>
-      <point x="309" y="577" type="line"/>
-      <point x="80" y="678" type="line"/>
-      <point x="54" y="613" type="line"/>
-    </contour>
+    <component base="acute.cap" xOffset="359" xScale="-1"/>
     <contour>
       <point x="186" y="494" type="move" name="_top"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>background</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-            <dict>
-              <key>points</key>
-              <array>
-                <dict>
-                  <key>segmentType</key>
-                  <string>line</string>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <integer>81</integer>
-                  <key>y</key>
-                  <integer>678</integer>
-                </dict>
-                <dict>
-                  <key>segmentType</key>
-                  <string>line</string>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <integer>310</integer>
-                  <key>y</key>
-                  <integer>578</integer>
-                </dict>
-                <dict>
-                  <key>segmentType</key>
-                  <string>line</string>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <integer>290</integer>
-                  <key>y</key>
-                  <integer>530</integer>
-                </dict>
-                <dict>
-                  <key>segmentType</key>
-                  <string>line</string>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <integer>202</integer>
-                  <key>y</key>
-                  <integer>567</integer>
-                </dict>
-                <dict>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <integer>183</integer>
-                  <key>y</key>
-                  <integer>573</integer>
-                </dict>
-                <dict>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <integer>51</integer>
-                  <key>y</key>
-                  <integer>605</integer>
-                </dict>
-                <dict>
-                  <key>segmentType</key>
-                  <string>curve</string>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <integer>51</integer>
-                  <key>y</key>
-                  <integer>605</integer>
-                </dict>
-              </array>
-            </dict>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>grave.cap</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>360</integer>
-        </dict>
-      </dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
     </dict>
   </lib>
 </glyph>

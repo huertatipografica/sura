@@ -566,6 +566,8 @@
 		<integer>-80</integer>
 		<key>@MMK_R_Y</key>
 		<integer>-80</integer>
+		<key>@MMK_R_j</key>
+		<integer>0</integer>
 		<key>@MMK_R_v</key>
 		<integer>-30</integer>
 	</dict>
@@ -621,6 +623,15 @@
 		<integer>-80</integer>
 		<key>@MMK_R_Y</key>
 		<integer>-80</integer>
+	</dict>
+	<key>dcaron</key>
+	<dict>
+		<key>@MMK_R_h</key>
+		<integer>50</integer>
+		<key>t</key>
+		<integer>20</integer>
+		<key>u</key>
+		<integer>30</integer>
 	</dict>
 </dict>
 </plist>

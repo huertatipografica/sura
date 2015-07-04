@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ohorngrave.sc" format="1">
+  <advance width="663"/>
+  <outline>
+    <component base="O.sc"/>
+    <component base="horncomb" xOffset="512" yOffset="-117"/>
+    <component base="grave" xOffset="120"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

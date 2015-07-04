@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Oslash.sc" format="1">
+  <advance width="624"/>
+  <outline>
+    <contour>
+      <point x="527" y="610" type="line"/>
+      <point x="490" y="629" type="line"/>
+      <point x="100" y="-83" type="line"/>
+      <point x="136" y="-102" type="line"/>
+    </contour>
+    <component base="O.sc"/>
+    <contour>
+      <point x="313" y="494" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

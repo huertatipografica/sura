@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Yhookabove" format="1">
+  <advance width="724"/>
+  <unicode hex="1EF6"/>
+  <outline>
+    <component base="Y"/>
+    <component base="hookabovecomb.cap" xOffset="211" yOffset="211"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

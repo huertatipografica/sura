@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zero.tosf" format="1">
+  <advance width="510"/>
+  <outline>
+    <contour>
+      <point x="14" y="412"/>
+      <point x="83" y="542"/>
+      <point x="260" y="542" type="curve" smooth="yes"/>
+      <point x="434" y="542"/>
+      <point x="501" y="416"/>
+      <point x="501" y="271" type="curve" smooth="yes"/>
+      <point x="501" y="122"/>
+      <point x="432" y="-8"/>
+      <point x="255" y="-8" type="curve" smooth="yes"/>
+      <point x="81" y="-8"/>
+      <point x="14" y="118"/>
+      <point x="14" y="263" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="367" y="346"/>
+      <point x="348" y="434"/>
+      <point x="259" y="434" type="curve" smooth="yes"/>
+      <point x="166" y="434"/>
+      <point x="148" y="340"/>
+      <point x="148" y="263" type="curve" smooth="yes"/>
+      <point x="148" y="187"/>
+      <point x="167" y="100"/>
+      <point x="256" y="100" type="curve" smooth="yes"/>
+      <point x="349" y="100"/>
+      <point x="367" y="193"/>
+      <point x="367" y="271" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

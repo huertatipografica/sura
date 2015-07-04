@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Eng.sc" format="1">
+  <advance width="678"/>
+  <outline>
+    <contour>
+      <point x="582" y="0" type="line"/>
+      <point x="582" y="-25"/>
+      <point x="526" y="-76"/>
+      <point x="443" y="-152" type="curve"/>
+      <point x="393" y="-125" type="line"/>
+      <point x="421" y="-71"/>
+      <point x="449" y="-16"/>
+      <point x="449" y="0" type="curve"/>
+    </contour>
+    <component base="N.sc" xOffset="1"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

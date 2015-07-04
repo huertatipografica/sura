@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="five.sinf" format="1">
+  <advance width="358"/>
+  <unicode hex="2085"/>
+  <outline>
+    <contour>
+      <point x="132" y="337" type="line"/>
+      <point x="69" y="337" type="line"/>
+      <point x="56" y="325" type="line"/>
+      <point x="56" y="325"/>
+      <point x="44" y="217"/>
+      <point x="38" y="116" type="curve"/>
+      <point x="71" y="76" type="line"/>
+      <point x="97" y="83"/>
+      <point x="117" y="85"/>
+      <point x="132" y="85" type="curve" smooth="yes"/>
+      <point x="186" y="85"/>
+      <point x="208" y="57"/>
+      <point x="208" y="10" type="curve" smooth="yes"/>
+      <point x="208" y="-52"/>
+      <point x="172" y="-87"/>
+      <point x="40" y="-117" type="curve"/>
+      <point x="55" y="-170" type="line"/>
+      <point x="235" y="-142"/>
+      <point x="323" y="-77"/>
+      <point x="323" y="27" type="curve" smooth="yes"/>
+      <point x="323" y="107"/>
+      <point x="270" y="159"/>
+      <point x="167" y="159" type="curve" smooth="yes"/>
+      <point x="156" y="159"/>
+      <point x="140" y="158"/>
+      <point x="127" y="157" type="curve"/>
+      <point x="131" y="210"/>
+      <point x="132" y="243"/>
+      <point x="132" y="243" type="curve"/>
+      <point x="201" y="243" type="line" smooth="yes"/>
+      <point x="222" y="243"/>
+      <point x="304" y="251"/>
+      <point x="304" y="251" type="curve"/>
+      <point x="300" y="344" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

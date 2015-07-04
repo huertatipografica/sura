@@ -50,10 +50,4 @@
       <point x="1997" y="782" type="move" name="top"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>aaMatra-deva</string>
-    </dict>
-  </lib>
 </glyph>

@@ -1,84 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="macron.i.cap" format="1">
-  <advance width="360"/>
+  <advance width="298"/>
   <outline>
-    <component base="macron.i" yOffset="-39"/>
+    <component base="macron.i" yOffset="-51"/>
     <contour>
-      <point x="180" y="494" type="move" name="_top"/>
+      <point x="149" y="494" type="move" name="_top"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>background</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-            <dict>
-              <key>points</key>
-              <array>
-                <dict>
-                  <key>segmentType</key>
-                  <string>line</string>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <integer>304</integer>
-                  <key>y</key>
-                  <integer>544</integer>
-                </dict>
-                <dict>
-                  <key>segmentType</key>
-                  <string>line</string>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <integer>309</integer>
-                  <key>y</key>
-                  <integer>597</integer>
-                </dict>
-                <dict>
-                  <key>segmentType</key>
-                  <string>line</string>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <integer>51</integer>
-                  <key>y</key>
-                  <integer>597</integer>
-                </dict>
-                <dict>
-                  <key>segmentType</key>
-                  <string>line</string>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <integer>51</integer>
-                  <key>y</key>
-                  <integer>544</integer>
-                </dict>
-              </array>
-            </dict>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>macron.i.cap</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>360</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

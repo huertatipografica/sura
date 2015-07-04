@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="d_r_ya-deva" format="1">
-  <advance width="671"/>
+  <advance width="689"/>
   <outline>
     <contour>
       <point x="497" y="68" type="line"/>
@@ -11,7 +11,7 @@
       <point x="232" y="-153" type="line"/>
     </contour>
     <component base="d_y-deva"/>
-    <component base="aaMatra-deva" xOffset="380"/>
+    <component base="aaMatra-deva" xOffset="378"/>
     <contour>
       <point x="522" y="641" type="move" name="top"/>
     </contour>
@@ -19,12 +19,4 @@
       <point x="522" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>d_y-deva</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>aaMatra-deva</string>
-    </dict>
-  </lib>
 </glyph>

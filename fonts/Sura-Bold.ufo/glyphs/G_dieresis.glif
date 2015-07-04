@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Gdieresis" format="1">
-  <advance width="732"/>
+  <advance width="733"/>
   <outline>
     <component base="G"/>
-    <component base="dieresis.cap" xOffset="237" yOffset="261"/>
+    <component base="dieresis.cap" xOffset="209" yOffset="211"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
 </glyph>

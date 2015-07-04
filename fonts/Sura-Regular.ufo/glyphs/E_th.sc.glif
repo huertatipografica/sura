@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Eth.sc" format="1">
+  <advance width="598"/>
+  <outline>
+    <contour>
+      <point x="49" y="248" type="line"/>
+      <point x="296" y="248" type="line"/>
+      <point x="300" y="289" type="line"/>
+      <point x="49" y="289" type="line"/>
+    </contour>
+    <component base="D.sc" xOffset="9"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

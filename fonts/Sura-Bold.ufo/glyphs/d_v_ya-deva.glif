@@ -61,14 +61,4 @@
       <point x="1004" y="641" type="move" name="top"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
-      <string>==ya-deva</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>d_va-deva</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>ya-deva.conecta</string>
-    </dict>
-  </lib>
 </glyph>

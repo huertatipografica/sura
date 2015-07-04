@@ -61,23 +61,4 @@
       <point x="874" y="599" type="move" name="top"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>tta-deva</string>
-      <key>com.typemytype.robofont.guides</key>
-      <array>
-        <dict>
-          <key>angle</key>
-          <integer>90</integer>
-          <key>isGlobal</key>
-          <false/>
-          <key>x</key>
-          <integer>864</integer>
-          <key>y</key>
-          <integer>220</integer>
-        </dict>
-      </array>
-    </dict>
-  </lib>
 </glyph>

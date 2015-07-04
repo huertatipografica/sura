@@ -1,25 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tcaron" format="1">
-  <advance width="358"/>
+  <advance width="391"/>
   <unicode hex="0165"/>
   <outline>
     <contour>
-      <point x="365" y="756" type="line"/>
-      <point x="352" y="551" type="line"/>
-      <point x="274" y="555" type="line"/>
-      <point x="275" y="640" type="line"/>
-      <point x="274" y="655"/>
-      <point x="266" y="756"/>
-      <point x="266" y="756" type="curve"/>
+      <point x="363" y="705" type="line"/>
+      <point x="354" y="525" type="line"/>
+      <point x="280" y="530" type="line"/>
+      <point x="274" y="705" type="line"/>
     </contour>
     <component base="t"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>0</integer>
-      <key>public.markColor</key>
-      <string>0.85,0.26,0.06,1</string>
-    </dict>
-  </lib>
 </glyph>

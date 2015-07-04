@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Kcommaaccent.sc" format="1">
+  <advance width="641"/>
+  <outline>
+    <component base="K.sc"/>
+    <component base="commaaccent" xOffset="226"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

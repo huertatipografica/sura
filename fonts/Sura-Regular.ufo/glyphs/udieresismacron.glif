@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="udieresismacron" format="1">
+  <advance width="574"/>
+  <unicode hex="01D6"/>
+  <outline>
+    <component base="u"/>
+    <component base="dieresismacron" xOffset="80"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

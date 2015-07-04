@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ng_k_t_ta-deva" format="1">
+  <advance width="1422"/>
+  <outline>
+    <component base="ng_k-deva" xOffset="15"/>
+    <component base="t-deva.alt" xOffset="580"/>
+    <component base="ta-deva" xOffset="867"/>
+  </outline>
+</glyph>

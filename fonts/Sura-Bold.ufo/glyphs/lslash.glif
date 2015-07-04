@@ -1,22 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lslash" format="1">
-  <advance width="372"/>
+  <advance width="434"/>
   <unicode hex="0142"/>
   <outline>
     <contour>
-      <point x="327" y="494" type="line"/>
-      <point x="19" y="382" type="line"/>
-      <point x="41" y="322" type="line"/>
-      <point x="349" y="434" type="line"/>
+      <point x="9" y="375" type="line"/>
+      <point x="31" y="315" type="line"/>
+      <point x="428" y="459" type="line"/>
+      <point x="415" y="523" type="line"/>
     </contour>
-    <component base="l" xOffset="20"/>
+    <component base="l" xOffset="58"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>0</integer>
-      <key>public.markColor</key>
-      <string>0.85,0.26,0.06,1</string>
-    </dict>
-  </lib>
 </glyph>

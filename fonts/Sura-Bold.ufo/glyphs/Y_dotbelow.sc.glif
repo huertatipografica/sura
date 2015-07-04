@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ydotbelow.sc" format="1">
+  <advance width="556"/>
+  <outline>
+    <component base="Y.sc"/>
+    <component base="dotbelowcomb" xOffset="115"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

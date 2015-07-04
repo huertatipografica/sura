@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="caron.alt" format="1">
-  <advance width="139"/>
+  <advance width="99"/>
   <outline>
     <contour>
       <point x="109" y="705" type="line"/>

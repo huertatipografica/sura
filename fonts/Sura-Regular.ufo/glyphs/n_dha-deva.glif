@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="n_dha-deva" format="1">
+  <advance width="650"/>
+  <outline>
+    <component base="n_dh.alt"/>
+    <component base="aaMatra-deva" xOffset="382"/>
+  </outline>
+</glyph>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Tcommaaccent.sc" format="1">
+  <advance width="488"/>
+  <outline>
+    <component base="T.sc"/>
+    <component base="commaaccent" xOffset="154"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

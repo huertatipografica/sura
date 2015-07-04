@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rightBlackTriangle" format="1">
+  <advance width="600"/>
+  <unicode hex="25B6"/>
+  <outline>
+    <contour>
+      <point x="129" y="72" type="line"/>
+      <point x="472" y="262" type="line"/>
+      <point x="129" y="452" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

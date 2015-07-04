@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="afii57669" format="1">
+  <advance width="315"/>
+  <unicode hex="05D5"/>
+  <outline>
+    <contour>
+      <point x="216" y="497" type="line" smooth="yes"/>
+      <point x="215" y="558"/>
+      <point x="197" y="577"/>
+      <point x="166" y="583" type="curve" smooth="yes"/>
+      <point x="144" y="587"/>
+      <point x="94" y="597"/>
+      <point x="85" y="599" type="curve"/>
+      <point x="77" y="640" type="line"/>
+      <point x="31" y="636" type="line"/>
+      <point x="10" y="540" type="line"/>
+      <point x="66" y="499" type="line"/>
+      <point x="91" y="495"/>
+      <point x="103" y="492"/>
+      <point x="127" y="487" type="curve" smooth="yes"/>
+      <point x="151" y="482"/>
+      <point x="157" y="469"/>
+      <point x="157" y="453" type="curve" smooth="yes"/>
+      <point x="157" y="324"/>
+      <point x="145" y="90"/>
+      <point x="138" y="-20" type="curve"/>
+      <point x="235" y="0" type="line"/>
+      <point x="231" y="33"/>
+      <point x="221" y="107"/>
+      <point x="220" y="167" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

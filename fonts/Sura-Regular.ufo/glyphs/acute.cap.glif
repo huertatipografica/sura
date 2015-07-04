@@ -3,10 +3,10 @@
   <advance width="360"/>
   <outline>
     <contour>
-      <point x="279" y="678" type="line"/>
-      <point x="50" y="577" type="line"/>
-      <point x="65" y="535" type="line"/>
-      <point x="305" y="613" type="line"/>
+      <point x="277" y="675" type="line"/>
+      <point x="54" y="561" type="line"/>
+      <point x="72" y="520" type="line"/>
+      <point x="307" y="612" type="line"/>
     </contour>
     <contour>
       <point x="160" y="494" type="move" name="_top"/>
@@ -14,102 +14,8 @@
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>background</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-            <dict>
-              <key>points</key>
-              <array>
-                <dict>
-                  <key>segmentType</key>
-                  <string>line</string>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <integer>279</integer>
-                  <key>y</key>
-                  <integer>678</integer>
-                </dict>
-                <dict>
-                  <key>segmentType</key>
-                  <string>line</string>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <integer>50</integer>
-                  <key>y</key>
-                  <integer>578</integer>
-                </dict>
-                <dict>
-                  <key>segmentType</key>
-                  <string>line</string>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <integer>70</integer>
-                  <key>y</key>
-                  <integer>530</integer>
-                </dict>
-                <dict>
-                  <key>segmentType</key>
-                  <string>line</string>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <integer>158</integer>
-                  <key>y</key>
-                  <integer>567</integer>
-                </dict>
-                <dict>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <integer>177</integer>
-                  <key>y</key>
-                  <integer>573</integer>
-                </dict>
-                <dict>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <integer>309</integer>
-                  <key>y</key>
-                  <integer>605</integer>
-                </dict>
-                <dict>
-                  <key>segmentType</key>
-                  <string>curve</string>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <integer>309</integer>
-                  <key>y</key>
-                  <integer>605</integer>
-                </dict>
-              </array>
-            </dict>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>acute.cap</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>360</integer>
-        </dict>
-      </dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
     </dict>
   </lib>
 </glyph>

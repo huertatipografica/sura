@@ -3,88 +3,20 @@
   <advance width="360"/>
   <outline>
     <contour>
-      <point x="154" y="650" type="line"/>
-      <point x="313" y="747" type="line"/>
-      <point x="279" y="796" type="line"/>
-      <point x="126" y="687" type="line"/>
+      <point x="154" y="640" type="line"/>
+      <point x="313" y="737" type="line"/>
+      <point x="279" y="786" type="line"/>
+      <point x="128" y="675" type="line"/>
     </contour>
     <component base="brevecomb" xOffset="31"/>
     <contour>
-      <point x="180" y="494" type="move" name="_top"/>
+      <point x="176" y="494" type="move" name="_top"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>background</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-            <dict>
-              <key>points</key>
-              <array>
-                <dict>
-                  <key>segmentType</key>
-                  <string>line</string>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <integer>127</integer>
-                  <key>y</key>
-                  <integer>687</integer>
-                </dict>
-                <dict>
-                  <key>segmentType</key>
-                  <string>line</string>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <integer>152</integer>
-                  <key>y</key>
-                  <integer>653</integer>
-                </dict>
-                <dict>
-                  <key>segmentType</key>
-                  <string>line</string>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <integer>312</integer>
-                  <key>y</key>
-                  <integer>747</integer>
-                </dict>
-                <dict>
-                  <key>segmentType</key>
-                  <string>line</string>
-                  <key>smooth</key>
-                  <true/>
-                  <key>x</key>
-                  <integer>279</integer>
-                  <key>y</key>
-                  <integer>797</integer>
-                </dict>
-              </array>
-            </dict>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>breveacute</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>360</integer>
-        </dict>
-      </dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
     </dict>
   </lib>
 </glyph>

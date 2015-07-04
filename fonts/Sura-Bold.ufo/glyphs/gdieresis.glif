@@ -3,6 +3,12 @@
   <advance width="546"/>
   <outline>
     <component base="g"/>
-    <component base="dieresis" xOffset="83"/>
+    <component base="dieresis" xOffset="61"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
 </glyph>

@@ -34,18 +34,10 @@
       <point x="375" y="43" type="curve"/>
     </contour>
     <contour>
-      <point x="190" y="247" type="move" name="center"/>
+      <point x="179" y="315" type="move" name="center"/>
     </contour>
     <contour>
-      <point x="240" y="0" type="move" name="bottom"/>
+      <point x="220" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>0</integer>
-      <key>public.markColor</key>
-      <string>0.85,0.26,0.06,1</string>
-    </dict>
-  </lib>
 </glyph>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="g_r_ya-deva" format="1">
+  <advance width="927"/>
+  <outline>
+    <contour>
+      <point x="419" y="235" type="line"/>
+      <point x="355" y="179"/>
+      <point x="263" y="105"/>
+      <point x="176" y="41" type="curve"/>
+      <point x="270" y="-51" type="line"/>
+      <point x="478" y="172" type="line"/>
+    </contour>
+    <component base="g-deva"/>
+    <component base="ya-deva" xOffset="304"/>
+  </outline>
+</glyph>

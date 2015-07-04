@@ -3,6 +3,12 @@
   <advance width="665"/>
   <outline>
     <component base="G"/>
-    <component base="dieresis.cap" xOffset="198" yOffset="211"/>
+    <component base="dieresis.cap" xOffset="194" yOffset="211"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
 </glyph>

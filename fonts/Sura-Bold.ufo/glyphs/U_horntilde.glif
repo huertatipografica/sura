@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Uhorntilde" format="1">
+  <advance width="779"/>
+  <unicode hex="1EEE"/>
+  <outline>
+    <component base="U"/>
+    <component base="horncomb" xOffset="624" yOffset="-54"/>
+    <component base="tilde.cap" xOffset="195" yOffset="211"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="northWestArrow" format="1">
+  <advance width="600"/>
+  <unicode hex="2196"/>
+  <outline>
+    <contour>
+      <point x="153" y="447" type="line"/>
+      <point x="416" y="184" type="line" smooth="yes"/>
+      <point x="451" y="149"/>
+      <point x="500" y="110"/>
+      <point x="500" y="110" type="curve"/>
+      <point x="500" y="96" type="line"/>
+      <point x="459" y="55" type="line"/>
+      <point x="445" y="55" type="line"/>
+      <point x="432" y="70"/>
+      <point x="410" y="97"/>
+      <point x="396" y="114" type="curve"/>
+      <point x="107" y="403" type="line"/>
+    </contour>
+    <contour>
+      <point x="111" y="455" type="line"/>
+      <point x="500" y="428" type="line"/>
+      <point x="493" y="360" type="line"/>
+      <point x="172" y="383" type="line"/>
+      <point x="195" y="61" type="line"/>
+      <point x="128" y="54" type="line"/>
+      <point x="100" y="444" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

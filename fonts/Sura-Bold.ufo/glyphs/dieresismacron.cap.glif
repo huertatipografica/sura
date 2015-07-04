@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresismacron.cap" format="1">
+  <advance width="360"/>
+  <outline>
+    <component base="dieresismacron" yOffset="-35"/>
+    <contour>
+      <point x="178" y="494" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>

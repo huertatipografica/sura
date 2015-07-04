@@ -53,14 +53,4 @@
       <point x="576" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
-      <string>==aaMatra-deva</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>za-deva</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>za-deva</string>
-    </dict>
-  </lib>
 </glyph>
